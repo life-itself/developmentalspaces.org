@@ -83,39 +83,6 @@ table {
   width: 100%;
 }
 
-.sign_container {
-  width: 100%;
-}
-
-.sign {
-  display: block;
-  margin: 0 auto;
-  width: 100%;
-  padding-top: 35px;
-  padding-bottom: 35px;
-  text-align: center;
-  border: 1px solid black;
-  font-size: 30pt;
-  cursor: pointer;
-  border-radius: 15px;
-  color:white;
-  font-family: "Poppins";
-  background-color: #49a5ff;
-  border: 1px #DDD solid;
-}
-
-.sign:hover {
-  background: #ccc;
-  background-color: #77bcff;
-  border: 1px #DDD solid;
-}
-
-.sign:active {
-  background: #ccc;
-  background-color: #2d82d6;
-  border: 1px #DDD solid;
-}
-
 .citations {
   max-width: 800px;
   overflow-x: hidden;
@@ -183,6 +150,41 @@ table {
   }
 }
 
+.signatories {
+  padding-top: 50px;  
+}
+
 .notes, .notes p {
   font-size: smaller;
+}
+
+.sign_container {
+  width: 100%;
+}
+
+.sign a {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  text-align: center;
+  border: 1px solid black;
+  font-size: 30pt;
+  border-radius: 15px;
+  color:#1b1b1b;
+  text-decoration: none;
+  font-family: "Poppins";
+  background-color: #F0CA5E;
+  border: 0;
+}
+
+.sign a:hover {
+  background-color: #F0CA5Ecc;
+}
+
+.sign:active {
+  background: #ccc;
+  background-color: #2d82d6;
+  border: 1px #DDD solid;
 }
