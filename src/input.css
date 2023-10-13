@@ -16,7 +16,7 @@ body {
   font-family: "Poppins";
   font-size: 14pt;
   overflow-x: hidden;
-  background-color: #ffe1a8bb;
+  background-color: #ffe1a888;
   /* faedcd */
 }
 h1,
@@ -28,6 +28,11 @@ h3 {
 h3 > a {
   font-family: "Poppins";
   font-size: 14pt;
+}
+
+div.title {
+  margin-top: 100px;
+  text-align: center;
 }
 
 hr {
