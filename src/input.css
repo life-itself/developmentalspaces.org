@@ -1,0 +1,183 @@
+/*
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@400&display=swap');
+
+body {
+  margin: 40px auto;
+  max-width: 800px;
+  line-height: 1.6;
+  font-size: 18px;
+  color:#1b1b1b;
+  padding: 0 10px;
+  font-family: "Poppins";
+  font-size: 14pt;
+  overflow-x: hidden;
+  background-color: #ffe1a8bb;
+  /* faedcd */
+}
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+  font-family: "Playfair Display";
+}
+h3 > a {
+  font-family: "Poppins";
+  font-size: 14pt;
+}
+
+hr {
+  height: 2px;
+  border: 0;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0)
+  );
+  max-width: 200px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+footer {
+  margin-top: 400px;
+  color: #666;
+}
+
+p {
+  color: #1b1b1b;
+  font-size: 14pt;
+  text-align: justify;
+}
+
+td {
+  padding: 20px;
+  padding-left: 0;
+  font-size: 18pt;
+  min-height: 80px;
+  vertical-align: top;
+  font-family:"Playfair Display";
+}
+
+td em {
+  padding-top: 10px;
+  clear: both;
+  display: block;
+  font-size: 12pt;
+  font-family:"Poppins";
+}
+
+table {
+  overflow: auto;
+  width: 100%;
+}
+
+.sign_container {
+  width: 100%;
+}
+
+.sign {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  text-align: center;
+  border: 1px solid black;
+  font-size: 30pt;
+  cursor: pointer;
+  border-radius: 15px;
+  color:white;
+  font-family: "Poppins";
+  background-color: #49a5ff;
+  border: 1px #DDD solid;
+}
+
+.sign:hover {
+  background: #ccc;
+  background-color: #77bcff;
+  border: 1px #DDD solid;
+}
+
+.sign:active {
+  background: #ccc;
+  background-color: #2d82d6;
+  border: 1px #DDD solid;
+}
+
+.citations {
+  max-width: 800px;
+  overflow-x: hidden;
+  overflow-wrap: break-word;
+}
+
+.citations p {
+  text-align: left;;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #ccc;
+  font-size:16px;
+}
+
+.address-text{
+  font-size:16px;
+  text-align: left;
+}
+
+.follow_signatories {
+  font-size: 18pt;
+  font-family:"Playfair Display";
+}
+
+.follow_signatories em {
+  font-size: 12pt;
+}
+
+
+@media (max-width: 576px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+    font-size: 22pt;
+  }
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  td {
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+  }
+
+  td:before {
+    position: absolute;
+    top: 12px;
+    left: 6px;
+    width: 200px;
+    padding-right: 40px;
+    white-space: nowrap;
+    margin-left: -150px;
+  }
+
+  p {
+    overflow-wrap: break-word;
+    font-size: 12pt;
+  }
+}
+
+@media (max-width: 1500px) {
+  table{
+    display: table;
+  }
+}
+
+.notes, .notes p {
+  font-size: smaller;
+}
