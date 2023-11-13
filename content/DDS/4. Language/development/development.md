@@ -1,0 +1,1 @@
+What exactly we mean by [[development]] is quite broad, but generally speaking, we mean the cultivation of being, or the capacities which help to enable the cultivation of being. 
