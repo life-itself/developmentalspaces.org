@@ -1,2 +1,0 @@
-
-Here in the [[Organisations]] section, we would like to outline the many different organizations we have looked into. Particularly, this section will also include organizations which themselves have their own 'developmental model and their own ecology of practices'. By incorporating the two, these kinds of organizations are able to have their own meaningful outlook and voice on what makes a space developmental.
