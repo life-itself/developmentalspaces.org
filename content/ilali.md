@@ -2,16 +2,15 @@
 url: https://ilali.global/
 start: 
 end: 
-location: Seattle
+location: US
 target_age: 18-27
-image:
+image: "![[content/assets/ilalilll.jpg]]"
 ---
 
 ## Description 
 
 ILALI is an organization concerned with inner transformation as it relates to place, societal change, and  aims to bring together ‘social’, ‘spiritual’ and ‘scientific’ technology in order to find meaningful ways of learning and living. 
 
-![[../assets/ilalilll.jpg]]
 ## Vision 
 
 Ilali aims to build meaningful regional networks which serve as places for innovative living and learning practices for young adults to take part in so as to transform their communities and themselves. 
