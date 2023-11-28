@@ -12,6 +12,6 @@ target participants:
 # Vision
 # Core Values
 # Program(s) Structure
-inc. duration, cost, learning objectives, etc.
+
 # Practices
 # Resources

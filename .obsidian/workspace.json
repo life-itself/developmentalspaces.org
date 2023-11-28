@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1889cc22ac79b1c7",
+        "id": "1117657e0386598c",
         "type": "tabs",
         "children": [
           {
-            "id": "25e725cf8016e72d",
+            "id": "d81406ab35ef72d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
+                "file": "Content/Ilali.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
+                "file": "Content/Ilali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
+                "file": "Content/Ilali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/DDS content/DDS Exemplars (1)/Organisation Template.md"
+                "file": "Content/Ilali.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25e725cf8016e72d",
+  "active": "d81406ab35ef72d2",
   "lastOpenFiles": [
-    "Life Itself Github can be found here.md",
+    "Content/Template.md",
+    "Content/Ilali.md",
+    "assets",
+    "assets/ilalilll.jpg",
+    "README.md",
+    "Content",
     "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
+    "Life Itself Github can be found here.md",
     "content/DDS content/DDS Exemplars (1)/The Monastic Academy/The Monastic Academy.md",
     "content/DDS content/DDS Exemplars (1)/Ilali/ILALI.md",
     "content/DDS content/DDS Exemplars (1)/Alethia/Alethia.md",
@@ -169,7 +175,6 @@
     "content/DDS content/Template/DDS Template.md",
     "content/DDS content/Template",
     "content/DDS content/model5.jpg",
-    "README.md",
     "content/DDS/5. DDS Organisations/Outline/Outline.md",
     "content/DDS/6. Open ended questions/Open ended Questions.md",
     "content/DDS/3. Ecology of Practices/Ecology of practices.md",
