@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/template.md",
+                "file": "Content/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/template.md",
+                "file": "Content/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/template.md",
+                "file": "Content/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/template.md"
+                "file": "Content/Template.md"
               }
             }
           }
@@ -146,39 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6208ce660d691be",
+  "active": "d81406ab35ef72d2",
   "lastOpenFiles": [
-    "content/Ilali.md",
-    "content/template.md",
-    "content/assets/ilalilll.jpg",
-    "content/assets",
-    "assets",
     "README.md",
-    "content",
-    "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
-    "Life Itself Github can be found here.md",
+    "Content/Template.md",
+    "Content/assets/ilalilll.jpg",
+    "Content/Ilali.md",
+    "content/profiles/Ilali.md",
+    "Content/assets",
+    "Content",
+    "ilalilll.jpg",
+    "content/assets/ilalilll.jpg",
+    "content/profiles",
+    "content/assets",
+    "content/DDS content/prosocial3.jpg",
+    "content/DDS content/prosocial....jpg",
+    "content/DDS content/prosocial  .jpg",
+    "content/DDS content/prosoc1.jpg",
+    "content/DDS content/monastic academy.jpg",
+    "content/DDS content/model5.jpg",
+    "content/DDS content/life-itself.md",
+    "content/DDS content/ilalilll.jpg",
+    "content/DDS content/Resources/Resources/Resources.md",
+    "content/DDS content/Resources/Resources",
+    "content/DDS content/Resources",
+    "content/DDS content/DDS periphery (2)/ProSocial/Prosocial.md",
+    "content/DDS content/DDS periphery (2)/Deep Springs/Deep springs.md",
+    "content/DDS content/DDS periphery (2)/City Year/City Year.md",
     "content/DDS content/DDS Exemplars (1)/The Monastic Academy/The Monastic Academy.md",
     "content/DDS content/DDS Exemplars (1)/Ilali/ILALI.md",
     "content/DDS content/DDS Exemplars (1)/Alethia/Alethia.md",
     "content/DDS content/Actors and the Field/Needs of actors/Needs of Actors.md",
-    "content/DDS content/DDS periphery (2)/City Year/City Year.md",
-    "content/DDS content/DDS periphery (2)/ProSocial/Prosocial.md",
-    "content/DDS content/Resources/Resources/Resources.md",
-    "content/DDS content/Landing page/Deliberately Developmental Spaces.md",
     "content/DDS content/Actors and the Field/Actors/Actors.md",
+    "content/DDS content/Landing page/Deliberately Developmental Spaces.md",
+    "content/DDS content/DDS periphery (2)/ProSocial",
+    "content/DDS content/DDS periphery (2)/Deep Springs",
+    "content/DDS content/DDS periphery (2)/City Year",
+    "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
+    "content/DDS content/DDS Exemplars (1)/The Monastic Academy",
+    "content/template.md",
+    "Life Itself Github can be found here.md",
     "content/DDS content/DDS Exemplars (1)/Organisations/Organisations.md",
-    "content/DDS content/DDS periphery (2)",
     "content/DDS content/DDS Organizations/Rites of Passage/Rites of Passage.md",
     "content/DDS content/DDS Organizations/Buckminster College 1.md",
-    "content/DDS content/DDS periphery (2)/Deep Springs/Deep springs.md",
     "content/DDS content/DDS Organizations/Buckminster College/Buckminster College.md",
-    "content/DDS content/life-itself.md",
     "content/DDS content/Template/DDS Template.md",
-    "content/DDS content/Template",
-    "content/DDS content/model5.jpg",
     "content/DDS/5. DDS Organisations/Outline/Outline.md",
-    "content/DDS/6. Open ended questions/Open ended Questions.md",
-    "content/DDS/3. Ecology of Practices/Ecology of practices.md",
-    "content/DDS/2. Developmental Model/Developmental Model.md"
+    "content/DDS/6. Open ended questions/Open ended Questions.md"
   ]
 }
