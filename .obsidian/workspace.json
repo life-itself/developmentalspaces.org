@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1889cc22ac79b1c7",
+        "id": "1117657e0386598c",
         "type": "tabs",
         "children": [
           {
-            "id": "25e725cf8016e72d",
+            "id": "d81406ab35ef72d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
+                "file": "content/profiles/Ilali.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
+                "file": "content/profiles/Ilali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
+                "file": "content/profiles/Ilali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/DDS content/DDS Exemplars (1)/Organisation Template.md"
+                "file": "content/profiles/Ilali.md"
               }
             }
           }
@@ -146,33 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25e725cf8016e72d",
+  "active": "d81406ab35ef72d2",
   "lastOpenFiles": [
-    "Life Itself Github can be found here.md",
-    "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
+    "ilalilll.jpg",
+    "content/profiles",
+    "content/profiles/Ilali.md",
+    "content/assets",
+    "content/profiles/Ilali.md",
+    "content/DDS content/prosocial3.jpg",
+    "content/DDS content/prosocial....jpg",
+    "content/DDS content/prosocial  .jpg",
+    "content/DDS content/prosoc1.jpg",
+    "content/DDS content/monastic academy.jpg",
+    "content/DDS content/model5.jpg",
+    "content/DDS content/life-itself.md",
+    "content/DDS content/ilalilll.jpg",
+    "content/DDS content/eeemodels-.jpg",
+    "content/DDS content/deliberate-development.jpg",
+    "content/DDS content/ddslogo.jpg",
+    "content/DDS content/Resources/Resources/Resources.md",
+    "content/DDS content/Resources/Resources",
+    "content/DDS content/Resources",
+    "content/DDS content/DDS periphery (2)/ProSocial/Prosocial.md",
+    "content/DDS content/DDS periphery (2)/Deep Springs/Deep springs.md",
+    "content/DDS content/DDS periphery (2)/City Year/City Year.md",
     "content/DDS content/DDS Exemplars (1)/The Monastic Academy/The Monastic Academy.md",
     "content/DDS content/DDS Exemplars (1)/Ilali/ILALI.md",
     "content/DDS content/DDS Exemplars (1)/Alethia/Alethia.md",
     "content/DDS content/Actors and the Field/Needs of actors/Needs of Actors.md",
-    "content/DDS content/DDS periphery (2)/City Year/City Year.md",
-    "content/DDS content/DDS periphery (2)/ProSocial/Prosocial.md",
-    "content/DDS content/Resources/Resources/Resources.md",
-    "content/DDS content/Landing page/Deliberately Developmental Spaces.md",
     "content/DDS content/Actors and the Field/Actors/Actors.md",
+    "content/DDS content/Landing page/Deliberately Developmental Spaces.md",
+    "content/DDS content/DDS periphery (2)/ProSocial",
+    "content/DDS content/DDS periphery (2)/Deep Springs",
+    "content/DDS content/DDS periphery (2)/City Year",
+    "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
+    "content/DDS content/DDS Exemplars (1)/The Monastic Academy",
+    "content/DDS content/DDS Exemplars (1)/Ilali",
+    "content/DDS content/DDS Exemplars (1)/Alethia",
+    "content/template.md",
+    "README.md",
+    "Life Itself Github can be found here.md",
     "content/DDS content/DDS Exemplars (1)/Organisations/Organisations.md",
-    "content/DDS content/DDS periphery (2)",
     "content/DDS content/DDS Organizations/Rites of Passage/Rites of Passage.md",
     "content/DDS content/DDS Organizations/Buckminster College 1.md",
-    "content/DDS content/DDS periphery (2)/Deep Springs/Deep springs.md",
     "content/DDS content/DDS Organizations/Buckminster College/Buckminster College.md",
-    "content/DDS content/life-itself.md",
     "content/DDS content/Template/DDS Template.md",
-    "content/DDS content/Template",
-    "content/DDS content/model5.jpg",
-    "README.md",
     "content/DDS/5. DDS Organisations/Outline/Outline.md",
     "content/DDS/6. Open ended questions/Open ended Questions.md",
-    "content/DDS/3. Ecology of Practices/Ecology of practices.md",
-    "content/DDS/2. Developmental Model/Developmental Model.md"
+    "content/DDS/3. Ecology of Practices/Ecology of practices.md"
   ]
 }
