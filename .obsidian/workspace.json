@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/template.md",
+                "file": "content/Ilali.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/template.md",
+                "file": "content/Ilali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/template.md",
+                "file": "content/Ilali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/template.md"
+                "file": "content/Ilali.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6208ce660d691be",
+  "active": "d81406ab35ef72d2",
   "lastOpenFiles": [
-    "content/Ilali.md",
     "content/template.md",
+    "content/Ilali.md",
     "content/assets/ilalilll.jpg",
     "content/assets",
     "assets",
