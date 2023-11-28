@@ -11,11 +11,9 @@
             "id": "d81406ab35ef72d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Content/Template.md",
-                "mode": "source",
-                "source": false
+                "file": "content/assets/ilalilll.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content/Template.md",
+                "file": "content/assets/ilalilll.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content/Template.md",
+                "file": "content/assets/ilalilll.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content/Template.md"
+                "file": "content/assets/ilalilll.jpg"
               }
             }
           }
@@ -146,15 +144,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d81406ab35ef72d2",
+  "active": "a6208ce660d691be",
   "lastOpenFiles": [
+    "content/template.md",
     "README.md",
-    "Content/Template.md",
-    "Content/assets/ilalilll.jpg",
-    "Content/Ilali.md",
+    "content/assets/ilalilll.jpg",
+    "content/Ilali.md",
     "content/profiles/Ilali.md",
-    "Content/assets",
-    "Content",
+    "content/assets",
+    "content",
     "ilalilll.jpg",
     "content/assets/ilalilll.jpg",
     "content/profiles",
@@ -184,7 +182,6 @@
     "content/DDS content/DDS periphery (2)/City Year",
     "content/DDS content/DDS Exemplars (1)/Organisation Template.md",
     "content/DDS content/DDS Exemplars (1)/The Monastic Academy",
-    "content/template.md",
     "Life Itself Github can be found here.md",
     "content/DDS content/DDS Exemplars (1)/Organisations/Organisations.md",
     "content/DDS content/DDS Organizations/Rites of Passage/Rites of Passage.md",
