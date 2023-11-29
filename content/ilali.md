@@ -11,9 +11,11 @@ contributors: Matthew McCarthy
 ## Description 
 
 ILALI is an organization concerned with inner transformation as it relates to place, societal change, and aims to bring together ‘social’, ‘spiritual’ and ‘scientific’ technology in order to find meaningful ways of learning and living. 
+
 ## Vision 
 
 Ilali aims to build meaningful regional networks which serve as places for innovative living and learning practices for young adults to take part in so as to transform their communities and themselves. 
+
 ## Core values 
 
 There is an emphasis in the organization on worldview literacy: importantly, ‘worldviews’ are not merely intellectual artifacts, but embodied processes, or ways of being and ways of relating. Ilali believes that by understanding through our own bodies the worldviews of others, we might become more ‘developed’, and development is viewed here as, at least in part, the ability to take into consideration other beings when making decisions. Additionally, there are certain practices which might help to enable worldview literacy, which are explored in the Wayfinders program.
