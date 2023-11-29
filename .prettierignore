@@ -1,0 +1,12 @@
+bats/
+test_helper/
+.obsidian/
+.next/
+.contentlayer/
+out/
+dist/
+excalidraw/
+content/
+meta/
+.github/
+pnpm-lock.yaml
