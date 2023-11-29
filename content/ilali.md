@@ -2,7 +2,7 @@
 url: https://ilali.global/
 start: 
 end: 
-location: Seattle
+location: US
 target_age: 18-27
 image: /assets/ilalilll.jpg
 contributors: Matthew McCarthy
