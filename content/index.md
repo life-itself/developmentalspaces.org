@@ -4,44 +4,57 @@ showToc: false
 
 <div className="text-center">
   <h1>
-    Developmental Spaces for a time of Transition
+    Transformational Spaces for a time of Crisis
   </h1>
   <hr />
-  <h2 className="text-3xl font-bold text-center">
-    A Draft Manifesto
+  <h2 className="text-3xl font-bold">
+    A Manifesto
   </h2>
 </div>
 
 <div className="text-2xl">
-We call for the creation of "deliberately developmental spaces" that cultivate the psychological and cultural capacities to respond effectively to the growing crises before us. These spaces can take many forms ranging from courses or programs to physical environments including new forms of monasteries or universities.
 
-### We are experiencing a polycrisis or metacrisis
+<div className="text-2xl text-slate-500 font-light text-justify">
+We call for the creation of transformational "deliberately developmental" spaces. Spaces that cultivate the capacities to respond to the profound challenges we face.
 
-A constellation of escalating and interwoven crises ranging from ecosphere degradation to political polarization. Crucially, these crises are interlinked both in source and solution, linkages which travel all the way down to how we envision ourselves, our societies and our civilization.
+Spaces grounded in the revolutionary research of the last half century about our personal and collective potential for growth and transformation.
 
-### This demands new ways of being personally and collectively
+These spaces can take a multitude of forms from courses and programs to physical environments such as new forms of monasteries or universities.
+</div>
+
+### We face a polycrisis
+
+We are experiencing a polycrisis and metacrisis: a constellation of escalating and interwoven crises ranging from ecosphere degradation to political polarization. Crucially, these crises are interlinked both in source and solution, linkages which travel all the way down to how we envision ourselves, our societies and our civilization.
+
+### This calls for new ways of being in the world
 
 A response to this crisis therefore calls for new ways of being in the world – ways sufficient to bring forth collective movements adequate to addressing this crisis at the level and scale required. Such a transformation in being is essential and foundational.
 
-### How then does such a transformation come about?
+### How can such a transformation come about?
 
 The last few decades have revolutionized our understanding of the potential for human development. We now have substantial evidence on three key points. First, that our development is multi-faceted: including psychological, biological and cultural dimensions. Second, development can be lifelong, continuing throughout adulthood. Third, continued development is neither guaranteed nor straightforward and deliberate effort is often required, especially in adulthood.
 
-### However, we remain stuck in an old paradigm
-
 However, at present, we are almost exclusively raised and educated in mainstream institutions and culture that integrate little of this revolutionary understanding and its potential.
 
-### We need new kinds of spaces: deliberately developmental spaces
+### We need new kinds of space that supports and enables this revolution in our understanding of developmental potential
 
-We need new kinds of spaces grounded in this revolutionary understanding of our developmental potential. Spaces explicitly informed by the idea of – and supporting – sustained, multidimensional and multi-level inner growth, personally and collectively. Going forward, this developmental aspect should be a conscious and central part of the environments we create for youth and young adults, providing the opportunity for them to grow in the profound ways needed to hold the complexity and challenges we currently face. These spaces can take many forms ranging from courses or programs to physical environments including new forms of monasteries or universities.
+We need new kinds of spaces grounded in this revolutionary understanding of our developmental potential. Spaces explicitly informed by – and supporting – sustained, multidimensional and multi-level inner growth, both personally and collectively.
 
-### A cause for hope
+Going forward, this developmental aspect should be a conscious and central part of the environments we create for everyone from eighteen to eighty. These spaces will provide the opportunity for individuals and communities to grow in the profound ways needed to hold the complexity and challenges we currently face.
 
-We are at the point where we have the research to support this, as well as the ideas, methodologies and tools to make this happen. Ultimately, if we see each other differently we may be able to make the difference that has been missing. We can retain our commitment to redressing deep and long standing social injustices whilst also being able to come together to address the profound crisis we face – a crisis which includes and also transcends any of those individual issues.
+These spaces can take many forms ranging from courses or programs to physical environments such as new forms of monasteries or universities.
+
+### Source of hope
+
+We are at the point where we have the research to support this, as well as the ideas, methodologies and tools to make it a reality.
+
+Ultimately, if we see each other differently we may be able to make the difference that has been missing.
+
+We can retain our commitment to redressing deep and long standing social injustices whilst also being able to come together to address the profound crisis we face – a crisis which includes and also transcends any of those individual issues.
 
 ---
 
-## Lead Signatories
+## Founding Signatories
 
 - Oren Slozberg -- *Commonweal*
 - Rufus Pollock -- *Life Itself*
@@ -52,6 +65,13 @@ We are at the point where we have the research to support this, as well as the i
   <a className="text-4xl bg-yellow-400 hover:bg-yellow-500 font-bold no-underline py-6 px-8 rounded-md" href="https://forms.gle/KKfX3ypK3yCHZsgK9">Sign the Manifesto</a>
 </p>
 </div>
+
+## Signatories
+
+*Affiliations are provided for identification purposes only and do not imply any endorsement by the associated institutions.*
+
+- Boaz Feldman  -- _Neurosystemics_
+- James Baker -- Intentional Society
 
 ## Resources
 
