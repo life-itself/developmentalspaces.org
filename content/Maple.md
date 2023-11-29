@@ -4,7 +4,7 @@ start: "2012"
 end: 
 location: US
 target_age: 18+
-image: "![[content/assets/monasticacademy.jpg]]"
+image: monasticacademy.jpg
 ---
 
 ## Description 
