@@ -4,8 +4,8 @@ start:
 end: 
 location: Seattle
 target_age: 18-27
-image: "![[../assets/ilalilll.jpg]]"
-contributors:
+image: "![[..lalilll.jpg]]"
+contributors: Matthew McCarthy
 ---
 
 ## Description 
