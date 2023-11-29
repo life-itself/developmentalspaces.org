@@ -10,7 +10,7 @@ contributors: Matthew McCarthy
 
 ## Description 
 
-MAPLE is a community of practitioners **exploring the intersection of AI and wisdom.** As the world becomes increasingly dominated by algorithms and data processing, we bring our practice into the heart of this critical planetary moment. 
+The Monastic Academy is a community of practitioners **exploring the intersection of AI and wisdom.** As the world becomes increasingly dominated by algorithms and data processing, we bring our practice into the heart of this critical planetary moment. 
 
 ## Vision 
 
@@ -18,11 +18,11 @@ Rooted in wisdom and love, they are striving to build trustworthy systems for hu
 
 ## Core values 
 
-MAPLE, for the most part, uses the Daśabhūmika Sūtra, or the ‘ten stage model’ from the Mahayana Buddhist tradition which is, in many ways, much more rigorous than other developmental approaches we have come across. Development here (even though the word 'development' can be deemed to be problematic) is not only about cultivating being as an individual, but further directing one's effort towards the liberation of all beings.
+The Monastic Academy, for the most part, uses the Daśabhūmika Sūtra, or the ‘ten stage model’ from the Mahayana Buddhist tradition which is, in many ways, much more rigorous than other developmental approaches we have come across. Development here (even though the word 'development' can be deemed to be problematic) is not only about cultivating being as an individual, but further directing one's effort towards the liberation of all beings.
 
 ## Program 
 
-At MAPLE, one can train, co work, or be a part of a residency. The residency that we have highlighted here is the AI residency, which allows for coaching and mentorship as it relates to deeply understanding the relationship between careful development of AI that will benefit all life on earth.
+One can train, co work, or be a part of a residency. The residency that we have highlighted here is the AI residency, which allows for coaching and mentorship as it relates to deeply understanding the relationship between careful development of AI that will benefit all life on earth.
 
 ## Practices 
 
