@@ -4,7 +4,7 @@ start:
 end: 
 location: US
 target_age: 18-27
-image: ilalilll.jpg
+image: /assets/ilalilll.jpg
 ---
 
 ## Description 

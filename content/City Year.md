@@ -4,7 +4,7 @@ start: "1988"
 end: 
 location: US
 target_age: 18-25
-image: city-year.png
+image: /assets/city-year.png
 ---
 ## Description 
 
