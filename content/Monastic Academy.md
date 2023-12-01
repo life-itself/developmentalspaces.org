@@ -37,3 +37,4 @@ In the evening we have another period of either **non-profit work** or **inte
 
 ## Resources 
 
+https://www.monasticacademy.com/resources/meditation/

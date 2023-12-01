@@ -8,7 +8,6 @@ image:
 contributors: Matthew McCarthy
 ---
 
-
 The Bildung Institute is an organization based in the Netherlands which provides developmental education for young adults. They provide in person programs which can last up to 6 months, as well as a range of other courses and events. 
 
 ## Vision 
@@ -31,3 +30,4 @@ To give an example of how one module is structured, there are 4 sections: identi
 
 ## Resources 
 
+https://en.debildungacademie.nl/het-bildung-netwerk

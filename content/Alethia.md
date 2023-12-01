@@ -29,3 +29,4 @@ Based on these four different 'depths', which are and entangled to some degree a
 
 ## Resources 
 
+[The Neuroscience of Enduring transformation](https://libraryofprofessionalcoaching.com/wp-app/wp-content/uploads/2021/06/Steve-March.-The-Neuroscience-of-Enduring-Transformation-V3-final.pdf)

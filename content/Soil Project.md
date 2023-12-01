@@ -29,3 +29,4 @@ Learners take part in Head, Hands, Heart, and Healing the World education, i.e. 
 
 ## Resources 
 
+[Syllabus | The Soil Project A (vcilgroup.wixsite.com)](https://vcilgroup.wixsite.com/thesoilproject/blank-9)

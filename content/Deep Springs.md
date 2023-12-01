@@ -31,3 +31,4 @@ Each student also labors roughly twenty hours each week. Labor positions include
 
 ## Resources 
 
+https://www.deepsprings.edu/media-publications/
