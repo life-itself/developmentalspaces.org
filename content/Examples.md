@@ -1,5 +1,5 @@
 ---
-title: Examples
+title: examples
 ---
 
 This page includes some examples of transformative spaces. 
