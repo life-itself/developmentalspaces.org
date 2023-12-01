@@ -2,7 +2,7 @@
 title: About
 ---
 
-This website intends to pool resources and information on "transformational spaces". It is part of a wider project at Life Itself, in conjunction with Fetzer, Ekskaret, and Commonweal to gather data on and eventually build a field for transformational spaces. Our focus is on an initial "survey of the field", and to map stakeholders and programs and start forging connections and awareness.  Now, we are on programs for youth and young adults (15-25 years old) in the US and Europe, and we will be exploring what it means to be a "transformational space", profile relevant organizations, looking at their programs, approach and philosophy.
+This website intends to pool resources and information on "transformational spaces". It is part of a wider project at Life Itself, in conjunction with Fetzer, Ekskaret, and Commonweal to gather data on and eventually build a field for transformational spaces. Our focus is on an initial "survey of the field", and to map stakeholders and programs and start forging connections and awareness.  Now, we are on programs for youth and young adults (15-25 years old) in the US and Europe, and we will be exploring what it means to be a "transformational space", profile relevant organizations, looking at their programs, approach and philosophy. You can read more about the [[why|why on this page.]]
 
 For now, we define transformational spaces in the following way: 
 
@@ -20,6 +20,8 @@ Of particular importance as we move forward from higher level discussions around
 - How we might marshall the learnings from other spaces and communities and apply them to new contexts
 
 These are all questions we hope to address in our further work.
+
+
 
 
 
