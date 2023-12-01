@@ -25,6 +25,6 @@ Because it leads to more (and better designed) developmental spaces so that more
 
 Build the personal and collective capacities for this, which we believe include broad ontological/inner development (capacities for sensemaking, perspective taking, empathy, agency etc)
 
-### # Why more people with capacities?
+#### Why more people with capacities?
 
 Address the metacrisis, build a flourishing future for humanity -- or handle the inevitable crisis with greater resilience etc.
