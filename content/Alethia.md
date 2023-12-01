@@ -8,7 +8,6 @@ image: /assets/alethia.png
 contributors: Matthew McCarthy
 ---
 
-## Description 
 
 Alethia is an online developmental coaching program. One begins to learn first as a participant through Alethia's method, and then eventually embodies the skills and capacities of being an Alethia coach. Thus, it makes coaches and then these coaches spread the program to then create more coaches. 
 
@@ -30,3 +29,4 @@ Based on these four different 'depths', which are and entangled to some degree a
 
 ## Resources 
 
+[The Neuroscience of Enduring transformation](https://libraryofprofessionalcoaching.com/wp-app/wp-content/uploads/2021/06/Steve-March.-The-Neuroscience-of-Enduring-Transformation-V3-final.pdf)

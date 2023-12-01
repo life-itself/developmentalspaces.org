@@ -8,7 +8,6 @@ image: /assets/monasticacademy.jpg
 contributors: Matthew McCarthy
 ---
 
-## Description 
 
 The Monastic Academy is a community of practitioners **exploring the intersection of AI and wisdom.** As the world becomes increasingly dominated by algorithms and data processing, we bring our practice into the heart of this critical planetary moment. 
 
@@ -38,3 +37,4 @@ In the evening we have another period of either **non-profit work** or **inte
 
 ## Resources 
 
+https://www.monasticacademy.com/resources/meditation/
