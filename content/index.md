@@ -3,18 +3,13 @@ showToc: false
 ---
 
 <div className="text-center">
-  <h1>
-    Transformational Spaces for a time of Crisis
-  </h1>
-  <hr />
-  <h2 className="text-3xl font-bold">
-    A Manifesto
-  </h2>
+  <h1 className="text-5xl leading-normal border-b-slate-500">Transformational Spaces for a time of Crisis<br />🌱</h1>
+  <h2 className="text-4xl font-bold mt-0 mb-20">A Manifesto</h2>
 </div>
 
-<div className="text-2xl">
+<div className="text-xl">
 
-<div className="text-2xl text-slate-500 font-light text-justify">
+<div className="text-2xl text-slate-600 font-light text-justify font-bold leading-snug">
 We call for the creation of transformational "deliberately developmental" spaces. Spaces that cultivate the capacities to respond to the profound challenges we face.
 
 Spaces grounded in the revolutionary research of the last half century about our personal and collective potential for growth and transformation.

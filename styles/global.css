@@ -83,3 +83,29 @@ html {
     visibility: hidden;
   }
 }
+
+/**
+ * End Flowershow Fonts
+ */
+
+
+/* Fonts */
+@font-face {
+  font-family: "Restora";
+  src: url("/fonts/Restora.ttf");
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Restora";
+  src: url("/fonts/RestoraBold.ttf");
+  font-style: bold;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Restora";
+  src: url("/fonts/RestoraExtraLight.otf");
+  font-style: light;
+  font-display: swap;
+}
+

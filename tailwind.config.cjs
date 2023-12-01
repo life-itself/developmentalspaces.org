@@ -21,7 +21,7 @@ module.exports = {
         sans: ["ui-sans-serif", ...defaultTheme.fontFamily.sans],
         serif: ["ui-serif", ...defaultTheme.fontFamily.serif],
         mono: ["ui-monospace", ...defaultTheme.fontFamily.mono],
-        headings: ["-apple-system", ...defaultTheme.fontFamily.sans],
+        headings: ["Restora", ...defaultTheme.fontFamily.sans],
       },
       colors: {
         background: {
@@ -32,9 +32,10 @@ module.exports = {
           DEFAULT: colors.gray[700],
           dark: colors.gray[300],
         },
+        // lifeitself theme color
         secondary: {
-          DEFAULT: colors.sky[400],
-          dark: colors.sky[400],
+          DEFAULT: "#F0CA5E",
+          dark: "#F0CA5E",
         },
       },
     },
