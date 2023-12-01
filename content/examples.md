@@ -2,7 +2,7 @@
 title: examples
 ---
 
-This page includes some examples of transformative spaces. 
+This page includes some examples of transformational spaces. 
 
 - [[Monastic Academy]]
 - [[Ilali]]
