@@ -1,17 +1,14 @@
 ---
 title: Examples
 ---
-This page includes some examples for what we think a TS/DDS is. 
 
-[[Monastic Academy]]
+This page includes some examples of transformative spaces. 
 
-[[Ilali]]
-
-[[Soil Project]]
-
-[[The International Youth Initiative Program]]
-
-[[Bildung Institute]]
+- [[Monastic Academy]]
+- [[Ilali]]
+- [[Soil Project]]
+- [[The International Youth Initiative Program]]
+- [[Bildung Institute]]
 
 
 
