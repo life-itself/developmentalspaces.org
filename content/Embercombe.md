@@ -4,11 +4,15 @@ start: "2000"
 end: 
 location: UK
 target_age: 18+
-image: /assets/embercombe1.jpg
+image: 
 contributors: Matthew McCarthy
 ---
 
+## Embercombe 
+
 Embercombe is a 50 acre 're-wilding estate' located in England. They offer a range of courses and programs that helps participants to "reconnect with the wild authentic self and to live a passionate and purposeful life in service of a flourishing world for all species."
+
+![[/assets/embercombe-dds.jpg]]
 
 ## Vision
 

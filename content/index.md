@@ -69,6 +69,7 @@ We can retain our commitment to redressing deep and long standing social injusti
 - James Baker -- *Intentional Society*
 - John Stokes -- *Real Ventures / OSMO Foundation*
 - Matthew McCarthy -- *Life Itself*
+- Joe Ross -- J & R partners
 
 ## Resources
 
