@@ -4,7 +4,7 @@ start:
 end: 
 location: Netherlands
 target_age: 18-25
-image: 
+image: /assets/Bildung.jpg
 contributors: Matthew McCarthy
 ---
 

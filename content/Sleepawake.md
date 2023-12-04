@@ -8,7 +8,6 @@ image: /assets/sleepawake.png
 contributors: Matthew McCarthy
 ---
 
-
 Sleepawake is a 4-week residential intensive for 18-27 year olds to explore the potent paths to embodied, engaged, and authentic living.
 
 ## Vision 

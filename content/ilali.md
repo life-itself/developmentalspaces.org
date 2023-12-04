@@ -8,7 +8,6 @@ image: /assets/ilalilll.jpg
 contributors: Matthew McCarthy
 ---
 
-
 ILALI is an organization concerned with inner transformation as it relates to place, societal change, and aims to bring together ‘social’, ‘spiritual’ and ‘scientific’ technology in order to find meaningful ways of learning and living. 
 
 ## Vision 
