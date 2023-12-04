@@ -8,7 +8,11 @@ image: /assets/agaia.jpg
 contributors: Matthew McCarthy
 ---
 
+## Agaia 
+
 Agaia is an organization that provides coliving retreats for impact-driven entrepreneurs, nomads, and communities in Italy.
+
+![[/assets/agaia.jpg]]
 
 ## Vision  
 

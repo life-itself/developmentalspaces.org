@@ -8,8 +8,11 @@ image: /assets/alethia.png
 contributors: Matthew McCarthy
 ---
 
+## Alethia 
 
 Alethia is an online developmental coaching program. One begins to learn first as a participant through Alethia's method, and then eventually embodies the skills and capacities of being an Alethia coach. Thus, it makes coaches and then these coaches spread the program to then create more coaches. 
+
+![[/assets/alethia-dds.jpg]]
 
 ## Vision  
 
