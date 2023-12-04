@@ -8,7 +8,6 @@ image: /assets/city-year.png
 contributors: Matthew McCarthy
 ---
 
-
 City Year is a program that connects gap year students to organizations that aim to build and foster community and educational connections through the 1-year student success coach program. They recruit and train AmeriCorps members who serve in schools, partner with teachers to support student academic, social and emotional growth. 
 
 ## Vision  
@@ -25,8 +24,7 @@ City Year also puts a strong multi-level emphasis on linking their coaches to th
 
 ## Practices 
 
-City Year AmeriCorps have both an inner focus and multi-level approach to developing their Student Success Coaches. Their program connects gap year students to organizations that aim to build and foster community and educational connections through the 1-year student success coach program. Coaches are trained and supported in their own social-emotional abilities, using these as primary tools to then coach the students with individualized academic and socio-emotional learning. This allows for the quality of the relationship between the coach and the student to be at the center of their work, reorienting academic performance through a humanistic lens.Coaches are encouraged to embody  a self-led experimental approach to problem-solving and an ‘asset-based mindset’ where coaches are positively reinforced in their strengths, facilitating socio-emotional development, and this is then reproduced in their way of working with youth.
-
+City Year AmeriCorps have both an inner focus and multi-level approach to developing their Student Success Coaches. Their program connects gap year students to organizations that aim to build and foster community and educational connections through the 1-year student success coach program. Coaches are trained and supported in their own social-emotional abilities, using these as primary tools to then coach the students with individualized academic and socio-emotional learning. This allows for the quality of the relationship between the coach and the student to be at the center of their work, reorienting academic performance through a humanistic lens. Coaches are encouraged to embody  a self-led experimental approach to problem-solving and an ‘asset-based mindset’ where coaches are positively reinforced in their strengths, facilitating socio-emotional development, and this is then reproduced in their way of working with youth.
 
 ## Resources 
 

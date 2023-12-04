@@ -8,7 +8,6 @@ image: " /assets/YIP.png"
 contributors: Matthew McCarthy, Catherine Tran
 ---
 
-
 The International Youth Initiative Program (YIP) is a 10 month residential societal entrepreneurship training for 18-28 years olds based in Sweden. It offers a holistic educational program that expands global understanding and personal awareness. 
 
 ## Vision 
