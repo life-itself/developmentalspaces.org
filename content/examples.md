@@ -4,11 +4,11 @@ title: Examples
 
 This page includes some examples of transformational spaces. 
 
-- [[agaia]]
-- [[alethia]]
-- [[bildung Institute]]
-- [[city-year]]
-- [[deep-springs]]
+- [[agaia|Agaia]]
+- [[alethia|Alethia]]
+- [[bildung-institute|Bildung Institute]]
+- [[city-year|City Year]]
+- [[deep-springs|Deep Springs ]]
 - [[embercombe]]
 - [[Ilali]]
 - [[katimavik]]
