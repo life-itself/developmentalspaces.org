@@ -12,7 +12,7 @@ contributors: Matthew McCarthy
 
 The Monastic Academy is a community of practitioners **exploring the intersection of AI and wisdom.** As the world becomes increasingly dominated by algorithms and data processing, we bring our practice into the heart of this critical planetary moment. 
 
-![[content/assets/monastic-academy-dds.jpg]]
+![[../content/assets/monastic-academy-dds.jpg]]
 
 ## Vision
 
