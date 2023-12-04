@@ -4,7 +4,7 @@ start: "2000"
 end: 
 location: UK
 target_age: 18+
-image: /assets/embercombe-dds.jpg
+image: 
 contributors: Matthew McCarthy
 ---
 

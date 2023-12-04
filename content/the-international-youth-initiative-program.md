@@ -4,7 +4,7 @@ start:
 end: 
 location: Sweden
 target_age: 18-28
-image: " /assets/YIP.png"
+image: 
 contributors: Matthew McCarthy, Catherine Tran
 ---
 

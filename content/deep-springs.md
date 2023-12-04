@@ -4,7 +4,7 @@ start: "1917"
 end: 
 location: US
 target_age: 17-23
-image: /assets/deepspringscollege.png
+image: 
 contributors: Matthew McCarthy, Boaz Feldman
 ---
 

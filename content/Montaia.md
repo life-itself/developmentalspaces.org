@@ -4,7 +4,7 @@ start: "2017"
 end: 
 location: US
 target_age: 18+
-image: /assets/montaia.jpg
+image: 
 contributors: Matthew McCarthy
 ---
 

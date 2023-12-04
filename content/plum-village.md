@@ -4,7 +4,7 @@ start: "1982"
 end: 
 location: France
 target_age: 18+
-image: /assets/plum-village.jpg
+image: 
 contributors: Matthew McCarthy
 ---
 

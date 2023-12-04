@@ -4,7 +4,7 @@ start: "1977"
 end: 
 location: Canada
 target_age: 17-25
-image: /assets/katimavik.jpg
+image: 
 contributors: Matthew McCarthy
 ---
 

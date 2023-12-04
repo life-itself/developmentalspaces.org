@@ -4,7 +4,7 @@ start:
 end: 
 location: Italy
 target_age: 18+
-image: /assets/agaia.jpg
+image: 
 contributors: Matthew McCarthy
 ---
 

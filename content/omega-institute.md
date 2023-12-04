@@ -4,7 +4,7 @@ start: "2012"
 end: 
 location: US
 target_age: 18+
-image: /assets/omega-institute.jpg
+image: 
 contributors: Matthew McCarthy
 ---
 

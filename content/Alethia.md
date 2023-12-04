@@ -4,7 +4,7 @@ start:
 end: 
 location: Virtual
 target_age: 18+
-image: /assets/alethia.png
+image: 
 contributors: Matthew McCarthy
 ---
 
