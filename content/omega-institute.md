@@ -12,7 +12,7 @@ contributors: Matthew McCarthy
 
 Omega Institute for Holistic Studies is a non-profit educational retreat center located in Rhinebeck, New York.
 
-![[/assets/omega-institute.jpg]]
+![[assets/omega-institute.jpg]]
 
 ## Vision 
 
