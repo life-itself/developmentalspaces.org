@@ -4,11 +4,15 @@ start: "1988"
 end: 
 location: US
 target_age: 18-25
-image: /assets/city-year.png
+image: 
 contributors: Matthew McCarthy
 ---
 
+## City Year 
+
 City Year is a program that connects gap year students to organizations that aim to build and foster community and educational connections through the 1-year student success coach program. They recruit and train AmeriCorps members who serve in schools, partner with teachers to support student academic, social and emotional growth. 
+
+![[content/assets/city-year.png]]
 
 ## Vision  
 

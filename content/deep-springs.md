@@ -4,11 +4,15 @@ start: "1917"
 end: 
 location: US
 target_age: 17-23
-image: /assets/deepspringscollege.png
+image: 
 contributors: Matthew McCarthy, Boaz Feldman
 ---
 
+## Deep Springs 
+
 Deep Springs College is a unique institution of higher learning. The educational program is built upon three pillars: academics, student self-government, and manual labor. The school is located forty miles from Bishop, California on an isolated cattle ranch in Deep Springs Valley.
+
+![[content/assets/deepspringscollege.png]]
 
 ## Vision  
 

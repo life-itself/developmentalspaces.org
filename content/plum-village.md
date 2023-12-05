@@ -4,11 +4,15 @@ start: "1982"
 end: 
 location: France
 target_age: 18+
-image: /assets/plum-village.jpg
+image: 
 contributors: Matthew McCarthy
 ---
 
+## Plum Village 
+
 Plum Village Monastery is a Buddhist monastery of the Plum Village Tradition in the Dordogne, southern France near the city of Bordeaux. It was founded by two Vietnamese monastics, Thích Nhất Hạnh and Chân Không, in 1982.
+
+![[content/assets/plum-village.jpg]]
 
 ## Vision 
 

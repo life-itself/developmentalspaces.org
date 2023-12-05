@@ -4,11 +4,15 @@ start:
 end: 
 location: US
 target_age: 18-27
-image: /assets/ilalilll.jpg
+image: 
 contributors: Matthew McCarthy
 ---
 
+## Ilali 
+
 ILALI is an organization concerned with inner transformation as it relates to place, societal change, and aims to bring together ‘social’, ‘spiritual’ and ‘scientific’ technology in order to find meaningful ways of learning and living. 
+
+![[content/assets/ilali.jpg]]
 
 ## Vision 
 
