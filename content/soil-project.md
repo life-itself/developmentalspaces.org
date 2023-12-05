@@ -7,11 +7,12 @@ target_age: 18-25
 image: 
 contributors: Matthew McCarthy
 ---
+
 ## The Soil Project 
 
 The Soil Project (TSP) is an international alternative higher education and gap year program serving as an initiative toward a new paradigm of education in 21st century by completely changing the way that education has been happened including philosophy, educational goals, content and learning methods and even credentials.
 
-![[assets/soil-project-dds.jpg]]
+![[soil-project-dds.jpg]]
 
 ## Vision 
 
