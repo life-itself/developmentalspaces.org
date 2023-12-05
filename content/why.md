@@ -28,5 +28,3 @@ Build the personal and collective capacities for this, which we believe include 
 #### Why more people with capacities?
 
 Address the metacrisis, build a flourishing future for humanity -- or handle the inevitable crisis with greater resilience etc.
-
-![[assets/Bildung.jpg]]
