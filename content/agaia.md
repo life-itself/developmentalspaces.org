@@ -1,14 +1,14 @@
 ---
 url: https://agaia-coliving.com/
-start: 
+start: 2022
 end: 
 location: Italy
 target_age: 18+
-image: 
+image: /assets/agaia.jpg
 contributors: Matthew McCarthy
 ---
 
-## Agaia 
+# Agaia 
 
 Agaia is an organization that provides coliving retreats for impact-driven entrepreneurs, nomads, and communities in Italy.
 
