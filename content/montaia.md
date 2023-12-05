@@ -12,7 +12,7 @@ contributors: Matthew McCarthy
 
 Montaia is a regenerative co living laboratory located in California. It is "a space designed to facilitate experiences that reconnect us to each other and the natural world." 
 
-![[content/assets/montaia.jpg]]
+![[assets/montaia.jpg]]
 
 ## Vision  
 

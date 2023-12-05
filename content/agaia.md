@@ -12,11 +12,11 @@ contributors: Matthew McCarthy
 
 Agaia is an organization that provides coliving retreats for impact-driven entrepreneurs, nomads, and communities in Italy.
 
-![[content/assets/agaia.jpg]]
+![[assets/agaia.jpg]]
 
 ## Vision  
 
-Along with their core values, a key vision that they have is reimagining work. As they put it on their website, "Let´s think New Work one step further. How about a holistic concept where we live in intentional, value-driven communities? How about re-shaping our current lifestyle to a regenerative one, in support of and in harmony with nature, focused on what truely matters?"
+Along with their core values, a key vision that they have is reimagining work. As they put it on their website, "Let´s think New Work one step further. How about a holistic concept where we live in intentional, value-driven communities? How about re-shaping our current lifestyle to a regenerative one, in support of and in harmony with nature, focused on what truly matters?"
 
 ## Core values 
 
