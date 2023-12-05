@@ -1,14 +1,14 @@
 ---
 url: https://vcilgroup.wixsite.com/thesoilproject
-start: 
+start: 2017
 end: 
 location: Vietnam
 target_age: 18-25
-image: 
+image: /assets/soil-project-dds.jpg
 contributors: Matthew McCarthy
 ---
 
-## The Soil Project 
+# The Soil Project 
 
 The Soil Project (TSP) is an international alternative higher education and gap year program serving as an initiative toward a new paradigm of education in 21st century by completely changing the way that education has been happened including philosophy, educational goals, content and learning methods and even credentials.
 

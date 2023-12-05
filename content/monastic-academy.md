@@ -4,11 +4,11 @@ start: "2012"
 end: 
 location: US
 target_age: 18+
-image: 
+image: /assets/monastic-academy-dds.jpg
 contributors: Matthew McCarthy
 ---
 
-## Monastic Academy 
+# Monastic Academy 
 
 The Monastic Academy is a community of practitioners **exploring the intersection of AI and wisdom.** As the world becomes increasingly dominated by algorithms and data processing, we bring our practice into the heart of this critical planetary moment. 
 

@@ -1,14 +1,14 @@
 ---
 url: https://www.sleepawake.camp/about
-start: 
+start: 2021
 end: 
 location: US
 target_age: 18-27
-image: 
+image: /assets/sleepawake.png
 contributors: Matthew McCarthy
 ---
 
-## Sleepawake
+# Sleepawake
 
 Sleepawake is a 4-week residential intensive for 18-27 year olds to explore the potent paths to embodied, engaged, and authentic living.
 
