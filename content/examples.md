@@ -4,7 +4,7 @@ title: Examples
 
 This page includes some examples of transformational spaces. 
 
-- [[agaia|Agaia]]
+- [[traditional-dream-factory|Agaia]]
 - [[alethia|Alethia]]
 - [[bildung-institute|Bildung Institute]]
 - [[city-year|City Year]]
