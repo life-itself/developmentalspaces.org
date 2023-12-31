@@ -71,6 +71,7 @@ We can retain our commitment to redressing deep and long standing social injusti
 - Matthew McCarthy -- *Life Itself*
 - Joe Ross --  *J & R partners*
 - Jonas Søvik -- *Nordic Bildung*
+- Karl Steyaert -- *Cultural Catalyst Network*
 
 ## Resources
 
