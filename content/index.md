@@ -72,6 +72,12 @@ We can retain our commitment to redressing deep and long standing social injusti
 - Joe Ross --  *J & R partners*
 - Jonas Søvik -- *Nordic Bildung*
 - Karl Steyaert -- *Cultural Catalyst Network*
+- Katie Hodgetts -- *The Resilience Project*
+- An Van Damme -- *Art of Hosting Conversations that Matter*
+- Isabela Granic -- *McMaster University and Liminal Learning*
+- Martin Wollny 
+- Alex de Carvalho 
+- Simon Grant -- *poly-affiliated* 
 
 ## Resources
 
