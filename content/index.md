@@ -75,8 +75,8 @@ We can retain our commitment to redressing deep and long standing social injusti
 - Katie Hodgetts -- *The Resilience Project*
 - An Van Damme -- *Art of Hosting Conversations that Matter*
 - Isabela Granic -- *McMaster University and Liminal Learning*
-- Martin Wollny -- 
-- Alex de Carvalho -- 
+- Martin Wollny 
+- Alex de Carvalho 
 - Simon Grant -- *poly-affiliated* 
 
 ## Resources
