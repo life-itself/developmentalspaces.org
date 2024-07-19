@@ -1,5 +1,5 @@
 export default {
-  title: '🌱 Transformational Spaces',
+  title: '🌱 Developmental Spaces',
   author: 'Life Itself, Commonweal, Ekskaret',
   authorLogo: 'https://lifeitself.org/assets/site/life-itself-logo.svg',
   authorUrl: 'https://lifeitself.org/',
