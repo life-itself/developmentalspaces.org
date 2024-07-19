@@ -10,6 +10,7 @@ export default {
     { href: '/why', name: 'Why' },
     { href: '/network', name: 'Network' },
     { href: '/about', name: 'About' },
+    { href: 'https://developmentalspaces.substack.com', name: 'News' },
   ],
   theme: {
     default: ''
