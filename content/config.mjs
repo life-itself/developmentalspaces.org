@@ -7,6 +7,7 @@ export default {
   navLinks: [
     { href: '/', name: 'Manifesto' },
     { href: '/examples', name: 'Examples' },
+    { href: '/what', name: 'What' },
     { href: '/why', name: 'Why' },
     { href: '/network', name: 'Network' },
     { href: '/about', name: 'About' },
