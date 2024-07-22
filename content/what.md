@@ -1,10 +1,14 @@
 ---
-title: What is a transformative 'deliberately developmental' space?
+title: What is a (deliberately) developmental space?
 ---
 
-> [!note] Centers more than boundaries
->
-> We prefer to talk more in terms of centers than boundaries in saying "what" a developmental space is. Specifically, there is no rigid delineation of a development space that allow us to precisely "this is" [a space] and "this is not". Rather, the definitions we offer should be thought of as sketches or outlines of a *center* in a conceptual field which a given instance is more or less close to.
+## Preface: Centers more than boundaries
+
+In talking about the "what" of developmental spaces we emphasize that we prefer the metaphor of centers rather than boundaries. That is, we offer definitions as outlines of a *center* of a conceptual field for developmental spaces -- which a given concrete example is more or less close to. We are *not* aiming for rigid boundaries that allow for precise determinations e.g. that "this is" [a space] and "this is not".
+
+## Outlines
+
+### From the 2021 essay
 
 The first sketch of a definition was in the [original essay](lhttps://lifeitself.org/blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis):
 
