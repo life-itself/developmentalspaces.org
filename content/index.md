@@ -77,7 +77,8 @@ We can retain our commitment to redressing deep and long standing social injusti
 - Isabela Granic -- *McMaster University and Liminal Learning*
 - Martin Wollny 
 - Alex de Carvalho 
-- Simon Grant -- *poly-affiliated* 
+- Simon Grant -- *poly-affiliated*
+- John Oliver -- Organizational development consultant and artist (Tyler World)
 
 ## Resources
 
