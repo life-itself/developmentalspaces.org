@@ -4,7 +4,13 @@ title: Examples
 
 This page includes some examples of transformational spaces. 
 
+## Examples
+
+<List dir="/examples" slots={{ headline: "title", media: "image", footnote: "contributors" }}/>
+
+
 ## Examples closer to 'the center'
+
 - [[traditional-dream-factory|Agaia]]
 - [[alethia|Alethia]]
 - [[bildung-institute|Bildung Institute]]
