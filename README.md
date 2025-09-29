@@ -2,6 +2,8 @@
 title: Developmental spaces
 description: "Dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development in the service of socio-cultural transformation."
 showHero: true
+showToc: false
+showSidebar: false
 cta:
   - href: tbd
     label: Read the whitepaper
