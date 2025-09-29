@@ -1,11 +1,8 @@
 ---
 showToc: false
+title: Developmental Spaces for a time of Crisis 🌱
+description: A Manifesto
 ---
-
-<div className="text-center">
-  <h1 className="text-5xl leading-normal border-b-slate-500">Developmental Spaces for a time of Crisis<br />🌱</h1>
-  <h2 className="text-4xl font-bold mt-0 mb-20">A Manifesto</h2>
-</div>
 
 <div className="text-xl">
 
