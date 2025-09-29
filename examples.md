@@ -6,7 +6,7 @@ This page includes some examples of transformational spaces.
 
 ## Examples
 
-<List dir="/examples" slots={{ headline: "title", media: "image", footnote: "contributors" }}/>
+<List dir="/examples" slots={{ headline: "title", media: "image", footnote: "contributors", eyebrow: "location" }}/>
 
 
 ## Examples closer to 'the center'
