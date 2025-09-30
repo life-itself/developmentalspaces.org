@@ -2,17 +2,17 @@
 title: Examples
 ---
 
-This page includes some examples of transformational spaces. 
+Explore existing communities and institutions that embody developmental principles.
 
 ## Examples
 
 <List dir="/examples" slots={{ headline: "title", media: "image", footnote: "contributors", eyebrow: "location" }}/>
 
 
-## Examples closer to 'the center'
+## Strong alignment
 
-- [[traditional-dream-factory|Agaia]]
-- [[alethia|Alethia]]
+- [[agaia|Agaia]]
+- [[aletheia|Aletheia]]
 - [[bildung-institute|Bildung Institute]]
 - [[city-year|City Year]]
 - [[deep-belonging|Deep Belonging]]
@@ -35,7 +35,7 @@ This page includes some examples of transformational spaces.
 - [[thoreau-college|Thoreau College]]
 
 
-## Examples closer to the 'periphery'
+## Partial alignment
 
 - [[center-for-systems-awareness|Center for Systems Awareness]]
 - [[deep-springs|Deep Springs]]
