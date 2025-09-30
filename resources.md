@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: "Resources"
 ---
 ## Stay in touch
 
