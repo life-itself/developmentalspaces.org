@@ -4,8 +4,6 @@ title: Examples
 
 Explore existing communities and institutions that embody developmental principles.
 
-## Examples
-
 <List dir="/examples" slots={{ headline: "title", media: "image", eyebrow: "location" }}/>
 
 
