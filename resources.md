@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-description: 📖
+description: "📖"
 ---
 ## Stay in touch
 
