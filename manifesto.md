@@ -1,10 +1,14 @@
 ---
 showToc: false
-title: Developmental Spaces - Cultural incubators for a time of transformation
-description: A Manifesto
+title: Developmental Spaces
+description: Cultural incubators for a time of transformation
 ---
 
 <div className="text-xl">
+
+A Manifesto
+
+</div>
 
 <div className="text-2xl text-slate-600 font-light text-justify font-bold leading-snug">
 
