@@ -1593,7 +1593,7 @@ h1,h2,h3,h4,h5,h6 {
     background-color: var(--color-foreground-700); /* CHANGED */
 }
 
-.page-hero-cta:nth-of-type(2) {
+.page-hero-cta + .page-hero-cta {
     padding: 1rem 2rem; /* CHANGED */
     border-width: 1px; /* CHANGED */
     border-color: var(--color-foreground-50); /* CHANGED */
