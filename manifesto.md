@@ -57,7 +57,7 @@ As such, from eighteen to eighty, everyone should have access to environments ex
 
 *Affiliations are provided for identification purposes only and do not imply any endorsement by the associated institutions.*
 
-- Boaz Feldman  -- _Neurosystemics_
+- Boaz Feldman  -- *Neurosystemics*
 - James Baker -- *Intentional Society*
 - John Stokes -- *Real Ventures / OSMO Foundation*
 - Matthew McCarthy -- *Life Itself*
@@ -69,7 +69,10 @@ As such, from eighteen to eighty, everyone should have access to environments ex
 - Isabela Granic -- *McMaster University and Liminal Learning*
 - Martin Wollny 
 - Alex de Carvalho 
-- Simon Grant -- *poly-affiliated*
-- John Oliver -- Organizational development consultant and artist (Tyler World)
+- Simon Grant -- Poly-affiliated
+- John Oliver -- Organizational development consultant and artist, _Tyler.World_
+- Danielle Johnson
+- Florian Huss -- _Be Able_
+- Leif Hejdenberg -- _The Association Next Generation Leadership_ 
 
 
