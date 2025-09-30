@@ -6,7 +6,7 @@ Explore existing communities and institutions that embody developmental principl
 
 ## Examples
 
-<List dir="/examples" slots={{ headline: "title", media: "image", footnote: "contributors", eyebrow: "location" }}/>
+<List dir="/examples" slots={{ headline: "title", media: "image", footnote: "start", eyebrow: "location" }}/>
 
 
 ## Strong alignment
