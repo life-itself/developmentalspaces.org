@@ -7,7 +7,7 @@ Sign up to our newsletter: https://developmentalspaces.substack.com
 
 ## Reference materials
 
-Developmental Spaces: Building the case (White Paper 2025) 
+[_Developmental Spaces: Building the case_ (White Paper 2025)](https://developmentalspaces.org/paper) 
 
 Developmental Spaces: Building the case (Summary Paper 2025) 
 
