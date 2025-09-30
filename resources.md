@@ -5,7 +5,11 @@ title: "Resources"
 
 Sign up to our newsletter: https://developmentalspaces.substack.com
 
-## Resources
+## Reference materials
+
+Developmental Spaces: Building the case (White Paper 2025) 
+
+Developmental Spaces: Building the case (Summary Paper 2025) 
 
 [Deliberately Developmental Spaces: a key to addressing the Metacrisis? (2021)](https://lifeitself.org/blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis) — by Rufus Pollock and Theo Cox.
 
@@ -13,6 +17,6 @@ Sign up to our newsletter: https://developmentalspaces.substack.com
 
 [Springboard](https://www.springboardlife.org/) — Springboard works to advance programs that intentionally foster the personal development of young adults and support them in cultivating meaning, purpose, and the inner resources needed to manifest their calling. Our purpose is to develop a generation of leaders empowered to address the urgent issues of our time.
 
-[Building the Field for Deliberately Developmental Spaces](https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces) – a collaborative initiative between Life Itself, Fetzer Institute, Commonweal and Eskäret Foundation that is a first step in a field-building effort. The manifesto above is connnected to this effort to forge an emerging field.
+[Building the Field for Deliberately Developmental Spaces](https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces) – a collaborative initiative between Life Itself, Fetzer Institute, Commonweal and Eskäret Foundation that is a first step in a field-building effort.  (Our manifesto is linked with this effort to forge an emerging field.)
 
 [The Nordic Secret: A European story of beauty and freedom](https://www.nordicsecret.org/) by Lene Rachel Andersen and Tomas Björkman (2017).
