@@ -1,3 +1,9 @@
+---
+title: Resources
+---
+## Stay in touch
+
+Sign up to our newsletter: https://developmentalspaces.substack.com
 
 ## Resources
 
