@@ -1,6 +1,6 @@
 ---
 showToc: false
-title: Developmental Spaces: Cultural incubators for a time of transformation
+title: Developmental Spaces - Cultural incubators for a time of transformation
 description: A Manifesto
 ---
 
