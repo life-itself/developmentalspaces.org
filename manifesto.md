@@ -12,9 +12,9 @@ We call for the creation of "Developmental Spaces”:
 
 _Dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development, in the service of socio-cultural transformation_
 
-<br>**Incubators for inner-led cultural transition**, in response to profound global challenges.
-<br>**Spaces of sustained community**, that support ways of life counter to the mainstream.
-<br>**Ecologies of practice** grounded in the revolutionary research of recent decades, revealing our personal and collective potential for inner growth and transformation.
+<br>**Incubators for inner-led cultural transition**, in response to profound global challenges.</br>
+<br>**Spaces of sustained community**, that support ways of life counter to the mainstream.</br>
+<br>**Ecologies of practice** grounded in the revolutionary research of recent decades, revealing our personal and collective potential for inner growth and transformation.</br>
 
 </div>
 
