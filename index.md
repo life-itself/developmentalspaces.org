@@ -1,6 +1,6 @@
 ---
 title: Developmental spaces
-description: "Dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development in the service of socio-cultural transformation."
+description: "Cultural incubators for a time of transformation"
 showHero: true
 showToc: false
 showSidebar: false
@@ -10,6 +10,11 @@ cta:
   - href: /manifesto
     label: Sign the manifesto
 ---
+
+Wise system transformation depends upon inner growth - but modern societies lack the understanding and tools to support it. We need more Developmental Spaces:
+ 
+Dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development in the service of socio-cultural transformation.
+
 
 ## Why?
 
