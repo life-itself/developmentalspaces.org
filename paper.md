@@ -1,3 +1,3 @@
 ---
-title: "Paper"
+title: "White paper"
 ---
