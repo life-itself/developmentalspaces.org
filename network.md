@@ -1,6 +1,6 @@
 ---
 title: Network
 ---
-We are organizing a network of individuals and organizations interested in transformative spaces -- whether creating, researching or resourcing them.
+We’re convening a network of individuals and organizations interested in developmental spaces: building, researching or resourcing.
 
-If you are interested in joining the network please contact matthew@lifeitself.org.
+If you are interested in joining, please contact **(TODO: update contact person or make a group)**
