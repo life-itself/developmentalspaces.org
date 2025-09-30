@@ -1,17 +1,21 @@
 ---
 showToc: false
-title: Developmental Spaces for a time of Crisis 🌱
+title: Developmental Spaces: Cultural incubators for a time of transformation
 description: A Manifesto
 ---
 
 <div className="text-xl">
 
 <div className="text-2xl text-slate-600 font-light text-justify font-bold leading-snug">
-We call for the creation of transformational "deliberately developmental" spaces. Spaces that cultivate the capacities to respond to the profound challenges we face.
 
-Spaces grounded in the revolutionary research of the last half century about our personal and collective potential for growth and transformation.
+We call for the creation of "Developmental Spaces”:  
 
-These spaces can take a multitude of forms from courses and programs to physical environments such as new forms of monasteries or universities.
+_Dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development, in the service of socio-cultural transformation_
+
+- **Incubators for inner-led cultural transition**, in response to profound global challenges.
+- **Spaces of sustained community**, that support ways of life counter to the mainstream.
+- **Ecologies of practice** grounded in the revolutionary research of recent decades, revealing our personal and collective potential for inner growth and transformation.
+
 </div>
 
 ### We face a polycrisis
