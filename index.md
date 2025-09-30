@@ -8,6 +8,8 @@ showSidebar: false
 cta:
   - href: tbd
     label: Read the whitepaper
+  - href: tbd
+    label: Read a summary
   - href: /manifesto
     label: Sign the manifesto
 ---
