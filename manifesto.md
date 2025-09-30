@@ -12,50 +12,40 @@ We call for the creation of "Developmental Spaces”:
 
 _Dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development, in the service of socio-cultural transformation_
 
-- **Incubators for inner-led cultural transition**, in response to profound global challenges.
-- **Spaces of sustained community**, that support ways of life counter to the mainstream.
-- **Ecologies of practice** grounded in the revolutionary research of recent decades, revealing our personal and collective potential for inner growth and transformation.
+**Incubators for inner-led cultural transition**, in response to profound global challenges.
+**Spaces of sustained community**, that support ways of life counter to the mainstream.
+**Ecologies of practice** grounded in the revolutionary research of recent decades, revealing our personal and collective potential for inner growth and transformation.
 
 </div>
 
-### We face a polycrisis
+### Motivating context
+Humanity is entangled in a polycrisis; an escalating set of interwoven crises from ecosphere degradation to economic fragility and political polarization. Crucially, these crises share a common root, a metacrisis in how we envision ourselves, our societies and our civilization.
 
-We are experiencing a polycrisis and metacrisis: a constellation of escalating and interwoven crises ranging from ecosphere degradation to political polarization. Crucially, these crises are interlinked both in source and solution, linkages which travel all the way down to how we envision ourselves, our societies and our civilization.
+Efforts simply to ‘fix’ external systems will therefore continue to reproduce crisis. Our metacrisis calls for entirely different ways of seeing and being in the world: this is the terrain of inner development.
 
-### This calls for new ways of being in the world
+### Transformational research
+Recent decades have seen a revolution in our understanding of human inner development. A growing body of evidence now supports three crucial principles. First, development is multi-faceted; spanning psychological, spiritual, biological and cultural dimensions. Second, it can be lifelong, continuing well into adulthood. Third, it is neither guaranteed nor straightforward - and sustained effort is often required, especially later in life.
 
-A response to this crisis therefore calls for new ways of being in the world – ways sufficient to bring forth collective movements adequate to addressing this crisis at the level and scale required. Such a transformation in being is essential and foundational.
+### Conditions for an inner revolution 
+Mainstream institutions and culture have barely begun to integrate this revolutionary understanding or its potential. The challenges of our time demand new kinds of educational and communal space; explicitly informed by this knowledge, and designed to support sustained, multidimensional growth - personal and collective. These spaces can take many forms, from online communities to co-living environments; evens new kinds of of monastery or university. 
 
-### How can such a transformation come about?
+### A far-reaching ambition
+This can’t be a niche project. It represents a radically inclusive ambition: to uphold commitments to redressing deep and long standing social injustices, whilst collaborating to address a deeper crisis which underpins and transcends them all.
 
-The last few decades have revolutionized our understanding of the potential for human development. We now have substantial evidence on three key points. First, that our development is multi-faceted: including psychological, biological and cultural dimensions. Second, development can be lifelong, continuing throughout adulthood. Third, continued development is neither guaranteed nor straightforward and deliberate effort is often required, especially in adulthood.
-
-However, at present, we are almost exclusively raised and educated in mainstream institutions and culture that integrate little of this revolutionary understanding and its potential.
-
-### We need new kinds of space that supports and enables this revolution in our understanding of developmental potential
-
-We need new kinds of spaces grounded in this revolutionary understanding of our developmental potential. Spaces explicitly informed by – and supporting – sustained, multidimensional and multi-level inner growth, both personally and collectively.
-
-Going forward, this developmental aspect should be a conscious and central part of the environments we create for everyone from eighteen to eighty. These spaces will provide the opportunity for individuals and communities to grow in the profound ways needed to hold the complexity and challenges we currently face.
-
-These spaces can take many forms ranging from courses or programs to physical environments such as new forms of monasteries or universities.
-
-### Source of hope
-
-We are at the point where we have the research to support this, as well as the ideas, methodologies and tools to make it a reality.
-
-Ultimately, if we see each other differently we may be able to make the difference that has been missing.
-
-We can retain our commitment to redressing deep and long standing social injustices whilst also being able to come together to address the profound crisis we face – a crisis which includes and also transcends any of those individual issues.
+As such, from eighteen to eighty, everyone should have access to environments explicitly designed for multi-domain inner development. We do not lack the research, ideas, methodologies and tools. What we need is the will: urgent investment and creative support - to help individuals and communities grow in depth and resilience; to navigate the complexity and challenges of our time. 
 
 ---
 
-## Founding Signatories
+## Founding signatories
 
 - Oren Slozberg -- *Commonweal*
 - Rufus Pollock -- *Life Itself*
 - Tomas Bjorkman -- *Ekskäret Foundation*
 - Kam Bellamy -- *Springboard*
+
+---
+
+## Help shape the emerging field
 
 <p className="pt-10 pb-15">
   <a className="text-4xl bg-yellow-400 hover:bg-yellow-500 font-bold no-underline py-6 px-8 rounded-md" href="https://forms.gle/KKfX3ypK3yCHZsgK9">Sign the Manifesto</a>
