@@ -6,9 +6,9 @@ showHero: true
 showToc: false
 showSidebar: false
 cta:
-  - href: tbd
+  - href: /paper
     label: Read the whitepaper
-  - href: tbd
+  - href: /paper
     label: Read a summary
   - href: /manifesto
     label: Sign the manifesto
