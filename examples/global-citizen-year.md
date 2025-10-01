@@ -4,15 +4,13 @@ start: 2008
 end: 
 location: International
 target_age: 17-23
-image: 
+image: /assets/globalcitizenyear.webp
 contributors: Matthew McCarthy
 ---
 
 # Global Citizen Year 
 
 Global Citizen Year is a gap year program that recruits promising future changemakers and helps them to develop the insights, skills, and networks needed to drive social impact over the course of their lives.
-
-![[assets/globalcitizenyear.webp]]
 
 ## Vision  
 
