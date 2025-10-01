@@ -9,6 +9,10 @@
     "title": "Developmental spaces",
     "links": [
       {
+        "href": "/paper",
+        "name": "White paper"
+      },
+      {
         "href": "/manifesto",
         "name": "Manifesto"
       },
