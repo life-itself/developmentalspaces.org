@@ -4,15 +4,13 @@ start: 2014
 end: 
 location: Portugal
 target_age: 18-35
-image: 
+image: /assets/Thedreamfactory.webp
 contributors: Matthew McCarthy
 ---
 
 # Traditional Dream Factory  
 
 Traditional Dream Factory (TDF) is a regenerative co-living space that combines technology and nature. It is a prototype for creating modern and comfortable regenerative housing ecosystems. TDF is designed to be a co-living, a farm, a makers space. 
-
-![[assets/Thedreamfactory.webp]]
 
 ## Vision  
 
