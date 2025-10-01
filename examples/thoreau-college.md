@@ -4,15 +4,13 @@ start: 2014
 end: 
 location: US
 target_age: 17-23
-image: 
+image: /assets/thoreau-college.jpg
 contributors: Matthew McCarthy
 ---
 
 # Thoreau College
 
 Thoreau College models a transformative liberal arts curriculum that immerses students in authentic community, shared labor and governance, and rigorous engagement with great works and natural phenomena.
-
-![[assets/thoreau-college.jpg]]
 
 ## Vision  
 
