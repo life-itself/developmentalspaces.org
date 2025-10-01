@@ -4,15 +4,13 @@ start: 2018
 end: 
 location: Portugal
 target_age: 18-35
-image: 
+image: /assets/OMMAYAON.webp
 contributors: Matthew McCarthy
 ---
 
 # Om Maya Om
 
 Om Maya Om is a retreat center for people seeking support and guidance to live a simple, natural, conscious, profound and content life.
-
-![[assets/OMMAYAON.webp]]
 
 ## Vision  
 
