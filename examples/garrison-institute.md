@@ -4,15 +4,13 @@ start: 2018
 end: 
 location: US
 target_age: 18-35
-image: 
+image: /assets/garrison.webp
 contributors: Matthew McCarthy
 ---
 
 # Garrison Institute
 
 The Garrison Institute is part of an emerging field of innovative changemaking organizations working to apply the wisdom that arises from contemplation to new action strategies for transformative social and environmental change.
-
-![[assets/garrison.webp]]
 
 ## Vision  
 
