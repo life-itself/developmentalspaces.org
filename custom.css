@@ -1568,18 +1568,18 @@ h1,h2,h3,h4,h5,h6 {
     background-color: oklch(from var(--color-background) calc(l + .025) c h)
 }
 
-.page-hero-ctas-container {
+.page-hero-ctas-container, .ds-buttons-container {
     margin-top: 2.5rem;
     display: flex;
     justify-content: center;
     align-items: center
 }
 
-.page-hero-ctas-container>*+* {
+.page-hero-ctas-container>*+*, .ds-buttons-container {
     margin-left: 1.5rem
 }
 
-.page-hero-cta:first-of-type {
+.page-hero-cta:first-of-type, .ds-button:first-of-type {
     border-radius: 0; /* CHANGED */
     background-color: var(--color-foreground-900); /* CHANGED */
     padding: 1rem 2rem; /* CHANGED */
@@ -1593,7 +1593,7 @@ h1,h2,h3,h4,h5,h6 {
     }
 }
 
-.page-hero-cta + .page-hero-cta {
+.page-hero-cta + .page-hero-cta, .ds-button + .ds-button {
     padding: 1rem 2rem; /* CHANGED */
     border-width: 1px; /* CHANGED */
     border-color: var(--color-foreground-50); /* CHANGED */
@@ -1606,8 +1606,6 @@ h1,h2,h3,h4,h5,h6 {
         background-color: oklch(from var(--color-foreground-50) calc(l + .085) c h)
     }
 }
-
-
 
 .layout-inner {
     position: relative;
