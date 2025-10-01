@@ -43,17 +43,14 @@ Dedicated spaces of community and ecologies of practice that integrate:
 
 We call for the creation of transformational "developmental spaces". Spaces that cultivate the capacities to respond to the profound challenges we face.Spaces grounded in the revolutionary research of the last half century about our personal and collective potential for growth and transformation.These spaces can take a multitude of forms from courses and programs to physical environments such as new forms of monasteries or universities.
 
-<div className="ds-buttons-container not-prose">
-<a href="/manifesto" className="ds-button">Read and Sign the Manifesto</a>
-</div>
+[Read and Sign the Manifesto »](/manifesto)
 
 # Stay Updated
 
 <iframe
   src="https://developmentalspaces.substack.com/embed"
-  width={480}
+  width={360}
   height={320}
-  style={{ border: "1px solid #EEE", background: "white" }}
   frameBorder={0}
   scrolling="no"
 />
