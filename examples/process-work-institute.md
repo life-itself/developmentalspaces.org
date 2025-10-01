@@ -4,15 +4,13 @@ start: 2016
 end: 
 location: US
 target_age: 18+
-image: 
+image: /assets/processwork.webp
 contributors: Matthew McCarthy
 ---
 
 # Process work institute
 
 The Process Work Institute is a non-profit educational institute devoted to vocational education, research and training in Process-oriented Psychology, also known as Processwork.
-
-![[assets/processwork.webp]]
 
 ## Vision  
 
