@@ -126,14 +126,15 @@ In modern times, the California Institute of Integral Studies (CIIS) has been a 
 **Alternative formats**: Access can be expanded through e.g. online formats.  
 **Measurement**: Some useful tools can track development, but care is needed to avoid distortion.
 
-**Case study: the neglected inner dimension of climate action**
+### Case study: the neglected inner dimension of climate action
 
-Conventional policy responses have failed to address the depth of the climate crisis. This failure stems partly from neglecting the inner dimension of climate challenges \- how human psychology, emotion, and development shape both the crisis and our capacity to respond. Technical solutions alone won’t suffice without deep mindset shifts across society. And from emotional overwhelm and cognitive biases to denial and polarisation, inner factors hinder meaningful action and public support for urgent policies. Addressing collective mindsets and strengthening inner capacities are vital approaches. For example: 
+Conventional policy responses have failed to address the depth of the climate crisis. This failure stems partly from neglecting the inner dimension of climate challenges -- how human psychology, emotion, and development shape both the crisis and our capacity to respond. Technical solutions alone won’t suffice without deep mindset shifts across society. And from emotional overwhelm and cognitive biases to denial and polarisation, inner factors hinder meaningful action and public support for urgent policies. Addressing collective mindsets and strengthening inner capacities are vital approaches. For example: 
 
 **Emotional Resilience:** Staying present with discomfort and uncertainty without shutting down or retreating.  
 Processing fear, grief, and anxiety related to ecological collapse in adaptive ways.  
 **Cognitive flexibility:** Loosening the grip of cognitive biases (e.g., confirmation, status quo, optimism bias). Shifting perspectives and tolerating ambiguity.   
-**Overcoming collective action problems:** Cultivating felt kinship with others and the living world (interbei**:** Identifying and interrogating worldviews, values, and internalised assumptions. Observing internal responses (e.g., defensiveness, judgement) without being dominated by them.  
+**Overcoming collective action problems:** Cultivating felt kinship with others and the living world (interbeing) including future generations and non-human life \- thus nurturing bigger-picture approaches, counteracting coordination failures and race-to-the-bottom dynamics.  
+**Self-awareness and Reflexivity:** Identifying and interrogating worldviews, values, and internalized assumptions. Observing internal responses (e.g., defensiveness, judgment) without being dominated by them.  
 **Embodied presence:** Developing felt awareness of the body and emotions as sources of intelligence. Grounding attention in the present moment to avoid reactivity / dissociation.  
 **Empathetic connection, compassion and ecological consciousness:** Cultivating love of nature and humility in relation to natural systems and limits.  
 **Moral imagination:** Expanding the capacity to envision alternative futures grounded in justice and regeneration. Taking responsibility for shaping collective outcomes.  
