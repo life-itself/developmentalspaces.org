@@ -1,6 +1,6 @@
 ---
 title: Developmental spaces
-description: "Cultural incubators for a time of transformation. Wise system transformation depends upon inner growth - but modern societies lack the understanding and tools to support it. We need more Developmental Spaces:
+description: "Wise system transformation depends upon inner growth - but modern societies lack the understanding and tools to support it. We need more Developmental Spaces:
 dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development in the service of socio-cultural transformation."
 showHero: true
 showToc: false
@@ -14,14 +14,7 @@ cta:
     label: Sign the manifesto
 ---
 
-
-# An Emerging Field
-
-A new  field is emerging of "developmental spaces”. Spaces designed for deep, intentional personal and collective development.
-
-There is a focus on multi-dimensional inner growth including holding complexity, expanding worldviews and perspective taking. They involve long-term engagement and rigorous practice design.
-
-These spaces draw inspiration from many existing environments from executive MBAs to retreat centers, from 12-step programmes to intentional communities. They are distinguished by an emphasis on sustained, theory-informed,and multi-dimensional inner development practice.
+&nbsp;
 
 # Why? 
 
