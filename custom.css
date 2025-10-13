@@ -2534,7 +2534,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .search-modal-highlight {
-    background-color: var(--color-accent-lighter)!important
+    background-color: oklch(from var(--accent-lighter) calc(l + .25) c h)  !important;
 }
 
 .search-modal-hit-link {
