@@ -73,6 +73,11 @@ As such, from eighteen to eighty, everyone should have access to environments ex
 - John Oliver -- Organizational development consultant and artist, _Tyler.World_
 - Danielle Johnson
 - Florian Huss -- _Be Able_
-- Leif Hejdenberg -- _The Association Next Generation Leadership_ 
+- Leif Hejdenberg -- _The Association Next Generation Leadership_
+- Doina Contescu
+- Richard Bartlett -- _Casa Tilo_
+- Stephanie Soussloff
+- Kariann Aarup
+- Jakob Köchert -- _Resonant Bodies_
 
 
