@@ -167,3 +167,7 @@ Developmental spaces require both scaling provision and nurturing existing space
 **Funding and partnerships:** align philanthropic and institutional resources with DS infrastructure, especially through education and public-sector collaboration.  
 
 **Visibility and participation:** build cultural traction through accessible courses, directories, and a compelling public narrative that positions DS as a credible life pathway.
+
+<div className="ds-buttons-container not-prose">
+<a href="https://drive.google.com/file/d/1ZC0TF1s_QbBTf3XdnBfwSIPRDS-7pwoF/view?usp=drive_link" className="ds-button">Read the paper (PDF)</a>
+</div>
