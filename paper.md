@@ -21,7 +21,7 @@ We aim to help build an evidence-based movement for Developmental Spaces, provid
 
 > *“I think hard times are coming, when we will be wanting voices… who can see alternatives to how we live now, and can see through our fear-stricken society and its obsessive technologies, to other ways of being.”* – Ursula K Le Guin (2014)
 
-<a href="https://drive.google.com/file/d/1ZC0TF1s_QbBTf3XdnBfwSIPRDS-7pwoF/view?usp=drive_link"><img src="/assets/paper/ds-paper-cover-2025.jpg" /></a>
+<a href="https://drive.google.com/file/d/11SpeTw_PU5KSJvXT4g4BIwfczomIlW5L/view?usp=share_link"><img src="/assets/paper/ds-paper-cover-2025.jpg" /></a>
 
 <div className="ds-buttons-container not-prose">
 <a href="https://drive.google.com/file/d/11SpeTw_PU5KSJvXT4g4BIwfczomIlW5L/view?usp=share_link" className="ds-button">Read the paper (PDF)</a>
