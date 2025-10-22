@@ -5,7 +5,7 @@ title: "Developmental Spaces: Cultural incubators for a time of transformation"
 *Rosie Bell, Boaz Feldman & Rufus Pollock*
 
 <div className="ds-buttons-container not-prose">
-<a href="https://drive.google.com/file/d/1ZC0TF1s_QbBTf3XdnBfwSIPRDS-7pwoF/view?usp=drive_link" className="ds-button">Full Paper (PDF)</a>
+<a href="https://drive.google.com/file/d/11SpeTw_PU5KSJvXT4g4BIwfczomIlW5L/view?usp=share_link" className="ds-button">Full Paper (PDF)</a>
 <a href="https://drive.google.com/file/d/1uqGzilCNHwEN3gCOlFcR5MGFecH1igYk/view?usp=drive_link" className="ds-button">Executive Summary (PDF)</a>
 </div>
 
@@ -24,7 +24,7 @@ We aim to help build an evidence-based movement for Developmental Spaces, provid
 <a href="https://drive.google.com/file/d/1ZC0TF1s_QbBTf3XdnBfwSIPRDS-7pwoF/view?usp=drive_link"><img src="/assets/paper/ds-paper-cover-2025.jpg" /></a>
 
 <div className="ds-buttons-container not-prose">
-<a href="https://drive.google.com/file/d/1ZC0TF1s_QbBTf3XdnBfwSIPRDS-7pwoF/view?usp=drive_link" className="ds-button">Read the paper (PDF)</a>
+<a href="https://drive.google.com/file/d/11SpeTw_PU5KSJvXT4g4BIwfczomIlW5L/view?usp=share_link" className="ds-button">Read the paper (PDF)</a>
 </div>
 
 ---
@@ -169,5 +169,5 @@ Developmental spaces require both scaling provision and nurturing existing space
 **Visibility and participation:** build cultural traction through accessible courses, directories, and a compelling public narrative that positions DS as a credible life pathway.
 
 <div className="ds-buttons-container not-prose">
-<a href="https://drive.google.com/file/d/1ZC0TF1s_QbBTf3XdnBfwSIPRDS-7pwoF/view?usp=drive_link" className="ds-button">Read the paper (PDF)</a>
+<a href="https://drive.google.com/file/d/11SpeTw_PU5KSJvXT4g4BIwfczomIlW5L/view?usp=share_link" className="ds-button">Read the paper (PDF)</a>
 </div>
