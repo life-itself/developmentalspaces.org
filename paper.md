@@ -2,7 +2,7 @@
 title: "Developmental Spaces: Cultural incubators for a time of transformation"
 ---
 
-*Rosie Bell, Boaz Feldman, Rufus Pollock & Christoph Wenna*
+*Rosie Bell, Boaz Feldman & Rufus Pollock*
 
 <div className="ds-buttons-container not-prose">
 <a href="https://drive.google.com/file/d/1ZC0TF1s_QbBTf3XdnBfwSIPRDS-7pwoF/view?usp=drive_link" className="ds-button">Full Paper (PDF)</a>
