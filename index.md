@@ -14,7 +14,7 @@ cta:
     label: Sign the manifesto
 ---
 
-&nbsp;
+---
 
 # Why? 
 
