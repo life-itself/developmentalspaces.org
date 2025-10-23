@@ -1,7 +1,6 @@
 ---
 title: Developmental spaces
-description: "Wise system transformation depends upon inner growth - but modern societies lack the understanding and tools to support it. We need more Developmental Spaces:
-dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development in the service of socio-cultural transformation."
+description: "Wise system transformation depends upon inner growth - but modern societies lack the understanding and tools to support it. We need more Developmental Spaces: dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development in the service of socio-cultural transformation."
 showHero: true
 showToc: false
 showSidebar: false
@@ -14,7 +13,7 @@ cta:
     label: Sign the manifesto
 ---
 
----
+&nbsp;
 
 # Why? 
 
