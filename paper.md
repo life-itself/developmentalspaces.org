@@ -37,7 +37,7 @@ Today’s interconnected crises arise from the very foundations of globalised cu
 
 In other words, if we’re serious about system transformation, we must also be serious about inner transformation. Yet here we encounter a stark gap: despite our urgent need, modern societies lack the understanding, tools, and institutions to cultivate the inner capacities required to transform our systems wisely. Modern materialism largely dismissed the inner world as irrelevant; neglecting our consciousness, emotional maturity, and capacity for collective action. Postmodern critique, meanwhile, taught us to suspect growth hierarchies. Their combined legacy is a poverty of robust, trusted, research-based institutions dedicated to large-scale inner growth for the common good. **Towards closing this gap, we offer a model of Developmental Spaces:**
 
-**dedicated, growth-oriented spaces that nurture multi-domain inner development and act as cultural incubators for a new paradigm.**
+> **dedicated, growth-oriented spaces that nurture multi-domain inner development and act as cultural incubators for a new paradigm.**
 
 This early step aims to help build an evidence-based movement for Developmental Spaces, provided widely enough to serve large segments of populations. The ultimate ambition is a replicable, scalable model with potential to influence the deepest orientation of societies towards a regenerative future.
 
@@ -55,7 +55,8 @@ While human development is already institutionally supported (e.g. schools, trai
 
 Just as we distinguish biology from chemistry in the physical sciences, we can distinguish multiple **domains of inner development** \- each with particular growth dynamics, maps, and practices. The classification we adopt here is adapted from Integral Theory (detail follows).
 
-![[domains-5.png]]
+<img src="/assets/paper/domains-5.png" width="450px" />
+
 *Five major domains of inner development using nomenclature from Integral Theory*
 
 #### Domain 1: Waking Up (Spiritual Development)
