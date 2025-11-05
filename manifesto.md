@@ -81,5 +81,6 @@ As such, from eighteen to eighty, everyone should have access to environments ex
 - Jakob Köchert -- _Resonant Bodies_
 - Christoph Wenna -- _LIONE_
 - Sooz Frank -- _Human Arts Productions & Houligan Ranch_
+- Gamithra Marga
 
 
