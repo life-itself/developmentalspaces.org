@@ -1,5 +1,5 @@
 ---
-title: Developmental spaces
+title: Developmental Spaces
 description: "Wise system transformation depends upon inner growth - but modern societies lack the understanding and tools to support it. We need more Developmental Spaces: dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development in the service of socio-cultural transformation."
 showHero: true
 showToc: false
