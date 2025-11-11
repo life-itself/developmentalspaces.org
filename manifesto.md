@@ -82,5 +82,6 @@ As such, from eighteen to eighty, everyone should have access to environments ex
 - Christoph Wenna -- _LIONE_
 - Sooz Frank -- _Human Arts Productions & Houligan Ranch_
 - Gamithra Marga
+- Aashay Mody -- _Beyond the Book Club_
 
 
