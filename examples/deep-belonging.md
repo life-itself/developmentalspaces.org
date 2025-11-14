@@ -12,9 +12,6 @@ contributors: Matthew McCarthy
 
 Deep Belonging is an educational platform which provides retreats, mentoring, and other events geared towards the evolution of individual and collective conscious. 
 
-
-![[assets/deep-belonging.webp]]
-
 ## Vision  
 
 Catalyzing the transformation of human consciousness needed to bring about a mutually enhancing human-Earth relationship.
