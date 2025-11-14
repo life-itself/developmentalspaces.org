@@ -12,8 +12,6 @@ contributors: Matthew McCarthy
 
 The Soil Project (TSP) is an international alternative higher education and gap year program serving as an initiative toward a new paradigm of education in 21st century by completely changing the way that education has been happened including philosophy, educational goals, content and learning methods and even credentials.
 
-![[soil-project-dds.jpg]]
-
 ## Vision 
 
 The program aims to support young people’s development by providing a nourishing foundation. They describe their educational philosophy as ‘soil education’. This means creating a foundation of ‘holistic learning and basic knowledge’ and supporting learners with the ‘community, and necessary resources’ they need to grow in their own ways and own directions.
