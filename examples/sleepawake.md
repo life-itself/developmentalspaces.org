@@ -12,8 +12,6 @@ contributors: Matthew McCarthy
 
 Sleepawake is a 4-week residential intensive for 18-27 year olds to explore the potent paths to embodied, engaged, and authentic living.
 
-![[assets/sleepawake.png]]
-
 ## Vision 
 
 According to their website, Sleepawake is "A place to learn the difficult skills that few of us are taught. Everything from self-awareness and metacognition, to how to regulate yourself during emotional intensity, navigating through conflict, owning your desires in your life, expressing your full creativity, not acting out of obligation, to how to cook for yourself and so much more."
