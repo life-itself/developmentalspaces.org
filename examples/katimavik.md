@@ -12,8 +12,6 @@ contributors: Matthew McCarthy
 
 Katimavik is a registered charity that engages Canadian youth through volunteer work. Katimavik provides opportunities for young Canadians to participate in five to six-month periods of community service throughout the country through a 'National Experience program'. There are eight 'houses' throughout Canada. 
 
-![[assets/katimavik.jpg]]
-
 ## Vision  
 
 The Katimavik National Experience challenges young people in Canada with a transformative experience to empower them to become:
