@@ -9,7 +9,7 @@ Sign up to our newsletter: https://developmentalspaces.substack.com
 
 [_Developmental Spaces: Building the case_ (White Paper 2025)](https://developmentalspaces.org/paper) 
 
-Developmental Spaces: Building the case (Summary Paper 2025) 
+[_Developmental Spaces: Building the case_ (Summary Paper 2025)](https://developmentalspaces.org/paper)
 
 [Deliberately Developmental Spaces: a key to addressing the Metacrisis? (2021)](https://lifeitself.org/blog/2021/10/05/deliberately-developmental-spaces-a-key-to-addressing-the-metacrisis) — by Rufus Pollock and Theo Cox.
 
