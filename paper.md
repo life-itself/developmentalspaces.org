@@ -5,7 +5,7 @@ title: "Developmental Spaces: Cultural incubators for a time of transformation"
 *Rosie Bell, Boaz Feldman & Rufus Pollock*
 
 <div className="ds-buttons-container not-prose">
-<a href="https://drive.google.com/file/d/11SpeTw_PU5KSJvXT4g4BIwfczomIlW5L/view?usp=share_link" className="ds-button">Full Paper (PDF)</a>
+<a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link" className="ds-button">Full Paper (PDF)</a>
 <a href="https://drive.google.com/file/d/1z6NAlBlsIIpIfvYecCviBmcvTLrp6hqQ/view?usp=sharing" className="ds-button">Executive Summary (PDF)</a>
 </div>
 
@@ -21,10 +21,10 @@ We aim to help build an evidence-based movement for Developmental Spaces, provid
 
 > *“I think hard times are coming, when we will be wanting voices… who can see alternatives to how we live now, and can see through our fear-stricken society and its obsessive technologies, to other ways of being.”* – Ursula K Le Guin (2014)
 
-<a href="https://drive.google.com/file/d/11SpeTw_PU5KSJvXT4g4BIwfczomIlW5L/view?usp=share_link"><img src="/assets/paper/ds-paper-cover-2025.jpg" /></a>
+<a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link"><img src="/assets/paper/ds-paper-cover-2025.jpg" /></a>
 
 <div className="ds-buttons-container not-prose">
-<a href="https://drive.google.com/file/d/11SpeTw_PU5KSJvXT4g4BIwfczomIlW5L/view?usp=share_link" className="ds-button">Read the paper (PDF)</a>
+<a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link" className="ds-button">Read the paper (PDF)</a>
 </div>
 
 ---
@@ -170,5 +170,5 @@ Developmental spaces require both scaling provision and nurturing existing space
 **Visibility and participation:** build cultural traction through accessible courses, directories, and a compelling public narrative that positions DS as a credible life pathway.
 
 <div className="ds-buttons-container not-prose">
-<a href="https://drive.google.com/file/d/11SpeTw_PU5KSJvXT4g4BIwfczomIlW5L/view?usp=share_link" className="ds-button">Read the paper (PDF)</a>
+<a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link" className="ds-button">Read the paper (PDF)</a>
 </div>
