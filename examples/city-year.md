@@ -12,8 +12,6 @@ contributors: Matthew McCarthy
 
 City Year is a program that connects gap year students to organizations that aim to build and foster community and educational connections through the 1-year student success coach program. They recruit and train AmeriCorps members who serve in schools, partner with teachers to support student academic, social and emotional growth. 
 
-![[assets/city-year.png]]
-
 ## Vision  
 
 City Year AmeriCorps members not only make a difference in the lives of students they serve, but also acquire valuable civic skills that help them and prepare them to lead their communities and their careers to be of service to a cause greater than self.
