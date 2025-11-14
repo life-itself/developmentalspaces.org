@@ -12,8 +12,6 @@ contributors: Matthew McCarthy, Boaz Feldman
 
 Deep Springs College is a unique institution of higher learning. The educational program is built upon three pillars: academics, student self-government, and manual labor. The school is located forty miles from Bishop, California on an isolated cattle ranch in Deep Springs Valley.
 
-![[assets/deepspringscollege.png]]
-
 ## Vision  
 
 Deep Springs has been singularly motivated by its mission to “prepare young people for a life of service to humanity,” which can be seen throughout the day-to-day operation of the College.
