@@ -12,8 +12,6 @@ contributors: Matthew McCarthy
 
 Schloss Glarisegg  is an ecovillage community based in Switzerland. They offer a number of programs and courses on regenerative practices. 
 
-![[assets/edeglarisegg.webp]]
-
 ## Vision  
 
 Creating a Transformative Culture through awakening and expanding our consciousness, individually and collectively.
