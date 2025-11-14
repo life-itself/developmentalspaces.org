@@ -12,8 +12,6 @@ contributors: Matthew McCarthy
 
 Embercombe is a 50 acre 're-wilding estate' located in England. They offer a range of courses and programs that helps participants to "reconnect with the wild authentic self and to live a passionate and purposeful life in service of a flourishing world for all species."
 
-![[assets/embercombe-dds.jpg]]
-
 ## Vision
 
 - Gain a clearer understanding of yourself, your gifts and your direction and purpose in life
