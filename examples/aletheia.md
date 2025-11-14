@@ -12,8 +12,6 @@ contributors: Matthew McCarthy
 
 Alethia is an online developmental coaching program. One begins to learn first as a participant through Alethia's method, and then eventually embodies the skills and capacities of being an Alethia coach. Thus, it makes coaches and then these coaches spread the program to then create more coaches. 
 
-![[assets/alethia-dds.jpg]]
-
 ## Vision  
 
 Development in the Alethia program is understood as 'self-enfoldment' (I am already whole and complete and all I need to do is discover more and more my innate qualities) as opposed to 'self-improvement' (something is wrong or lacking in me and so I need to be fixed or improved) - 'Psychological and spiritual development is not a journey from the shallows to the depths. Rather, it is a journey of consciously inhabiting more and more of one’s depth'. Development is not linear but involves 'several concurrent and overlapping threads of unfoldment' at any one moment (p.8) - Development requires: a) releasing limiting emotional learnings and b) creating new emotional learnings. The vision of Alethia then is to make people comfortable with who they are and to increase self contact. 
