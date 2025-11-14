@@ -12,8 +12,6 @@ contributors: Matthew McCarthy
 
 The Center for Systems Awareness is a global group of changemakers, based primarily in Boston, which puts together workshops, events, and curriculums to help systems transformation. 
 
-![[assets/centerforsystemsawareness.webp]]
-
 ## Vision  
 
 The Center for Systems Awareness exists to advance systems change in education based on the idea that profound inter-connectedness sits behind all these ideas and connects them.
