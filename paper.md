@@ -6,7 +6,7 @@ title: "Developmental Spaces: Cultural incubators for a time of transformation"
 
 <div className="ds-buttons-container not-prose">
 <a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link" className="ds-button">Full Paper (PDF)</a>
-<a href="https://drive.google.com/file/d/1z6NAlBlsIIpIfvYecCviBmcvTLrp6hqQ/view?usp=sharing" className="ds-button">Executive Summary (PDF)</a>
+<a href="https://drive.google.com/file/d/1jyl0t7MCBgcMBlH2nnlTDQa6e85JDCNL/view?usp=share_link" className="ds-button">Executive Summary (PDF)</a>
 </div>
 
 ## Abstract
