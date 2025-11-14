@@ -93,7 +93,7 @@ Modern society is in a [**metacrisis**](https://metacrisis.info/): a crisis of c
 
 As well as helping address the roots of crisis, multi-domain inner development also supports **resilience** \- our capacity to stay well and adapt in adversity, and **flourishing** \- the experience of meaning, joy, connection, and the related tendency towards generative action. Resilience and flourishing develop best in concert.
 
-**Precedent: Integrated approaches to inner development**
+**Precedents: Integrated approaches to inner development**
 
 While Western science has often been limited by materialist assumptions, Eastern contemplative traditions have preserved sophisticated methods of inner development. Psychology has begun to bridge this gap, revealing parallels between contemplative frameworks and cognitive science.
 
@@ -109,7 +109,7 @@ To thrive, multi-domain inner development requires **containment**, **community*
 **Generative social fields**: Group dynamics can be powerful catalysts for change.  
 **Pockets of change**: Cultural transformation often begins in dense micro-communities (“islands of coherence”).
 
-**Historical precedents**  
+**Precedents: developmental spacess**  
 Monasteries, folk high schools, Bildung centers and other intentional communities have embodied aspects of DS in different eras.
 
 In modern times, the California Institute of Integral Studies (CIIS) has been a pioneer in bringing integrative approaches into higher education.
