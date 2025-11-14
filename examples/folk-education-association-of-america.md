@@ -12,8 +12,6 @@ contributors: Matthew McCarthy
 
 The Folk Education Association of American or FEAA is a network of 'folk' organizations across the US. Each organization is unique, although there is a focus on personal development and community growth.
 
-![[assets/folk-school-alliance.webp]]
-
 ## Vision  
 
  To promote humanistic personal development, understanding of one's own and other's cultural diversity, and commitment to community growth.
