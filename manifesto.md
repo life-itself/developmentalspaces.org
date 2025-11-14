@@ -84,5 +84,5 @@ As such, from eighteen to eighty, everyone should have access to environments ex
 - Gamithra Marga
 - Aashay Mody -- _Beyond the Book Club_
 - Stephen Reid -- _Dandelion_
-
+- Duke Autret
 
