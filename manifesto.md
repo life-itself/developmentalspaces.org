@@ -85,4 +85,6 @@ As such, from eighteen to eighty, everyone should have access to environments ex
 - Aashay Mody -- _Beyond the Book Club_
 - Stephen Reid -- _Dandelion_
 - Duke Autret
+- Connor Webb
+- Willi Studer -- _Proviatus_
 
