@@ -4,7 +4,7 @@ start: 1995
 end: 
 location: Portugal
 target_age: 18+
-image: /assets/tamera.jpg
+image: /assets/tamera.png
 contributors: Rosie Bell
 ---
 
