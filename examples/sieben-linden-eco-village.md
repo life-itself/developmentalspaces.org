@@ -1,13 +1,11 @@
 ---
-
 url: [https://siebenlinden.org/en/ecovillage-2/sieben-linden/](https://siebenlinden.org/en/ecovillage-2/sieben-linden/) 
 start: "1997" 
 end: 
 location: Germany 
-target\_age: All Ages 
+target_age: All Ages 
 image: /assets/sieben-linden.jpg 
-contributors:  Matthew McCarthy
-
+contributors: Rosie Bell
 ---
 
 # Sieben Linden Eco Village
