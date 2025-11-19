@@ -1,10 +1,10 @@
 ---
-url: [https://siebenlinden.org/en/ecovillage-2/sieben-linden/](https://siebenlinden.org/en/ecovillage-2/sieben-linden/) 
+url: https://siebenlinden.org/en/ecovillage-2/sieben-linden/
 start: "1997" 
 end: 
 location: Germany 
 target_age: All Ages 
-image: /assets/sieben-linden.jpg 
+image: /assets/sieben-linden.png 
 contributors: Rosie Bell
 ---
 
