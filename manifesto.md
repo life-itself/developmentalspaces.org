@@ -87,4 +87,5 @@ As such, from eighteen to eighty, everyone should have access to environments ex
 - Duke Autret
 - Connor Webb
 - Willi Studer -- _Proviatus_
+- Greg Hinds -- _Hinds Engineering; Local Adaptation Initiative_
 
