@@ -89,3 +89,5 @@ As such, from eighteen to eighty, everyone should have access to environments ex
 - Willi Studer -- _Proviatus_
 - Greg Hinds -- _Hinds Engineering; Local Adaptation Initiative_
 - John Trew -- _Finca Sagrada_
+- Jan Demiralp -- _Inner Compass_
+- Mitra Martin
