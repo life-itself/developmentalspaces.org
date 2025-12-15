@@ -154,3 +154,7 @@
         background-color: oklch(from var(--color-foreground-50) calc(l + .085) c h)
     }
 }
+
+.search-modal-highlight {
+    background-color: oklch(from var(--color-accent-lighter) calc(l + .5) c h)  !important;
+}
