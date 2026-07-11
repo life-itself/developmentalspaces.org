@@ -25,6 +25,10 @@ For those creating developmental spaces — or building the field that makes the
 
 - [Vision & Strategy](/build/vision) — talks and decks on the developmental spaces vision, published progressively
 
+## Wiki
+
+- [Inner development knowledge base](/wiki) — working notes on developmental science, practices, and the design of developmental spaces (a garden, not a book)
+
 ## Design knowledge
 
 How to actually design and run these spaces — practices, governance, community process. This section is growing; for now:
