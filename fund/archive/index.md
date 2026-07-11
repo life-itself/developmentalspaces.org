@@ -16,8 +16,9 @@ Between 2019 and 2021, together with collaborators, we did serious design work o
 - **[The project application questionnaire](/fund/archive/application-questionnaire)** — how we planned to evaluate projects applying to the fund: fact-finding, financial, impact, and alignment questions. Still a useful template for any project preparing to raise.
 - **[Branding a conscious capital fund](/fund/archive/brand-narrative)** — the brand-narrative work: positioning, differentiation, and the naming brainstorm from Wise Living Fund to True Home.
 - **[Who invests in conscious community?](/fund/archive/investor-job-stories)** — investor personas and two enduring structural insights about community ownership (the exit problem; the imbalance-of-stake problem).
+- **[Strategy & mindful governance](/fund/archive/strategy-and-governance)** — the 30-year aspiration, the mindfulness-grounded governance design, and the launch checklist: what it actually takes to start a conscious capital fund.
 
-More is being published progressively — the 2019 strategy deep-dive, structure diagrams, the pitch deck. [Subscribe](https://developmentalspaces.substack.com) to follow.
+More is being published progressively — structure diagrams, the pitch deck, the 2019 prospectus comparison. [Subscribe](https://developmentalspaces.substack.com) to follow.
 
 ---
 
