@@ -19,22 +19,27 @@ For the polished statements of the ideas, see the [whitepaper](/paper) and the [
 
 **The science of development:**
 
-- [[Raw 2 - development  is multidimensional and science of ontogenesis is very recent]]
-- [[Raw 3 - Intro to (inner) development and its multidimensional (multi-domain) nature]]
-- [[Raw 5 - cognitive domain, MHC and neo-piagetian synthesis]]
+- [[ontogenesis aka inner development]]
 - [[Domains, maps, rafts]]
+- [[From Piaget to Dawson - the evolution of adult developmental metrics]]
+- [[Kurt Fischer's Dynamic Skills Theory]]
+- [[Models of Hierarchical Complexity]]
+- [[Rosetta stone aka glossary of terms with mappings]] · [[Glossary]]
 
-**Waking up, growing up, cleaning up:**
+**Waking up (states) vs growing up (stages):**
 
-- [[Raw 6 - waking up]]
+- [[DMR waking up]]
+- [[Wilber Coombs matrix]] and [[Correlation in the Wilber-Coombs matrix and generally correlation and complementarity across domains]]
+- [[Ten stages of meditation (Mind Illuminated)]]
 - [[Dark Night of the Soul]]
+- [[fundamental-wellbeing]] and the [[Martin Matrix]]
 
 **Practices and programs:**
 
 - [[assessment-of-transformative-programs]]
-- [[Raw 7 - rafts]]
+- [[meditation]] · [[beginning-anew]] · [[holotropic-breathwork]] · [[hoffman-process]] · [[deep-democracy-intensive]]
 
-**The course:** see [[course-readme]] for the original course outline, session materials and library links (readings in [Zotero](https://www.zotero.org/groups/1488090/life-itself/collections/5D5EP2HJ)).
+**The course:** [[Course overview]] and [[course-readme]] hold the original course outline, session materials and library links (readings in [Zotero](https://www.zotero.org/groups/1488090/life-itself/collections/5D5EP2HJ)). Note: some `Raw N` links in the readme refer to planned notes that were never written.
 
 ## Reference clippings
 
