@@ -1,6 +1,6 @@
 ---
 title: Developmental Spaces
-description: "We want a world with many more developmental spaces: communities, schools, retreat centres - even new kinds of monastery or university - dedicated to cultivating the inner capacities we need for a paradigmatic transition."
+description: "Designing Conscious Communities Where People Grow"
 showHero: true
 showToc: false
 showSidebar: false
@@ -12,6 +12,8 @@ cta:
   - href: /fund
     label: Fund — back a project
 ---
+
+*Designing conscious communities where people grow.*
 
 **We want a world with many more developmental spaces** — communities, schools, retreat centres, even new kinds of monastery or university, dedicated to cultivating the inner capacities we need for a paradigmatic transition.
 
