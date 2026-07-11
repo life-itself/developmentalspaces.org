@@ -14,8 +14,10 @@ Between 2019 and 2021, together with collaborators, we did serious design work o
 - **[The Prospectus (April 2021)](/fund/archive/prospectus)** — the fullest artifact: investment strategy, what we offered investors and communities, candidate projects, financial structure, evaluation criteria, and a survey of the co-living capital landscape.
 - **[The original SCQH (2020)](/fund/archive/scqh)** — the strategic analysis in situation–complication–question–hypothesis form: why community projects can't raise capital, and what to do about it.
 - **[The project application questionnaire](/fund/archive/application-questionnaire)** — how we planned to evaluate projects applying to the fund: fact-finding, financial, impact, and alignment questions. Still a useful template for any project preparing to raise.
+- **[Branding a conscious capital fund](/fund/archive/brand-narrative)** — the brand-narrative work: positioning, differentiation, and the naming brainstorm from Wise Living Fund to True Home.
+- **[Who invests in conscious community?](/fund/archive/investor-job-stories)** — investor personas and two enduring structural insights about community ownership (the exit problem; the imbalance-of-stake problem).
 
-More is being published progressively — brand narrative, jobs-to-be-done analysis, structure diagrams. [Subscribe](https://developmentalspaces.substack.com) to follow.
+More is being published progressively — the 2019 strategy deep-dive, structure diagrams, the pitch deck. [Subscribe](https://developmentalspaces.substack.com) to follow.
 
 ---
 
