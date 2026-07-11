@@ -39,9 +39,9 @@ A curated collection on conscious coliving and intentional community, mostly fro
 
 ## Podcasts & videos
 
-- [Podcast episode (Spotify)](https://open.spotify.com/episode/46YaCcuexVq8iPPOFf0Gz8)
-- [Podcast episode (Spotify)](https://open.spotify.com/episode/6RbzeMJphXfRo6xMuDXa3I)
-- [Video (YouTube)](https://www.youtube.com/watch?v=JWbMVa1IstA)
-- [Video (YouTube)](https://www.youtube.com/watch?v=YEKG9OSMm_w)
-- [Video (YouTube)](https://www.youtube.com/watch?v=gVx8mAzcMDA)
-- [Video (YouTube)](https://youtu.be/EcLtuV7EUh4)
+- [Embodying Collective Transformation with Karl Steyaert](https://open.spotify.com/episode/46YaCcuexVq8iPPOFf0Gz8) — Life Itself Podcast
+- [Collective Practice and the Life Itself Open Residency with Valérie Duvauchelle](https://open.spotify.com/episode/6RbzeMJphXfRo6xMuDXa3I) — Life Itself Podcast
+- [Values as a Route to Happiness with Alan Williams](https://www.youtube.com/watch?v=JWbMVa1IstA) (video)
+- [Creating Communities for Creators with Victoria Dobbs](https://www.youtube.com/watch?v=YEKG9OSMm_w) (video)
+- [How to Handle Anything in Life and Community with James Baker](https://www.youtube.com/watch?v=gVx8mAzcMDA) (video)
+- [Practices for Conscious Communities to Thrive with Valérie Duvauchelle](https://youtu.be/EcLtuV7EUh4) (video)

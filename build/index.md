@@ -21,6 +21,10 @@ For those creating developmental spaces — or building the field that makes the
 - [Building the Field for Developmental Spaces](https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces) — the collaborative initiative with Fetzer, Commonweal and Ekskäret
 - [Resources](/resources) — reference materials and related organizations
 
+## Vision & strategy
+
+- [Vision & Strategy](/build/vision) — talks and decks on the developmental spaces vision, published progressively
+
 ## Design knowledge
 
 How to actually design and run these spaces — practices, governance, community process. This section is growing; for now:
