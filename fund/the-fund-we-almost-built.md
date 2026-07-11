@@ -1,11 +1,11 @@
 ---
 title: "Conscious Community Capital: the fund we almost built"
-description: "Between 2019 and 2022 we designed a real-estate fund for conscious community. It never launched — but its thinking is the foundation of our capital work today."
+description: "Between 2019 and 2021 we designed a real-estate fund for conscious community. It never launched — but its thinking is the foundation of our capital work today."
 ---
 
 # Conscious Community Capital: the fund we almost built
 
-*Between 2019 and 2022, together with collaborators, we designed a real-estate investment fund for conscious community living — working titles "Conscious Community Capital" and "True Home Fund". It never launched: we couldn't at that time raise the capital, nor find the right person to run it. But the analysis behind it still holds, and it is the foundation of what Teal Estate — now the Fund stream of Developmental Spaces — became. We're publishing the core of it here, both as a record and because the problem it addresses is more alive than ever.*
+*Between 2019 and 2021, together with collaborators, we designed a real-estate investment fund for conscious community living — working titles "Conscious Community Capital" and "True Home Fund". It never launched: we couldn't at that time raise the capital, nor find the right person to run it. But the analysis behind it still holds, and it is the foundation of what Teal Estate — now the Fund stream of Developmental Spaces — became. We're publishing the core of it here, both as a record and because the problem it addresses is more alive than ever.*
 
 ## The idea in one paragraph
 
@@ -48,4 +48,4 @@ The fund itself remains, in our view, the right eventual answer. If you're an in
 
 ---
 
-*Adapted from the Conscious Community Capital fund summary (2021). More material from the fund-era work — strategy, branding narrative, structural thinking — will be published progressively. [Subscribe](https://developmentalspaces.substack.com) to follow.*
+*Adapted from the Conscious Community Capital fund summary (2021). The full materials — prospectus, SCQH, application questionnaire and more — are in the [Fund Archive](/fund/archive).*
