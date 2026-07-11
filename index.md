@@ -1,39 +1,43 @@
 ---
 title: Developmental Spaces
-description: "Wise system transformation depends upon inner growth - but modern societies lack the understanding and tools to support it. We need more Developmental Spaces: dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development in the service of socio-cultural transformation."
+description: "We want a world with many more developmental spaces: communities, schools, retreat centres - even new kinds of monastery or university - dedicated to cultivating the inner capacities we need for a paradigmatic transition."
 showHero: true
 showToc: false
 showSidebar: false
 cta:
-  - href: /paper
-    label: Read the whitepaper
-  - href: /paper
-    label: Read a summary
-  - href: /manifesto
-    label: Sign the manifesto
+  - href: /learn
+    label: Learn — explore the life
+  - href: /build
+    label: Build — create a space
+  - href: /fund
+    label: Fund — back a project
 ---
 
+**We want a world with many more developmental spaces** — communities, schools, retreat centres, even new kinds of monastery or university, dedicated to cultivating the inner capacities we need for a paradigmatic transition.
 
-<div class="py-24 sm:py-32">
-  <div class="mx-auto max-w-7xl px-6 lg:px-8">
-    <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
-      <img width="158" height="48" src="/assets/logos/life-itself-logo-bw.png" alt="Life Itself" class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" />
-      <img width="158" height="48" src="/assets/logos/commonweal-bw.png" alt="Commonweal" class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" />
-      <img width="158" height="48" src="/assets/logos/ekskaret-bw.png" alt="Ekskaret" class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" />
-      <img width="158" height="48" src="/assets/logos/lione-bw.png" alt="SavvyCal" class="col-span-2 max-h-12 w-full object-contain sm:col-start-2 lg:col-span-1" />
-      <img width="158" height="48" src="/assets/logos/springboard-bw.png" alt="Springboard" class="col-span-2 col-start-2 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1" />
-    </div>
-  </div>
-</div>
+Making that real takes more than an idea. People need to **discover** these spaces and this way of living; pioneers need the **knowledge and field** to build them well; and projects need **capital** structured for their values. This site serves all three:
 
+## 🌱 [Learn](/learn)
 
-# Why? 
+Explore conscious community living: what it is, whether it's for you, and how to start — with free email courses and curated resources. *[Start here »](/learn)*
 
-Today’s interconnected crises stem from the [foundations of globalised culture](https://metacrisis.info): the deep-seated assumptions, values, and perspectives that shape societies. Evidence is mounting that modern civilisation is breaking down in ways that can’t simply be repaired. Renewal is needed at a foundational level – a profound shift in collective worldview. Ways of being and seeing that we are hardly able to imagine from a modern cultural vantage point.
+## 🔨 [Build](/build)
 
-However, modernity and its materialist culture has treated the inner world as irrelevant. As a result, we lack robust, trusted, well-researched institutions dedicated to large-scale inner growth for the common good. The potential for human flourishing and renewal is vast; but our inherited maps of inner development are fragmented. We need scaleable, integrated approaches to inner transformation - sustained by dedicated communities that can weave new cultural narratives.
+The concept and the craft: our [whitepaper](/paper), [manifesto](/manifesto), the [network](/network), examples, and design knowledge for creating developmental spaces. *[Dive in »](/build)*
 
-# What? 
+## 🌾 [Fund](/fund)
+
+The capital layer: investing in and financing conscious communities and developmental spaces — project updates and background thinking. *[Explore »](/fund)*
+
+---
+
+# Why?
+
+Today's interconnected crises stem from the [foundations of globalised culture](https://metacrisis.info): the deep-seated assumptions, values, and perspectives that shape societies. Evidence is mounting that modern civilisation is breaking down in ways that can't simply be repaired. Renewal is needed at a foundational level – a profound shift in collective worldview.
+
+However, modernity has treated the inner world as irrelevant. We lack robust, trusted, well-researched institutions dedicated to large-scale inner growth for the common good. We need scaleable, integrated approaches to inner transformation – sustained by dedicated communities that can weave new cultural narratives. [Read more »](/why)
+
+# What?
 
 Dedicated spaces of community and ecologies of practice that integrate:
 
@@ -43,11 +47,27 @@ Dedicated spaces of community and ecologies of practice that integrate:
 - **Evolving worldview** - _Expanding perspectives and circles of care towards a world-centric view_
 - **Engaged action** - _Translating inner shifts into active, ethical engagement with the world_
 
+[What is a developmental space? »](/what)
+
 # Manifesto
 
-We call for the creation of transformational "developmental spaces". Spaces that cultivate the capacities to respond to the profound challenges we face.Spaces grounded in the revolutionary research of the last half century about our personal and collective potential for growth and transformation.These spaces can take a multitude of forms from courses and programs to physical environments such as new forms of monasteries or universities.
+We call for the creation of transformational "developmental spaces". Spaces that cultivate the capacities to respond to the profound challenges we face. Spaces grounded in the revolutionary research of the last half century about our personal and collective potential for growth and transformation. These spaces can take a multitude of forms, from courses and programs to physical environments such as new forms of monasteries or universities.
 
 [Read and Sign the Manifesto »](/manifesto)
+
+# Who we are
+
+<div class="py-12">
+  <div class="mx-auto max-w-7xl px-6 lg:px-8">
+    <div class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
+      <img width="158" height="48" src="/assets/logos/life-itself-logo-bw.png" alt="Life Itself" class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" />
+      <img width="158" height="48" src="/assets/logos/commonweal-bw.png" alt="Commonweal" class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" />
+      <img width="158" height="48" src="/assets/logos/ekskaret-bw.png" alt="Ekskaret" class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" />
+      <img width="158" height="48" src="/assets/logos/lione-bw.png" alt="LIONE" class="col-span-2 max-h-12 w-full object-contain sm:col-start-2 lg:col-span-1" />
+      <img width="158" height="48" src="/assets/logos/springboard-bw.png" alt="Springboard" class="col-span-2 col-start-2 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1" />
+    </div>
+  </div>
+</div>
 
 # Stay Updated
 
