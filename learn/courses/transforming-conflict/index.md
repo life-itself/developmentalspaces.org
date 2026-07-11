@@ -7,7 +7,13 @@ description: "Understand why healthy conflict is normal and needed, reduce unnec
 
 Understand why healthy conflict is normal and needed, reduce unnecessary conflict, and gain practical resolution techniques.
 
-A free course by [Life Itself](https://lifeitself.org), in 9 short lessons. Read it right here at your own pace — or [**sign up to receive it by email**](https://1ebb0834.sibforms.com/serve/MUIFADPoD_wqTzwxw_Y-canrMzTyaEtZjS5dPnIzp2oQuGcUeexQ0eTUX9tVDgUGQsc7Hk_QlA6zqp8gM_jaeNkHDVvFIJlP7LQb6gtMijOOQFKrd7euK__7wfrv7pIjhb4eqJNxYWbMFodlD_emCN-uxdyIANVE7V3t2Jl76MiDRzWk60adiFOJBnwnELpEhprjI19YBrdzxxzF), one lesson a day.
+A free course by [Life Itself](https://lifeitself.org), in 9 short lessons. Read it right here at your own pace — or **sign up to receive it by email**, one lesson a day:
+
+<form method="POST" action="https://devspaces-mailer.lifeitself.workers.dev/subscribe" style="display:flex;gap:8px;flex-wrap:wrap;margin:1rem 0">
+  <input type="email" name="email" required placeholder="you@example.com" style="padding:8px 12px;border:1px solid #ccc;border-radius:6px;min-width:220px" />
+  <input type="hidden" name="course" value="transforming-conflict" />
+  <button type="submit" style="padding:8px 16px;border-radius:6px;background:#8b1a1a;color:#fff;border:0;cursor:pointer">Get the free email course</button>
+</form>
 
 ## Lessons
 

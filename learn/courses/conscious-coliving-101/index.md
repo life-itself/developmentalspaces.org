@@ -7,7 +7,13 @@ description: "Learn the difference between conscious and unconscious living, the
 
 Learn the difference between conscious and unconscious living, the benefits and challenges of coliving, and how to find your fit.
 
-A free course by [Life Itself](https://lifeitself.org), in 8 short lessons. Read it right here at your own pace — or [**sign up to receive it by email**](https://1ebb0834.sibforms.com/serve/MUIFAHWIcvMaTHGxk3a6ETWsStERBzHBu3D2lChrUftvjPwvA0_QrRxkwUmquwSZyDJJF-KA4TK9iWZtliyY--5kMiWjMzO890IhKmtxcDji20N17au_PVDf8n355r1xb1ntldoIWoz0jLPnkE0tKhepyxt_BpdWFw7m2bRiZkCkaL7f5a4ebBWejHMJeCnCNX8KW2_T8iLeKvuq), one lesson a day.
+A free course by [Life Itself](https://lifeitself.org), in 8 short lessons. Read it right here at your own pace — or **sign up to receive it by email**, one lesson a day:
+
+<form method="POST" action="https://devspaces-mailer.lifeitself.workers.dev/subscribe" style="display:flex;gap:8px;flex-wrap:wrap;margin:1rem 0">
+  <input type="email" name="email" required placeholder="you@example.com" style="padding:8px 12px;border:1px solid #ccc;border-radius:6px;min-width:220px" />
+  <input type="hidden" name="course" value="conscious-coliving-101" />
+  <button type="submit" style="padding:8px 16px;border-radius:6px;background:#8b1a1a;color:#fff;border:0;cursor:pointer">Get the free email course</button>
+</form>
 
 ## Lessons
 

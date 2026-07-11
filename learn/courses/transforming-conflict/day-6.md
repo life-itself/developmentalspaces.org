@@ -4,7 +4,7 @@ description: "Day 6: Transforming Conflict in Community"
 showToc: false
 ---
 
-*Part of the free course [Transforming Conflict in Community](/learn/courses/transforming-conflict). Prefer it paced? [Get it by email](https://1ebb0834.sibforms.com/serve/MUIFADPoD_wqTzwxw_Y-canrMzTyaEtZjS5dPnIzp2oQuGcUeexQ0eTUX9tVDgUGQsc7Hk_QlA6zqp8gM_jaeNkHDVvFIJlP7LQb6gtMijOOQFKrd7euK__7wfrv7pIjhb4eqJNxYWbMFodlD_emCN-uxdyIANVE7V3t2Jl76MiDRzWk60adiFOJBnwnELpEhprjI19YBrdzxxzF) — one lesson a day.*
+*Part of the free course [Transforming Conflict in Community](/learn/courses/transforming-conflict). Prefer it paced? [Get it by email](/learn/courses/transforming-conflict) — one lesson a day.*
 
 ![](/assets/courses/d56473e7c6.jpg)
 

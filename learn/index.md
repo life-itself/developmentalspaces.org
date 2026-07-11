@@ -28,19 +28,37 @@ All courses are free. **Read them online** at your own pace, or sign up to recei
 
 *6 days · Start here if you're new.* Learn the difference between conscious and unconscious living, the benefits and challenges of coliving, and how to find your fit.
 
-[Read online »](/learn/courses/conscious-coliving-101) · [Sign up for the email version »](https://1ebb0834.sibforms.com/serve/MUIFAHWIcvMaTHGxk3a6ETWsStERBzHBu3D2lChrUftvjPwvA0_QrRxkwUmquwSZyDJJF-KA4TK9iWZtliyY--5kMiWjMzO890IhKmtxcDji20N17au_PVDf8n355r1xb1ntldoIWoz0jLPnkE0tKhepyxt_BpdWFw7m2bRiZkCkaL7f5a4ebBWejHMJeCnCNX8KW2_T8iLeKvuq)
+[Read online »](/learn/courses/conscious-coliving-101)
+
+<form method="POST" action="https://devspaces-mailer.lifeitself.workers.dev/subscribe" style="display:flex;gap:8px;flex-wrap:wrap;margin:1rem 0">
+  <input type="email" name="email" required placeholder="you@example.com" style="padding:8px 12px;border:1px solid #ccc;border-radius:6px;min-width:220px" />
+  <input type="hidden" name="course" value="conscious-coliving-101" />
+  <button type="submit" style="padding:8px 16px;border-radius:6px;background:#8b1a1a;color:#fff;border:0;cursor:pointer">Get the free email course</button>
+</form>
 
 ### [Conscious Coliving in Action: Practical Steps to Getting Started](/learn/courses/conscious-coliving-in-action)
 
 *8 days · For those ready to act.* Define your ideal community, identify your needs, understand the spectrum of options, and create a roadmap for joining or starting a space.
 
-[Read online »](/learn/courses/conscious-coliving-in-action) · [Sign up for the email version »](https://1ebb0834.sibforms.com/serve/MUIFALUltHXOPDqkO7xOjtn-yTbrorKpi2Em2yXmXJROXN3_V7xYsuryv9JQM_vtCLy952S0lS64i0RlMxhoox9W4EyGGueFH_ocgX5ZrlNh-nLFmkuIbNvyUEIHQajFaxEFb0AHFP7bUaATtMWbGPwbGxoUjqATqQGbM31tEzhG8jKyLaxdETDltn5uslXx0HXMLo8NUFLF61uW)
+[Read online »](/learn/courses/conscious-coliving-in-action)
+
+<form method="POST" action="https://devspaces-mailer.lifeitself.workers.dev/subscribe" style="display:flex;gap:8px;flex-wrap:wrap;margin:1rem 0">
+  <input type="email" name="email" required placeholder="you@example.com" style="padding:8px 12px;border:1px solid #ccc;border-radius:6px;min-width:220px" />
+  <input type="hidden" name="course" value="conscious-coliving-in-action" />
+  <button type="submit" style="padding:8px 16px;border-radius:6px;background:#8b1a1a;color:#fff;border:0;cursor:pointer">Get the free email course</button>
+</form>
 
 ### [Transforming Conflict in Community](/learn/courses/transforming-conflict)
 
 *7 days · For those facing (or fearing) conflict.* Understand why healthy conflict is normal and needed, reduce unnecessary conflict, and gain practical resolution techniques.
 
-[Read online »](/learn/courses/transforming-conflict) · [Sign up for the email version »](https://1ebb0834.sibforms.com/serve/MUIFADPoD_wqTzwxw_Y-canrMzTyaEtZjS5dPnIzp2oQuGcUeexQ0eTUX9tVDgUGQsc7Hk_QlA6zqp8gM_jaeNkHDVvFIJlP7LQb6gtMijOOQFKrd7euK__7wfrv7pIjhb4eqJNxYWbMFodlD_emCN-uxdyIANVE7V3t2Jl76MiDRzWk60adiFOJBnwnELpEhprjI19YBrdzxxzF)
+[Read online »](/learn/courses/transforming-conflict)
+
+<form method="POST" action="https://devspaces-mailer.lifeitself.workers.dev/subscribe" style="display:flex;gap:8px;flex-wrap:wrap;margin:1rem 0">
+  <input type="email" name="email" required placeholder="you@example.com" style="padding:8px 12px;border:1px solid #ccc;border-radius:6px;min-width:220px" />
+  <input type="hidden" name="course" value="transforming-conflict" />
+  <button type="submit" style="padding:8px 16px;border-radius:6px;background:#8b1a1a;color:#fff;border:0;cursor:pointer">Get the free email course</button>
+</form>
 
 *A fourth course on practice psychology is in preparation — [subscribe to the newsletter](https://developmentalspaces.substack.com) to hear when it launches.*
 

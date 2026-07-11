@@ -4,7 +4,7 @@ description: "Day 5: Conscious Coliving 101"
 showToc: false
 ---
 
-*Part of the free course [Conscious Coliving 101](/learn/courses/conscious-coliving-101). Prefer it paced? [Get it by email](https://1ebb0834.sibforms.com/serve/MUIFAHWIcvMaTHGxk3a6ETWsStERBzHBu3D2lChrUftvjPwvA0_QrRxkwUmquwSZyDJJF-KA4TK9iWZtliyY--5kMiWjMzO890IhKmtxcDji20N17au_PVDf8n355r1xb1ntldoIWoz0jLPnkE0tKhepyxt_BpdWFw7m2bRiZkCkaL7f5a4ebBWejHMJeCnCNX8KW2_T8iLeKvuq) — one lesson a day.*
+*Part of the free course [Conscious Coliving 101](/learn/courses/conscious-coliving-101). Prefer it paced? [Get it by email](/learn/courses/conscious-coliving-101) — one lesson a day.*
 
 ![](/assets/courses/2a4ba8dee0.jpg)
 

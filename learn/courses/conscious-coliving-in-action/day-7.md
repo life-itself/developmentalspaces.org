@@ -4,7 +4,7 @@ description: "Day 7: Conscious Coliving in Action"
 showToc: false
 ---
 
-*Part of the free course [Conscious Coliving in Action: Practical Steps to Getting Started](/learn/courses/conscious-coliving-in-action). Prefer it paced? [Get it by email](https://1ebb0834.sibforms.com/serve/MUIFALUltHXOPDqkO7xOjtn-yTbrorKpi2Em2yXmXJROXN3_V7xYsuryv9JQM_vtCLy952S0lS64i0RlMxhoox9W4EyGGueFH_ocgX5ZrlNh-nLFmkuIbNvyUEIHQajFaxEFb0AHFP7bUaATtMWbGPwbGxoUjqATqQGbM31tEzhG8jKyLaxdETDltn5uslXx0HXMLo8NUFLF61uW) — one lesson a day.*
+*Part of the free course [Conscious Coliving in Action: Practical Steps to Getting Started](/learn/courses/conscious-coliving-in-action). Prefer it paced? [Get it by email](/learn/courses/conscious-coliving-in-action) — one lesson a day.*
 
 ![](/assets/courses/f50f84184e.jpg)
 
