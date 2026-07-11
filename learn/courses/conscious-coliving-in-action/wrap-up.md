@@ -12,19 +12,17 @@ showToc: false
 
 Dear conscious human,
 
-We wanted to drop into your inbox to ask you an important question because you recently completed our Conscious Coliving in Action: Practical Steps to Getting Started course, and we'd love to receive your feedback 😊
+We wanted to ask you an important question because you recently completed our Conscious Coliving in Action: Practical Steps to Getting Started course, and we'd love to receive your feedback 😊
 
 Would you be able to spare 30 seconds of your time to help us make this course even better?
 
 You’re the best! Thanks so much 😄
 
-**[Here's the link to feedback form](8https://forms.gle/8npEbQPd3wZ1y8ML)**
+If you have feedback, we’d love to hear it: hello@lifeitself.org
 
 Lauren & the Life Itself CoCo 🥥 team
 
-If you have any feedback on the course, [we’d love to receive it here](https://forms.gle/DYLU6eceSob9zfTn6)\
-
-[Share with the world about this course on X](https://ctt.ac/Z3hw9)\
+If you have any feedback on the course, we’d love to hear it: hello@lifeitself.org
 
 P.S. This course is brought to you by Life Itself - [https://lifeitself.org](https://lifeitself.org/)
 

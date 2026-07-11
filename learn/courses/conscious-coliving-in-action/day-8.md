@@ -64,9 +64,7 @@ We wish you a fulfilling journey ahead!
 
 Lauren & the Life Itself CoCo 🥥 team
 
-If you have any feedback on the course, [we’d love to receive it here](https://forms.gle/DYLU6eceSob9zfTn6)\
-
-[Share with the world about this course on X](https://ctt.ac/Z3hw9)\
+If you have any feedback on the course, we’d love to hear it: hello@lifeitself.org
 
 P.S. This course is brought to you by Life Itself - [https://lifeitself.org](https://lifeitself.org/)
 

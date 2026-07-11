@@ -106,13 +106,11 @@ I wanted to highlight the ‘problem’ with a statement as simple as this. Firs
 
 In this lesson, we’ve learned how to become more aware of our values, needs and desires and how to use this awareness to find the best conscious coliving environment.
 
-Tomorrow, we will share how to prepare yourself to consciously colive.
+In the next lesson, we will share how to prepare yourself to consciously colive.
 
 Lauren & the Life Itself CoCo 🥥 team
 
-If you have any feedback on the course, [we’d love to receive it here](https://forms.gle/DYLU6eceSob9zfTn6)\
-
-[Share with the world about this course on X](https://ctt.ac/Z3hw9)\
+If you have any feedback on the course, we’d love to hear it: hello@lifeitself.org
 
 P.S. This course is brought to you by Life Itself - [https://lifeitself.org](https://lifeitself.org/)
 

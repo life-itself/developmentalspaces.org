@@ -12,7 +12,7 @@ showToc: false
 
 Dear conscious human,
 
-Yesterday we spoke about how to join a conscious coliving space; today we’re focusing on how to transform an existing space to become more conscious.
+In the previous lesson we spoke about how to join a conscious coliving space; today we’re focusing on how to transform an existing space to become more conscious.
 
 I’m not going to lie, this is a lot harder than joining a conscious coliving space that is already set up and will present distinct challenges, all of which will vary based on the individuals within the space. But first, let’s first address one of the main challenges that is consistent for all humans.
 
@@ -66,7 +66,7 @@ A final note is that all individuals need to have the willingness to release the
 
 ## Action time ✍️
 
-Today, it’s the same as yesterday.
+Today, it’s the same as the previous lesson.
 
 **First**, take some time to breathe and digest this information. Paying attention to where you might have felt triggered, or the parts that feel a bit sticky or overwhelming gives you a lot of insight and we recommend journaling on these for clarity.
 
@@ -78,13 +78,11 @@ And if you’re feeling confident feel free to add a few more steps after this.
 
 The conclusion? The journey to transforming an existing space into a conscious coliving environment will have its triggers and issues. Fostering open communication, engaging in collective decision-making, gradually implementing conscious practices, and embracing change, whilst remembering to keep your expectations in check, will all support this transformation.
 
-And finally, if it doesn't work out, see yesterday's email... Or tomorrow’s. There is always another way.
+And finally, if it doesn't work out, see the previous lesson... Or the next one. There is always another way.
 
 Lauren & the Life Itself CoCo 🥥 team
 
-If you have any feedback on the course, [we’d love to receive it here](https://forms.gle/DYLU6eceSob9zfTn6)\
-
-[Share with the world about this course on X](https://ctt.ac/Z3hw9)\
+If you have any feedback on the course, we’d love to hear it: hello@lifeitself.org
 
 P.S. This course is brought to you by Life Itself - [https://lifeitself.org](https://lifeitself.org/)
 

@@ -10,7 +10,7 @@ showToc: false
 
 Dear conscious human,
 
-In the last email, we sold you pretty hard on conscious communities! We busted those myths that might have been getting in the way of you considering it as a viable option and now, it's time to get real.
+In the last lesson, we sold you pretty hard on conscious communities! We busted those myths that might have been getting in the way of you considering it as a viable option and now, it's time to get real.
 
 In today’s lesson we will explore the benefits and challenges that come with applying conscious living principles to coliving environments. Are you ready? Great, let’s start.
 
@@ -85,7 +85,7 @@ Although Sam isn’t likely to relocate to live in Sardinia or any of the other 
 
 One of the factors within these areas is that community plays an important role, (alongside diet, rest, physical activity and purpose), in keeping people healthier for longer and therefore, increasing longevity.
 
-Community holds many benefits, and as we saw yesterday feeling lonely can play a huge role in mental and physical illness. Therefore, being part of a community can create a sense of belonging, alongside all of the other benefits we’ve identified.
+Community holds many benefits, and as we saw in the previous lesson feeling lonely can play a huge role in mental and physical illness. Therefore, being part of a community can create a sense of belonging, alongside all of the other benefits we’ve identified.
 
 ☝️ Despite the many benefits we’ve identified, we wanted to offer Sam the opportunity to consider what the challenges might be with conscious coliving 😬. So let’s look at what these are.
 
@@ -151,7 +151,7 @@ Navigating these challenges will also help you to learn more about how to set an
 >
 >  
 >
-> ⏩ To continue on from this, in tomorrow's lesson we will explore the traits and the red flags of a conscious coliving situation. Join us then to make sure you don’t accidentally end up in a cult 😱
+> ⏩ To continue on from this, in the next lesson we will explore the traits and the red flags of a conscious coliving situation. Join us then to make sure you don’t accidentally end up in a cult 😱
 
 Lauren
 

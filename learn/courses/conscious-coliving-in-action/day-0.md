@@ -34,7 +34,7 @@ We are covering a lot during this course and by the end of it you should:
 
 In a nutshell, conscious coliving is the act of living together with 2 or more other people with the intention of living more conscious and physically manifested lives together, in an environment with some level of shared resources.
 
-It’s might seem vague right now, but we’ll be expanding on the full spectrum of conscious coliving in our first lesson tomorrow.
+It’s might seem vague right now, but we’ll be expanding on the full spectrum of conscious coliving in the first lesson.
 
 ### What the next 8 days will involve!
 
@@ -66,17 +66,13 @@ Yes! Before we start there are a few actions to do right away:
 
 1.  Get yourself into our Conscious Coliving Whatsapp Chat! It’s a simple chat channel to connect with other people embarking on conscious coliving and share insights, opportunities and inspiration. [Join here](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw)
 
-2.  Make sure you save our email address in your contacts to avoid us unconsciously being routed to your spam. (Can you imagine?! 🤯)
-
 That's it for now. Congratulations on committing to taking steps towards a more nourishing and connected life.
 
-See you tomorrow for our first lesson!
+See you in the first lesson!
 
 Lauren & the Life Itself CoCo 🥥 team
 
-If you have any feedback on the course, [we’d love to receive it here](https://forms.gle/DYLU6eceSob9zfTn6)\
-
-[Share with the world about this course on X](https://ctt.ac/Z3hw9)\
+If you have any feedback on the course, we’d love to hear it: hello@lifeitself.org
 
 P.S. This course is brought to you by Life Itself - [https://lifeitself.org](https://lifeitself.org/)
 

@@ -46,7 +46,7 @@ Image taken from [https://managementweekly.org/thomas-kilmann-conflict-resolutio
 
 ## Conflict Resolution Processes
 
-So far we’ve gained an understanding of how we might show up in conflict through the Thomas Kilmann model, and also energetically through the control dramas we touched on yesterday. Now let’s look at the common best conflict resolution processes we can work with. It’s worth noting there are lots of options and these are just a few curated examples that we recommend.
+So far we’ve gained an understanding of how we might show up in conflict through the Thomas Kilmann model, and also energetically through the control dramas we touched on in the previous lesson. Now let’s look at the common best conflict resolution processes we can work with. It’s worth noting there are lots of options and these are just a few curated examples that we recommend.
 
 ### \
 \#1. Have a mediator
@@ -101,7 +101,7 @@ We ultimately recommend that any coliving situation has a process and therefore 
 
 *✍️* **Which of the conflict resolution processes do you think would be the most useful?**
 
-Tomorrow is the final day of the course, and if you're struggling to remember what we covered in day 1, don't panic we’ll tie everything together for you!  
+The next lesson is the final one of the course, and if you're struggling to remember what we covered in day 1, don't panic we’ll tie everything together for you!  
 
 Lauren
 

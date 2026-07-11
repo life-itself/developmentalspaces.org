@@ -94,7 +94,7 @@ In the meantime, we hope it’s given you some food for thought on areas where c
 
 These are useful questions to answer in advance to gain more knowledge about yourself and your personal relationship with conflict. 
 
-See you tomorrow for another juicy day of transforming conflict.
+See you in the next lesson for another juicy day of transforming conflict.
 
 Lauren
 

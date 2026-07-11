@@ -122,17 +122,15 @@ As you can see from today, doing the groundwork ahead of time merely in relation
 
 Now would also be a great time to have a read of our post, [Notes on Creating a Life Together\* by Diana Leafe Christian](https://lifeitself.org/blog/2021/05/14/notes-on-creating-a-life-together-by-diana-leafe-christian)
 
-In our next email, we'll delve deeper into practical strategies for establishing a thriving community once you’ve done the groundwork and how to move from the consideration stage into the implementation.
+In the next lesson, we'll delve deeper into practical strategies for establishing a thriving community once you’ve done the groundwork and how to move from the consideration stage into the implementation.
 
 If you’re wondering why we’re spending two days on this, when we don’t recommend it, it is for exactly this reason, to give you insight into the tip of the iceberg. This might also help you understand how to find an aligned coliving space that already exists, by cross checking some of the items we’re raising across these two days.
 
-Until tomorrow.
+See you in the next lesson.
 
 Lauren & the Life Itself CoCo 🥥 team
 
-If you have any feedback on the course, [we’d love to receive it here](https://forms.gle/DYLU6eceSob9zfTn6)\
-
-[Share with the world about this course on X](https://ctt.ac/Z3hw9)\
+If you have any feedback on the course, we’d love to hear it: hello@lifeitself.org
 
 P.S. This course is brought to you by Life Itself - [https://lifeitself.org](https://lifeitself.org/)
 

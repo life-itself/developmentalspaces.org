@@ -12,7 +12,7 @@ Dear conscious human,
 
 Do you want to have more time, do less washing up, get FREE childcare, and have relationships how you want, no matter how many 😉? Well all of this and more is available to you with conscious coliving.
 
-In all seriousness though we know we're sugarcoating the reality but doesn't it sound good? Well tomorrow we will get down to the reality of conscious coliving but first we are going to share with you exactly what conscious coliving is, and bust a few of the myths that might be lurking when you hear that term.
+In all seriousness though we know we're sugarcoating the reality but doesn't it sound good? In the next lesson we will get down to the reality of conscious coliving but first we are going to share with you exactly what conscious coliving is, and bust a few of the myths that might be lurking when you hear that term.
 
 ## What is conscious coliving exactly? 
 
@@ -82,7 +82,7 @@ Erm, we’re sorry to break it to you but this is a big, resounding no! Consciou
 >
 >  
 >
-> ⏩ Next up we examine the benefits and challenges of conscious coliving. See you tomorrow!
+> ⏩ Next up we examine the benefits and challenges of conscious coliving. See you in the next lesson!
 
 Lauren
 

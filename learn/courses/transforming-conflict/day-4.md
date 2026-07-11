@@ -12,9 +12,9 @@ Dear conscious human,
 
 Avoiding conflict gets a bad rap, because there is a difference between avoiding the symptoms of conflict and avoiding conflict through prevention, and we want to address the idea of conflict avoidance in today’s lesson. 
 
-After seeing the main areas where conflict can arise yesterday, there are a number of steps you can take that can support harmony, diminish tensions in advance, or provide you with a reference point should conflict still arise.
+After seeing the main areas where conflict can arise in the previous lesson, there are a number of steps you can take that can support harmony, diminish tensions in advance, or provide you with a reference point should conflict still arise.
 
-First let’s recap on the greatest causes of conflict from yesterday:
+First let’s recap on the greatest causes of conflict from the previous lesson:
 
 **🎲 Change**
 
@@ -74,7 +74,7 @@ This can be updated as you go through the motions more times but we would recomm
 
 We’ve covered a lot today to support you in preventing unnecessary conflict from arising in the first place. Seeing as we’re over half way through the course, don’t forget to share any insights you’ve found in the [Conscious Coliving Whatsapp group](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw). 
 
-And look out for our email tomorrow where we help you not to be the self-centered energy-drainer of the group.
+And look out for the next lesson where we help you not to be the self-centered energy-drainer of the group.
 
 Lauren
 

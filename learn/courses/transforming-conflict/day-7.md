@@ -14,7 +14,7 @@ Congratulations on completing the Transforming Conflict in Community course!
 
 🎁 In today’s lesson we’re going to tie it all together for you.
 
-Over the past 7 days we’ve jumped in as deeply as an email course will allow us to take you through the journey of navigating conflict within conscious coliving and community. We’ve covered how to set yourself up to avoid unnecessary conflict, and when it does arise the best practices you can use to work through it. 
+Over the past 7 days we’ve jumped in as deeply as a short course will allow us to take you through the journey of navigating conflict within conscious coliving and community. We’ve covered how to set yourself up to avoid unnecessary conflict, and when it does arise the best practices you can use to work through it. 
 
 Ultimately transforming conflict builds stronger communities and greater resilience in the individual and the collective. This provides us with more opportunities to build a weller, wiser world together, otherwise it would have all been in vain, and the conflict hasn’t served any real purpose. \
 
@@ -75,9 +75,9 @@ Conscious Coliving in Action provides you with valuable knowledge and the practi
 
 A massive thank you for being with us on this journey through transforming conflict. We’ve covered a lot, so don’t forget to keep these emails handy in case you ever want to refer back to them. 
 
-We hope you’ve enjoyed reading it as much as we’ve enjoyed writing it. We would love to hear from you and to know your top takeaways, it will only take 30 seconds and you can leave [your feedback here](https://forms.gle/JKtiDTFaGfHeNtMe9) or simply reply to this email.
+We hope you’ve enjoyed reading it as much as we’ve enjoyed writing it. We would love to hear from you and to know your top takeaways, it will only take 30 seconds and you can leave [your feedback here](https://forms.gle/JKtiDTFaGfHeNtMe9) or simply reply to this lesson.
 
-**And finally,** **keep this one quiet** **🤫** but we might just have a bonus email coming your way…
+**And finally:** there’s a [bonus lesson](bonus) waiting for you. 🤫
 
 Lauren
 

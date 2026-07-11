@@ -16,7 +16,7 @@ Dear conscious human,
 
 In this lesson, we’ll share a roadmap for joining a conscious coliving space. We’re starting with this option, because if you are new to conscious coliving or if you’re not actively doing it right now, this is the easiest way to start.
 
-A lot of work goes into establishing a conscious coliving space, and joining one lets you beat the queue. The downside, of course, is that you don’t get to decide the vision, agreements or intentions. That’s why we focussed the previous email on values, needs and preparation, so that you can have clarity as an individual and can find a conscious coliving space that really aligns with you.
+A lot of work goes into establishing a conscious coliving space, and joining one lets you beat the queue. The downside, of course, is that you don’t get to decide the vision, agreements or intentions. That’s why we focussed the previous lesson on values, needs and preparation, so that you can have clarity as an individual and can find a conscious coliving space that really aligns with you.
 
 ## The benefits of joining a space
 
@@ -120,13 +120,11 @@ Next, take some time to review and write down your next steps, to help you to st
 
 And if you’re feeling confident feel free to add a few more steps after this.
 
-See you tomorrow
+See you in the next lesson
 
 Lauren & the Life Itself CoCo 🥥 team
 
-If you have any feedback on the course, [we’d love to receive it here](https://forms.gle/DYLU6eceSob9zfTn6)\
-
-[Share with the world about this course on X](https://ctt.ac/Z3hw9)\
+If you have any feedback on the course, we’d love to hear it: hello@lifeitself.org
 
 P.S. This course is brought to you by Life Itself - [https://lifeitself.org](https://lifeitself.org/)
 

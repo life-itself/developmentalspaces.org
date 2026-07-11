@@ -62,7 +62,7 @@ Self-reflection time
 
 Hopefully we’ve succeeded in busting some myths for you. 
 
-Tomorrow we’ll continue on with sharing the 7 greatest causes of conflict in coliving spaces.
+In the next lesson we’ll continue on with sharing the 7 greatest causes of conflict in coliving spaces.
 
 Lauren
 

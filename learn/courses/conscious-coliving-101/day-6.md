@@ -58,7 +58,7 @@ These practices include sitting (1) or moving collectively (2), engaging in dail
 
 **Thirdly,** **we want to thank you for completing this course.** We hope you’ve enjoyed reading it as much as we’ve enjoyed writing it. We would love to hear from you and to know your top takeaways, it will only take 1 minute, you can leave your [feedback here](https://forms.gle/v7fqDZ6qh7P8H6qE8).
 
-**And finally, keep this one quiet** 🤫 but we might just have a bonus email coming your way…
+**And finally, keep this one quiet** 🤫 but there’s a bonus lesson waiting for you…
 
 ## Do your friends a favor and send them the link to sign up to this course
 

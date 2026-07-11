@@ -77,12 +77,11 @@ When it comes to conscious coliving we’re the real deal. Many of the founders 
 
 We’re almost ready to dive in, but here a two quick actions that will help you get the most out of this course:
 
-1.  Make sure you save our email address in your contacts to avoid us unconsciously being routed to your spam (can you imagine?! 🤯)
 2.  Come and connect with the Life Itself community by joining our [community chat channel](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw) and drop a message to introduce yourself!
 
 **Our first lesson is on where society is at, what's brought us here, and the opportunities available to us because of it.**
 
-*We bet you can’t wait until it hits your inbox tomorrow.* 😉
+*We bet you can’t wait.* 😉
 
 See you soon!
 

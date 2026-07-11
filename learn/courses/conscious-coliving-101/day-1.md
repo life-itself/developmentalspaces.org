@@ -12,7 +12,7 @@ Dear conscious human,
 
 Today is an inspiring day, it is the first day of Conscious Coliving 101!
 
-Before we jump in we’re going to dedicate this entire email to set the premise and take you on a journey through the lands of individualism and capitalism. Don’t worry, we’re keeping it light hearted and end on a high note!
+Before we jump in we’re going to dedicate this entire lesson to set the premise and take you on a journey through the lands of individualism and capitalism. Don’t worry, we’re keeping it light hearted and end on a high note!
 
 You might be wondering why we’re doing this. What does it have to do with conscious coliving? In fact, it has everything to do with conscious coliving.
 

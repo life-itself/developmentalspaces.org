@@ -80,15 +80,15 @@ How you decide which approach you want to take will come down to a multitude of 
 
 ## Action Time ✍️
 
-In this email we’ve covered the spectrum of conscious coliving and outlined the approaches you can take next. Now it’s time for some reflection so pull out your journal and answer the following questions.
+In this lesson we’ve covered the spectrum of conscious coliving and outlined the approaches you can take next. Now it’s time for some reflection so pull out your journal and answer the following questions.
 
 1.  Where are you at right now? What is your coliving experience, are you new to conscious coliving or not?
 
 2\. Which of the three approaches do you want to take for your next step? And why?
 
-3\. Based on the two spectral lines from yesterday’s email, where do you see yourself on the conscious coliving spectrum currently?
+3\. Based on the two spectral lines from the previous lesson, where do you see yourself on the conscious coliving spectrum currently?
 
-In the next email, we are going to discuss values, needs and desires. This will help you decipher where on the quadrants you’d like to be and build upon the questions above, so make sure you’ve completed them.
+In the next lesson, we are going to discuss values, needs and desires. This will help you decipher where on the quadrants you’d like to be and build upon the questions above, so make sure you’ve completed them.
 
 ### A final action
 
@@ -102,9 +102,7 @@ See you there.
 
 Lauren & the Life Itself CoCo 🥥 team
 
-If you have any feedback on the course, [we’d love to receive it here](https://forms.gle/DYLU6eceSob9zfTn6)\
-
-[Share with the world about this course on X](https://ctt.ac/Z3hw9)\
+If you have any feedback on the course, we’d love to hear it: hello@lifeitself.org
 
 P.S. This course is brought to you by Life Itself - [https://lifeitself.org](https://lifeitself.org/)
 

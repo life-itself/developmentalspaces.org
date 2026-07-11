@@ -16,11 +16,9 @@ So what do you do about it? Confront him? Sulk? Throw a tantrum and put his plat
 
 **Welcome to Transforming Conflict in Community, the follow up course to Conscious Coliving 101: How to live a more conscious and connected life within community. **
 
-To start the course we invite you to share your participation if you are on social media! [Click here to tweet](https://ctt.ac/bN0U8) or share your insights and tag us on [Instagram](https://www.instagram.com/forlifeitself/) and [LinkedIn](https://www.linkedin.com/company/life-itself/). 
-
 ### Let’s jump in:
 
-Over the course of the next 7 days you will gain an understanding, as well as the confidence to navigate the unnerving area of conflict. We will go on a journey to unpack the reasons why conflict might happen (you’ll be surprised with some of these), provide you with practical steps for conflict resolution that can create win/win situations for all involved, whilst also addressing the hard truths that comes along with conflict. You know us, we won’t skirt around the real stuff. At times this might be confronting. If you find yourself activated by anything we’ve written, we suggest you jot it down in a notebook and take some time to reflect upon it, **your active and truthful participation is what will really turn this email course from informative in to useful.**
+Over the course of the next 7 lessons you will gain an understanding, as well as the confidence to navigate the unnerving area of conflict. We will go on a journey to unpack the reasons why conflict might happen (you’ll be surprised with some of these), provide you with practical steps for conflict resolution that can create win/win situations for all involved, whilst also addressing the hard truths that comes along with conflict. You know us, we won’t skirt around the real stuff. At times this might be confronting. If you find yourself activated by anything we’ve written, we suggest you jot it down in a notebook and take some time to reflect upon it, **your active and truthful participation is what will really turn this lesson course from informative in to useful.**
 
 ### \
 In actively engaging with it you will:
@@ -78,13 +76,12 @@ We hope that you have integrated some of the knowledge gained in Conscious Coliv
 
 We’re almost ready to dive in, but here are three quick actions that will help you get the most out of this course:
 
-1.  Make sure you save our email address in your contacts to avoid your inbox being in conflict (😉) with receiving our emails. 
 2.  Come and connect with the Life Itself community by [joining our conscious coliving chat channel](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw) and dropping a message to introduce yourself!
 3.  ✍️ Reflect on what it was that made you sign up for this course initially to really help you get the most out of it.
 
 **Our first lesson will set the scene to help you understand what conflict is, why it arises, and how it can be transformational when approached consciously. **
 
-We bet you can’t wait until it hits your inbox tomorrow. 😉
+We bet you can’t wait. 😉
 
 See you soon!
 

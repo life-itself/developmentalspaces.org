@@ -67,7 +67,7 @@ But, jokes aside, we do hope that through the irony of these commandments we hav
 >
 >  
 >
-> ⏩ In the final lesson tomorrow we will help you to navigate the next steps in becoming a conscious coliver.
+> ⏩ In the final lesson we will help you to navigate the next steps in becoming a conscious coliver.
 
 Lauren
 

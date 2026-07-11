@@ -41,7 +41,7 @@ Do the digging on this to avoid the heartbreak ahead of time.
 
 #### ✅ Are there clear communication structures, including pathways for conflict resolution?
 
-As we mentioned yesterday, conflict is inevitable in coliving situations. So the aim is not to find a place where no conflict exists, but to understand the mechanisms and structures in place that support open communication pathways and healthy conflict resolution.
+As we mentioned in the previous lesson, conflict is inevitable in coliving situations. So the aim is not to find a place where no conflict exists, but to understand the mechanisms and structures in place that support open communication pathways and healthy conflict resolution.
 
 #### ✅ Are communal resources respected and well maintained?
 
@@ -132,7 +132,7 @@ This red flag does what it says on the tin. If the community seems too good to b
 >
 >  
 >
-> ⏩ In tomorrow's lesson we will explore how you can be a conscious coliver and what you need to know to make sure you don’t become the 9th red flag.
+> ⏩ In the next lesson we will explore how you can be a conscious coliver and what you need to know to make sure you don’t become the 9th red flag.
 
 Lauren
 

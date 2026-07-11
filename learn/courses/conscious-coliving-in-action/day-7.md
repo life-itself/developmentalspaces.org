@@ -14,7 +14,7 @@ Hello conscious human,
 
 I can’t stress enough how much of a big topic this is–we could write a whole series on this. However, that isn’t practical at this point in time, and perhaps you’re more interested in gaining an overview of the work involved than a comprehensive ‘how to’.
 
-By now you should have an idea of the people, the plan, the vision, the set-up, and the agreements that are needed for your space. If you need a reminder, check out yesterday's email.
+By now you should have an idea of the people, the plan, the vision, the set-up, and the agreements that are needed for your space. If you need a reminder, check out the previous lesson.
 
 So, what's next? It’s time to create 😄.
 
@@ -78,13 +78,11 @@ The creation phase also takes a lot of time and dedication to ensure it is set u
 
 ✍️ Take some time to reflect on each of the points today and jot down anything that arose for you? ✍️ Call together your co-founders and start an initial vision mapping session. ✍️ Consider some of the ways can you ensure people feel onwership within the community?
 
-Join us tomorrow as we pull together everything from the past 7 days in our final wrap up 🎁!
+In the final lesson we pull together everything from the course in our final wrap up 🎁!
 
 Lauren & the Life Itself CoCo 🥥 team
 
-If you have any feedback on the course, [we’d love to receive it here](https://forms.gle/DYLU6eceSob9zfTn6)\
-
-[Share with the world about this course on X](https://ctt.ac/Z3hw9)\
+If you have any feedback on the course, we’d love to hear it: hello@lifeitself.org
 
 P.S. This course is brought to you by Life Itself - [https://lifeitself.org](https://lifeitself.org/)
 

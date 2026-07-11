@@ -70,7 +70,7 @@ If you are not equanimous to triggers, you may seek revenge, hold pent up resent
 
 While self-reliance might seem contradictory to the ideals of living in community, it’s critical to creating a balanced community experience. If everyone joined a community expecting it to provide for them, it would fail!
 
-Reflecting back on your needs identified yesterday, you will want to be able to actively fulfill those needs yourself. Of course, in lesson 2 we spoke about the needs from a community, such as a non-smoking living area, which are different from expectations or desires, e.g. if you need to eat at a certain time when no one else is eating therefore you cannot expect someone else to cook for you.\*
+Reflecting back on your needs identified in the previous lesson, you will want to be able to actively fulfill those needs yourself. Of course, in lesson 2 we spoke about the needs from a community, such as a non-smoking living area, which are different from expectations or desires, e.g. if you need to eat at a certain time when no one else is eating therefore you cannot expect someone else to cook for you.\*
 
 **Additionally, being aware of your own mental and emotional health or neurological challenges is important,** and although these might be more common than you might be led to think, when not managed or in our awareness, they also cause you to rely heavily on others. This is different from needing support which is a natural part of being human, and one reason why we’re pro community! Therefore, it is important to navigate this truthfully and mindfully to not place undue strain on a community. Seeking external therapy, coaching or emotional support and taking responsibility for your own mental and emotional health is key. This will ensure a balanced and healthy relationship between you and the community.
 
@@ -138,15 +138,13 @@ Know that this journey is long and winding. Preparation will occur parallel to i
 
 The immediate task is to reflect on these 5 questions and 1 statement and understand where you are on your journey. Journal about each of the points and what steps you will take to be more prepared for conscious coliving.
 
-In tomorrow's lesson, we will get into the practicalities of joining a conscious coliving space. This is the easiest way to experiment and hone your conscious coliving skills.
+In the next lesson, we will get into the practicalities of joining a conscious coliving space. This is the easiest way to experiment and hone your conscious coliving skills.
 
 See you there.
 
 Lauren & the Life Itself CoCo 🥥 team
 
-If you have any feedback on the course, [we’d love to receive it here](https://forms.gle/DYLU6eceSob9zfTn6)\
-
-[Share with the world about this course on X](https://ctt.ac/Z3hw9)\
+If you have any feedback on the course, we’d love to hear it: hello@lifeitself.org
 
 P.S. This course is brought to you by Life Itself - [https://lifeitself.org](https://lifeitself.org/)
 
