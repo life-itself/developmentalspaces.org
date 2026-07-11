@@ -44,7 +44,7 @@ Remember, these steps are guidelines, and the context of each conflict varies. F
 
 #### And finally,
 
-This is the last time you’ll hear from us via the Transforming Conflict course 😢. If you have enjoyed the course be sure to [sign up to our general mailing list](https://1ebb0834.sibforms.com/serve/MUIFAGsA4i4e_MH3DOCOUCWCXQ7zsn93VGKFgpBiPJWEijK91vKIDUArbKyBm9ggMrSYxA01tyBKXf-mHDNntjP5y4FZlF2PW54vJeDa1SohaL04DclolT991xU-nkEQJAej73BoVCBMJ151XTtGnr4mDK1xfEn2Clb5Qhf7sa81DsaRR6Jw9qH1fb2o1TQnOYV91juXyBhFcjDr). We share a monthly digest of everything happening at Life Itself, including new courses, residencies, resources and more! 
+This is the last time you’ll hear from us via the Transforming Conflict course 😢. If you have enjoyed the course be sure to [sign up to our general mailing list](https://developmentalspaces.substack.com). We share a monthly digest of everything happening at Life Itself, including new courses, residencies, resources and more! 
 
 **And to help us continue providing you with the best information, we wanted to ask those of you still to complete it if you could take 30 seconds of your time** [to fill in our feedback form](https://forms.gle/trTL19iEMb962NcW7)**, we’d appreciate it ever so much! 🙏**
 

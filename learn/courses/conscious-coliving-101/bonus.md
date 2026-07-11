@@ -54,7 +54,7 @@ Situated in Bergerac, France, the Hub is a place for experimentation, exploratio
 
 This is the last time you’ll hear from us via the Conscious Coliving 101 course 😢. 
 
-[If you have enjoyed the course be sure to sign up to our general mailing list.](https://1ebb0834.sibforms.com/serve/MUIFAF-7nCYO6J3mvE4Ov8QUVlpsjiUDgKPZQhgsSaq-PNKv-xFfs_W2vuyqY1jpTM99omk93nXsYl61v6SlA9NioXqOfQzrjVSYdGNZ_Uh2vEf2z5OS_q1kjnn5zVeVHz-6jrOL3bNuoVqPsCVvHl02FQEePitbKNFE1IzZJucwKsBUN47HhtlJHSCmQaHVLzFwRF7aeVU2luiP) We share a monthly digest of everything happening at Life Itself, including new courses, residencies, resources and more!
+[If you have enjoyed the course be sure to sign up to our general mailing list.](https://developmentalspaces.substack.com) We share a monthly digest of everything happening at Life Itself, including new courses, residencies, resources and more!
 
 Until then, don’t be a stranger, be a conscious coliver! 😉
 

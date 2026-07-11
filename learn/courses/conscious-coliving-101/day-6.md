@@ -54,7 +54,7 @@ These practices include sitting (1) or moving collectively (2), engaging in dail
 
 [To learn more about this visit the Praxis Ecology here](https://lifeitself.org/learn/praxis-ecology)\
 
-**Secondly,** don’t forget to sign up to our [mailing list](https://1ebb0834.sibforms.com/serve/MUIFAGsMRQxBWt6b7_2-CxLCbwWAFD2t8NFabT0s01jX8rjG7mj41POfdxnCIe7bCbVHxCwF0yZpZeuNoa9iOQm_6OcOHyj6iWzu00WYMtqyxi8MMDB48RyZhNHQxUqL9iuNgVhPhpa0oxlWu-Rmb_06HgJIRyF9ryQf5JECZK-p8pckMF41heSeTbgNoIG1igB31oelJGbemzAA) to make sure you get updates about new residency opportunities and ways to engage and continue to develop your consciousness.
+**Secondly,** don’t forget to sign up to our [mailing list](https://developmentalspaces.substack.com) to make sure you get updates about new residency opportunities and ways to engage and continue to develop your consciousness.
 
 **Thirdly,** **we want to thank you for completing this course.** We hope you’ve enjoyed reading it as much as we’ve enjoyed writing it. We would love to hear from you and to know your top takeaways, it will only take 1 minute, you can leave your [feedback here](https://forms.gle/v7fqDZ6qh7P8H6qE8).
 

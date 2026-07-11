@@ -18,7 +18,7 @@ Although conflict is inevitable, we hope you’ve realized not all of it needs t
 
 We know, we hear you, but downfall number one usually comes in the form of knowing but not embodying. Following a defined process is useful, but only when it is coupled with the capacity to truly engage with it openly. 
 
-If you can’t listen, unjaded, limit your activation and act in good faith, then it will be hard to facilitate a conflict resolution process. For the rest of today’s lesson we aim to give you an overview of some processes that can be used within coliving situations. We would recommend doing more in-depth research of your own or signing up for our [conflict resolution masterclass to experience it fully here](https://1ebb0834.sibforms.com/serve/MUIFALla0Htsv1cbMkoKHwNoVLYnVBhUstf7ZHNTmpmHHf2w5TMufXqxQvgoLnaY4G0Rtftk5vXnfJiTCoLFGmEK6UQRW1VbvKEk87xRbHlBptK26YELWsj2RbVcpjD4fcfWpZbPIqjM_ziKF6yWqouDw9O4ZIUPc4gMTZkH-IQWf09lEzxnLC4Shu4haLWhksJ1A3HPTpFV1j2D).
+If you can’t listen, unjaded, limit your activation and act in good faith, then it will be hard to facilitate a conflict resolution process. For the rest of today’s lesson we aim to give you an overview of some processes that can be used within coliving situations. We would recommend doing more in-depth research of your own or signing up for our [conflict resolution masterclass to experience it fully here](https://developmentalspaces.substack.com).
 
 ### The Conflict Resolution Model
 
