@@ -11,6 +11,8 @@ Developmental spaces need places — and places need capital. This stream is abo
 
 Between 2019 and 2022 we developed plans for a dedicated **real-estate fund for conscious community** (working title "Teal Estate"). The fund itself didn't launch — but the thinking evolved into something more open: a platform connecting **projects seeking capital** with **people who want to invest in these kinds of spaces**. A matching point — part publication, part project directory — for a kind of deal-flow that is now genuinely emerging.
 
+**Read the background:** [Conscious Community Capital — the fund we almost built](/fund/the-fund-we-almost-built) — the 2019–2022 fund design, the structural problem it addressed, and how it became this platform.
+
 ## What you'll find here
 
 - **Project and fundraising updates** — communities and spaces currently raising, via the [newsletter](https://developmentalspaces.substack.com)
