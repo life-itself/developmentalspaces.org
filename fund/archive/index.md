@@ -19,4 +19,4 @@ More is being published progressively — brand narrative, jobs-to-be-done analy
 
 ---
 
-*This work was led by Rufus Pollock at Life Itself with several collaborators, whose contributions we gratefully acknowledge. Part of the [Fund](/fund) stream.*
+*This work (2019–2021) was led by Rufus Pollock at Life Itself together with Ian Sneath (co-founder), Mark Bogues and Gavin O'Driscoll, whose contributions we gratefully acknowledge. Part of the [Fund](/fund) stream.*
