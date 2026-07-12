@@ -145,8 +145,12 @@ showSidebar: false
   <div class="ds-rubric ds-mono">Stay in<br/>the loop</div>
   <div style="max-width:34rem">
     <h2 class="ds-display" style="font-size:1.7rem;margin:0">Field notes, occasionally.</h2>
-    <p class="ds-faded" style="margin-top:.5rem">Project updates, capital deal-flow, and new courses — via Substack.</p>
-    <iframe src="https://developmentalspaces.substack.com/embed" width="100%" height="120" frameBorder="0" scrolling="no" style="margin-top:1rem;background:transparent"></iframe>
+    <p class="ds-faded" style="margin-top:.5rem">Project updates, capital deal-flow, and new courses.</p>
+    <form method="POST" action="https://devspaces-mailer.lifeitself.workers.dev/subscribe" style="margin-top:1rem;display:flex;flex-wrap:wrap;gap:.75rem">
+      <input type="email" name="email" required placeholder="you@example.com" style="flex:1;min-width:14rem;padding:.8rem 1rem;background:rgba(255,252,243,.7);border:1px solid rgba(43,33,24,.3);font-family:inherit;font-size:1rem" />
+      <input type="hidden" name="course" value="ds-newsletter" />
+      <button type="submit" class="ds-btn ds-btn-solid" style="border:0;cursor:pointer;font-family:inherit">Subscribe</button>
+    </form>
   </div>
 </section>
 
