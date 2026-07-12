@@ -1,7 +1,7 @@
 ---
 title: A new home for Developmental Spaces
 description: We've brought four sites together into one, put our courses online in full, opened the fund archive, added a wiki, and given the whole thing a new look. Here's the story.
-date: 2026-07-13
+date: 2026-07-15
 authors: [Rufus Pollock]
 ---
 

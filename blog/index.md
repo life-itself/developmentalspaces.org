@@ -10,4 +10,4 @@ Announcements and longer notes, kept here for permanence. For regular updates --
 
 ## Posts
 
-- **[A new home for Developmental Spaces](/blog/2026-07-13-a-new-home-for-developmental-spaces)** — July 2026. Four sites become one: the story of the consolidation, the new streams, the fund archive, the wiki, and the new look.
+- **[A new home for Developmental Spaces](/blog/a-new-home-for-developmental-spaces)** — July 2026. Four sites become one: the story of the consolidation, the new streams, the fund archive, the wiki, and the new look.
