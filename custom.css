@@ -236,3 +236,20 @@ body { line-height: 1.65; -webkit-font-smoothing: antialiased; }
     .ds-cols { grid-template-columns: 1fr 16rem; }
     .ds-desktop-only { display: block; }
 }
+
+/* image-topped cards (Learn landing) */
+.ds-card-img { padding: 0; overflow: hidden; }
+.ds-card-img img { width: 100%; aspect-ratio: 16/7; object-fit: cover; display: block; filter: sepia(.15); }
+.ds-card-img .ds-card-body { padding: 1.5rem 1.75rem 1.75rem; }
+.ds-minicard {
+    border: 1px solid rgba(165,131,59,.4);
+    padding: 1rem 1.25rem;
+    background: rgba(255,252,243,.4);
+    display: block;
+    text-decoration: none !important;
+    transition: border-color .2s;
+    font-size: 1.02rem;
+}
+.ds-minicard:hover { border-color: var(--ds-oxblood); }
+.ds-grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: .9rem; }
+.ds-grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1.25rem; }
