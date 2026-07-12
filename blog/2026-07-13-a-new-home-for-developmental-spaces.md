@@ -7,15 +7,18 @@ authors: [Rufus Pollock]
 
 # A new home for Developmental Spaces
 
-Hello, Rufus here. Over the past weeks we've made the biggest set of changes to Developmental Spaces since we started: we've brought several separate sites together into this one, published a lot of material that was sitting in drawers, and given the whole thing a new look. This post tells the story and gives a tour.
+Hello, Rufus here. If you're interested in conscious communities -- living in one, starting one, or funding one -- there is now one place to start: this site. Over the past weeks we've brought together what used to be spread across four separate sites, published a lot of material that was sitting in drawers, and given the whole thing a new look. This post tells the story and gives a tour.
+
+![The new Developmental Spaces home page](/assets/blog/2026-07-new-home.png)
+*The new home page: one home, three ways in.*
 
 ## The short version
 
-- [developmentalspaces.org](https://developmentalspaces.org) is now the single home for this work. consciouscoliving.org and tealestate.net have moved in (their old addresses redirect here).
-- The site is organised into three streams: [Learn](/learn) if you're exploring conscious community living, [Build](/build) if you're creating a space or working on the field, and [Fund](/fund) if you're interested in the capital side.
-- Our three email courses are now [readable online in full](/learn) -- around 27 lessons -- with email delivery still available if you prefer it paced.
+- Our three email courses on conscious coliving are now [readable online in full](/learn) -- around 27 lessons, free.
 - We've published the [fund archive](/fund/archive): the complete materials from our 2019--2021 work on a real-estate fund for conscious community.
 - There's a new [wiki](/wiki) with our working notes on inner development and developmental science.
+- [developmentalspaces.org](https://developmentalspaces.org) is now the single home for this work: consciouscoliving.org and tealestate.net have moved in, and their old addresses redirect here.
+- The site is organised into three streams: [Learn](/learn) if you're exploring conscious community living, [Build](/build) if you're creating a space or working on the field, and [Fund](/fund) if you're interested in the capital side.
 - And the site has a new design, which you're looking at.
 
 ## Why we did this
@@ -53,11 +56,8 @@ The old site did one thing well: it presented the whitepaper, plainly, in black 
 ![The old site](/assets/blog/2026-07-old-home.png)
 *Before: the whitepaper landing page.*
 
-![The new home page](/assets/blog/2026-07-new-home.png)
-*After: one home, three ways in.*
-
 ![The new Learn stream](/assets/blog/2026-07-new-learn.png)
-*The Learn stream, with the courses now readable online.*
+*After: the Learn stream, with the courses now readable online.*
 
 ## What's next
 
