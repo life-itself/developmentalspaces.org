@@ -228,3 +228,11 @@ body { line-height: 1.65; -webkit-font-smoothing: antialiased; }
 
 /* etching treatment for images */
 .ds-etch { filter: sepia(.35) contrast(.95); mix-blend-mode: multiply; }
+
+/* two-column feature grid (hero, whitepaper) + desktop-only helper */
+.ds-cols { display: grid; grid-template-columns: 1fr; gap: 2.5rem; align-items: center; }
+.ds-desktop-only { display: none; }
+@media (min-width: 900px) {
+    .ds-cols { grid-template-columns: 1fr 16rem; }
+    .ds-desktop-only { display: block; }
+}

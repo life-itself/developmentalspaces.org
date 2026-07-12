@@ -11,7 +11,7 @@ showSidebar: false
 <!-- hero -->
 <header class="ds-ms" style="padding-top:5rem;padding-bottom:5.5rem">
   <div class="ds-rubric ds-mono">A Life Itself<br/>initiative</div>
-  <div style="display:grid;grid-template-columns:1fr;gap:2.5rem;align-items:center" class="md:!grid-cols-[1fr,17rem]">
+  <div class="ds-cols">
     <div>
       <h1 class="ds-display" style="font-size:clamp(2.6rem,6vw,4.2rem);margin:0">Designing conscious communities <em class="ds-oxblood">where people grow.</em></h1>
       <p style="margin-top:1.75rem;max-width:36rem;font-size:1.3rem">A home for everyone exploring, building, or funding dedicated spaces where communities engage in sustained, multi-domain inner development — from co-living houses to new kinds of monastery or university.</p>
@@ -21,7 +21,7 @@ showSidebar: false
         <a href="/manifesto" style="font-style:italic">Sign the manifesto →</a>
       </div>
     </div>
-    <figure class="hidden md:block" style="text-align:center;margin:0">
+    <figure class="ds-desktop-only" style="text-align:center;margin:0">
       <svg viewBox="0 0 200 200" aria-hidden="true" style="width:100%;max-width:16rem">
         <path class="ds-spiral-path" d="M100 100 m0 -4 a4 4 0 1 1 -8 0 a12 12 0 1 1 24 0 a22 22 0 1 1 -44 0 a32 32 0 1 1 64 0 a42 42 0 1 1 -84 0 a52 52 0 1 1 104 0 a62 62 0 1 1 -124 0 a72 72 0 1 1 144 0 a82 82 0 1 1 -164 0" fill="none" stroke="var(--ds-gilt)" stroke-width="2.4" stroke-linecap="round"/>
       </svg>
@@ -108,7 +108,7 @@ showSidebar: false
 <!-- whitepaper / tower -->
 <section class="ds-ms" style="padding:5.5rem 0">
   <div class="ds-rubric ds-mono">The<br/>whitepaper</div>
-  <div style="display:grid;grid-template-columns:1fr;gap:2.5rem;align-items:center" class="md:!grid-cols-[1fr,15rem]">
+  <div class="ds-cols">
     <div style="max-width:42rem">
       <h2 class="ds-display" style="font-size:clamp(1.9rem,3.6vw,2.7rem);margin:0">A spiral ascent of the <em class="ds-oxblood">human interior.</em></h2>
       <p style="margin-top:1.25rem">Like the great spiral minaret, growth is not a straight line — it circles, returns, and rises across many turns. Our whitepaper sets out the case for transformational developmental spaces, grounded in half a century of research on human potential.</p>
@@ -117,7 +117,7 @@ showSidebar: false
         <a class="ds-btn ds-btn-ghost" href="/paper">Read a summary</a>
       </div>
     </div>
-    <figure class="hidden md:block" style="margin:0">
+    <figure class="ds-desktop-only" style="margin:0">
       <img src="/assets/tower.png" alt="Etching of the Malwiya spiral minaret" class="ds-etch" />
       <figcaption class="ds-mono ds-faded" style="margin-top:.5rem;text-align:center">the Malwiya · a spiral ascent</figcaption>
     </figure>
