@@ -64,7 +64,7 @@ body { line-height: 1.65; -webkit-font-smoothing: antialiased; }
 .page-header { max-width: 48rem; margin: 0 auto 2rem auto; border-bottom-width: 0; padding-bottom: 0; }
 .page-header > * + * { margin-top: 1rem; }
 .page-header-title { font-size: var(--font-size-h1); }
-@media (min-width: 640px) { .page-header-title { font-size: var(--font-size-xl); } }
+@media (min-width: 640px) { .page-header-title { font-size: var(--font-size-4xl); } }
 .page-body { max-width: 48rem; margin: 0 auto; }
 
 .prose { font-size: 1.125rem; }
