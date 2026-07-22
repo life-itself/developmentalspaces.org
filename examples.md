@@ -1,5 +1,6 @@
 ---
 title: Examples
+syntaxMode: mdx
 ---
 
 Explore existing communities and institutions that embody developmental principles.

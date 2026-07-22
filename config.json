@@ -22,6 +22,10 @@
         "name": "Fund"
       },
       {
+        "href": "/find",
+        "name": "Find"
+      },
+      {
         "href": "/paper",
         "name": "White paper"
       },
