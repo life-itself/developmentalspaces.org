@@ -21,7 +21,8 @@ showSidebar: false
 
 <!-- three doors -->
 <section class="ds-band">
-  <div class="ds-ms" style="padding-bottom:5rem">
+  <div class="ds-ms" style="padding:5rem 1.25rem">
+    <div class="ds-rubric ds-mono">Three<br/>ways in</div>
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));gap:1.25rem">
       <a href="/examples" class="ds-card">
         <div class="ds-mono ds-oxblood">Exemplars</div>
