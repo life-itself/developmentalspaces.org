@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: Developmental Spaces
-description: "Designing Conscious Communities Where People Grow"
+description: "Cultivating Conscious Communities Where People Grow"
 showToc: false
 showSidebar: false
 ---
@@ -13,7 +13,7 @@ showSidebar: false
   <div class="ds-rubric ds-mono">A Life Itself<br/>initiative</div>
   <div class="ds-cols">
     <div>
-      <h1 class="ds-display" style="font-size:clamp(2.6rem,6vw,4.2rem);margin:0">Designing conscious communities <em class="ds-oxblood">where people grow.</em></h1>
+      <h1 class="ds-display" style="font-size:clamp(2.6rem,6vw,4.2rem);margin:0">Conscious communities <em class="ds-oxblood">where people grow.</em></h1>
       <p style="margin-top:1.75rem;max-width:36rem;font-size:1.3rem">A home for everyone exploring, building, or funding dedicated spaces where communities engage in sustained, multi-domain inner development — from co-living houses to new kinds of monastery or university.</p>
       <div style="margin-top:2.25rem;display:flex;flex-wrap:wrap;gap:1rem;align-items:center">
         <a class="ds-btn ds-btn-solid" href="/learn">Start exploring</a>
