@@ -3,6 +3,9 @@ dolt/
 embeddeddolt/
 proxieddb/
 
+# Personal sync wrapper log (pre-push background push output)
+dolt-push.log
+
 # Runtime files
 bd.sock
 bd.sock.startlock
