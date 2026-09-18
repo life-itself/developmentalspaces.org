@@ -120,7 +120,7 @@ Agreed with Rufus after the visual mood board and the Awami book. This supersede
 
 **Copy** is a separate, human job (see the mood board's copy section). Mockups use placeholder copy that avoids the known problems but is not final.
 
-**Process from here.** Two or three plain HTML mockups of the home page sharing one stylesheet, with the Awami paintings and a procedural wash, to settle layout and type. Pick one. Then port into Flowershow on `feat/redesign-cc`, replacing the first-pass home page and CSS. Then stream pages, then whitepaper and manifesto.
+**Process from here.** Done 2026-09-18: three plain HTML mockups (the chapter page, the road, the catalogue) at https://claude.ai/artifact/3h8svRrhetYvMnAKDvm6rK, source in `mockups/`. They share one stylesheet and generate the washes, the cover and a brushed spiral mark in canvas. Next: Rufus picks one (or a combination); then port into Flowershow. Original plan: two or three plain HTML mockups of the home page sharing one stylesheet, with the Awami paintings and a procedural wash, to settle layout and type. Pick one. Then port into Flowershow on `feat/redesign-cc`, replacing the first-pass home page and CSS. Then stream pages, then whitepaper and manifesto.
 
 ## Sources
 
