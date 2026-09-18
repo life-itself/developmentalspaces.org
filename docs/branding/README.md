@@ -26,6 +26,7 @@ Internal working docs for the identity of this site and initiative. This folder 
 | 15 Jul 2026 | Consolidated site relaunched under Developmental Spaces with the warm-monastic theme. | `/blog/a-new-home-for-developmental-spaces` |
 | Aug–Sep 2026 | Tagline verb changed Designing → Cultivating; hero reworded to "For conscious communities where people grow". | git history |
 | 18 Sep 2026 | **Masthead flipped: Conscious Communities becomes the public name; Developmental Spaces remains the name of the concept, whitepaper, manifesto and network.** Supersedes the July naming decision. Domain unchanged. | [naming.md](naming.md) |
+| 18 Sep 2026 (later) | Direction reopened. Process change: mood board first, then 2–3 mockups as plain HTML, then implement in Flowershow. Visual mood board: https://claude.ai/artifact/7RkR5Dg45Jn9JNtTA55nMj | [moodboard.md](moodboard.md) |
 | 18 Sep 2026 | Redesign started on branch `feat/redesign-cc`: identity brief (Alegreya, paper/graphite/vermilion, pencil spiral, Bergerac photographs), mood board, new home page with the Conscious Communities masthead. Preview: https://ds-redesign-preview-rufuspollock.flowershow.me | [design-direction.md](design-direction.md), [moodboard.md](moodboard.md) |
 
 ## Related material outside this folder

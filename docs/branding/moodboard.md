@@ -6,6 +6,8 @@ status: working
 
 # Mood board
 
+**Visual version (the one to look at):** https://claude.ai/artifact/7RkR5Dg45Jn9JNtTA55nMj — four directions (A pencil and paper, B the quiet house, C the journal, D warm and civic) with samples, live type specimens, the photograph question, and copy notes. This markdown file is the working notes behind it.
+
 Screenshots taken 2026-09-18 at 1440px, stored in `moodboard/` (small JPEGs). Each entry says what to take and what to leave. The point is not to copy any of them but to find the *material* our identity is made from.
 
 ## The material we already own

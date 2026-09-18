@@ -1,7 +1,7 @@
 ---
 title: Design direction — from "warm monastic" to a real identity
 created: 2026-09-18
-status: working — identity brief §6 decided 2026-09-18; home page built on feat/redesign-cc; stream pages next
+status: REOPENED 2026-09-18 evening — Rufus: the July direction and the first redesign pass are both open again; the drawn/photographic mishmash is the core problem; start from the visual mood board and mock up 2–3 alternatives before implementing
 ---
 
 # Design direction
@@ -61,7 +61,9 @@ None of this is fatal individually. Together it means the site has a *style* but
 3. **Design session.** Home page first (done 2026-09-18 on `feat/redesign-cc`), then the Learn, Build and Fund stream pages, then the whitepaper and manifesto pages. Preview loop: edit, `fl . --yes` (publishes the working tree to the preview site named in `.flowershow`), screenshot. Note the preview ignores `contentExclude`, so `docs/` is visible there but not in production.
 4. **Implement and ship** the home page with the masthead flip in one go, then the streams.
 
-## 6. Identity brief (2026-09-18)
+## 6. Identity brief (2026-09-18) — now a candidate, not a decision
+
+> Reopened the same evening. Kept here as "direction A: pencil and paper" in the visual mood board. The Alegreya / paper / vermilion choices are one option among four.
 
 Derived from the [mood board](moodboard.md). This is what the redesign implements.
 
