@@ -1,6 +1,6 @@
 {
   "title": "Conscious Communities",
-  "favicon": "/assets/ds-logo.png",
+  "favicon": "/assets/cc-favicon.png",
   "author": "Life Itself, Commonweal, Ekskaret",
   "authorLogo": "https://lifeitself.org/assets/site/life-itself-logo.svg",
   "authorUrl": "https://lifeitself.org/",
@@ -9,7 +9,7 @@
     "/docs"
   ],
   "nav": {
-    "logo": "/assets/ds-logo.png",
+    "logo": "/assets/cc-spiral.png",
     "title": "Conscious Communities",
     "links": [
       {
