@@ -6,48 +6,33 @@ showToc: false
 showSidebar: false
 ---
 
-<div style="padding:0 1.25rem">
+<div class="cc-page">
 
-<!-- hero -->
-<header class="ds-ms" style="padding-top:4.5rem;padding-bottom:4rem">
-  <div class="ds-rubric ds-mono">Find</div>
-  <div style="max-width:46rem">
-    <h1 class="ds-display" style="font-size:clamp(2.3rem,5vw,3.6rem);margin:0">Looking for a <em class="ds-oxblood">developmental space?</em></h1>
-    <p style="margin-top:1.5rem;font-size:1.25rem;max-width:38rem">Whether you're looking for a place to join, or want to see what already exists, start here.</p>
-  </div>
-</header>
-
-</div>
-
-<!-- three doors -->
-<section class="ds-band">
-  <div class="ds-ms" style="padding:5rem 1.25rem">
-    <div class="ds-rubric ds-mono">Three<br/>ways in</div>
-    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));gap:1.25rem">
-      <a href="/examples" class="ds-card">
-        <div class="ds-mono ds-oxblood">Exemplars</div>
-        <h3 class="ds-display" style="font-size:1.5rem;margin-top:.75rem">Existing spaces.</h3>
-        <p class="ds-faded" style="margin-top:.75rem;font-size:1.05rem">A partial list of communities and institutions already embodying developmental principles.</p>
-        <p class="ds-smallcaps" style="margin-top:1rem">Browse examples →</p>
-      </a>
-      <a href="https://developmentalspaces.substack.com" class="ds-card">
-        <div class="ds-mono ds-oxblood">Fund / deal-flow</div>
-        <h3 class="ds-display" style="font-size:1.5rem;margin-top:.75rem">Projects raising now.</h3>
-        <p class="ds-faded" style="margin-top:.75rem;font-size:1.05rem">Fundraising updates from communities and spaces seeking members and capital — via the newsletter's Teal Estate section.</p>
-        <p class="ds-smallcaps" style="margin-top:1rem">Subscribe →</p>
-      </a>
-      <a href="https://archipelago.place" class="ds-card">
-        <div class="ds-mono ds-oxblood">Archipelago</div>
-        <h3 class="ds-display" style="font-size:1.5rem;margin-top:.75rem">A directory of places.</h3>
-        <p class="ds-faded" style="margin-top:.75rem;font-size:1.05rem">Archipelago.place is a growing directory of intentional communities and regenerative places — browse it directly.</p>
-        <p class="ds-smallcaps" style="margin-top:1rem">Visit archipelago.place →</p>
-      </a>
+<section class="cc-wrap hero hero-sm">
+  <div>
+    <span class="cc-yb sm"></span>
+    <h1 class="cc-display cc-h1">Find</h1>
+    <p class="cc-sub">a place to join, or one to learn from</p>
+    <div class="cc-col" style="margin-top:1.5rem">
+      <p>Whether you are looking for a space to join, or want to see what already exists, start here.</p>
     </div>
   </div>
+  <figure><img class="cc-paint" src="/assets/illustrations/vegetables.webp" alt="Watercolour of vegetables arranged by colour" /></figure>
 </section>
 
-<div style="padding:0 1.25rem">
+<section class="cc-wrap cc-sec">
+  <h2 class="cc-display cc-h2">Three ways in</h2>
+  <ul class="cc-list">
+    <li><a href="/examples"><span class="k">Exemplars</span><div><div class="t">Existing spaces</div><div class="d">A partial list of communities and institutions already embodying developmental principles.</div></div></a></li>
+    <li><a href="https://developmentalspaces.substack.com"><span class="k">Deal-flow</span><div><div class="t">Projects raising now</div><div class="d">Fundraising updates from communities and spaces seeking members and capital, via the newsletter's Teal Estate section.</div></div></a></li>
+    <li><a href="https://archipelago.place"><span class="k">Archipelago</span><div><div class="t">A directory of places</div><div class="d">Archipelago.place is a growing directory of intentional communities and regenerative places. Browse it directly.</div></div></a></li>
+  </ul>
+  <p class="cc-cap" style="margin-top:1.25rem">Know a space that should be listed? <a class="cc-lnk" href="/about">Get in touch</a>.</p>
+</section>
 
-<p class="ds-faded" style="max-width:38rem;margin:0 auto;padding-bottom:3rem">Know a space that should be listed? <a href="/about">Get in touch</a>.</p>
+<footer class="cc-wrap cc-foot">
+  <div><b>Conscious Communities</b><br/>Developmental spaces where people grow.</div>
+  <div>An initiative of Life Itself and friends.</div>
+</footer>
 
 </div>

@@ -237,3 +237,26 @@ body:has(.cc-page) .site-footer { display: none; }
 .ds-minicard:hover { border-color: var(--cc-ink); }
 .ds-grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: .9rem; }
 .ds-grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1.25rem; }
+
+/* ============================================================
+   Whitepaper and manifesto heads (markdown pages with a designed opener)
+   ============================================================ */
+.cc-paperhead { display: grid; grid-template-columns: 1fr; gap: 2rem; align-items: center; margin: 1rem 0 3rem; }
+@media (min-width: 760px) { .cc-paperhead { grid-template-columns: minmax(0, 1fr) 13rem; gap: 3rem; } }
+.cc-paperhead .cc-yb.sm { width: 7rem; height: 3rem; margin-bottom: 1.5rem; }
+.cc-paperhead .cc-sub { margin-top: .8rem; }
+.cc-paperhead-cover img { width: 100%; height: auto; display: block; box-shadow: 0 1px 2px rgba(0,0,0,.15), 0 12px 30px -14px rgba(0,0,0,.4); }
+.cc-manifesto { margin: 1rem 0 3rem; }
+.cc-manifesto .cc-yb.sm { width: 7rem; height: 3rem; margin-bottom: 1.5rem; }
+.cc-manifesto .cc-h1 { max-width: 16ch; margin-top: .5rem; }
+.cc-manifesto-points { max-width: 40rem; margin-top: 2rem; }
+.cc-manifesto-points .row { grid-template-columns: 2.5rem minmax(0, 1fr); }
+.page-body .cc-paperhead h1, .page-body .cc-manifesto h1 { margin: 0; }
+.prose .not-prose a { background: none; }
+.cc-paperhead-cover { max-width: 13rem; }
+.cc-paperhead-cover img, .cc-paperhead-cover a { display: block; margin: 0; }
+.cc-manifesto .cc-quote { margin-top: 1.5rem; }
+button.cc-btn { background: var(--cc-ink); color: var(--cc-page); padding: .75rem 1.3rem; border: 0; cursor: pointer; font-family: var(--font-sans); font-size: 1rem; transition: background-color .2s, color .2s; }
+button.cc-btn:hover { background: var(--cc-yellow); color: var(--cc-ink); }
+/* designed openers replace the frontmatter title */
+body:has(.cc-paperhead) .page-header, body:has(.cc-manifesto) .page-header { display: none !important; }

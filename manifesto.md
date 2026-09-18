@@ -1,34 +1,35 @@
 ---
 showToc: false
-title: Developmental Spaces - Cultural incubators for a time of transformation
-description: A Manifesto
+showSidebar: false
+title: The Developmental Spaces Manifesto
+description: We call for the creation of developmental spaces. Read and sign.
 ---
 
-<div className="text-xl">
-
-<div className="text-2xl text-slate-600 font-light text-justify font-bold leading-snug">
-
-We call for the creation of "Developmental Spaces”:  
-
-_Dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development, in the service of socio-cultural transformation_
-
-**Incubators for inner-led cultural transition**, in response to profound global challenges.
-**Spaces of sustained community**, that support ways of life counter to the mainstream.
-**Ecologies of practice** grounded in the revolutionary research of recent decades, revealing our personal and collective potential for inner growth and transformation.
+<div className="cc-manifesto not-prose">
+  <span className="cc-yb sm"></span>
+  <p className="cc-cap">The manifesto</p>
+  <h1 className="cc-display cc-h1">We call for the creation of developmental spaces.</h1>
+  <p className="cc-quote">Dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development, in the service of socio-cultural transformation.</p>
+  <ul className="cc-list cc-manifesto-points">
+    <li><div className="row"><span className="n">i</span><div><div className="t">Incubators for inner-led cultural transition</div><div className="d">in response to profound global challenges.</div></div></div></li>
+    <li><div className="row"><span className="n">ii</span><div><div className="t">Spaces of sustained community</div><div className="d">that support ways of life counter to the mainstream.</div></div></div></li>
+    <li><div className="row"><span className="n">iii</span><div><div className="t">Ecologies of practice</div><div className="d">grounded in the revolutionary research of recent decades, revealing our personal and collective potential for inner growth and transformation.</div></div></div></li>
+  </ul>
+  <div className="cc-btns"><a className="cc-btn cc-btn-y" href="https://forms.gle/KKfX3ypK3yCHZsgK9">Sign the manifesto</a><a className="cc-lnk" href="#signatories">See who has signed</a></div>
 </div>
 
-### Motivating context
+## Motivating context
 Humanity is entangled in a polycrisis; an escalating set of interwoven crises from ecosphere degradation to economic fragility and political polarization. Crucially, these crises share a common root, a metacrisis in how we envision ourselves, our societies and our civilization.
 
 Efforts simply to ‘fix’ external systems will therefore continue to reproduce crisis. Our metacrisis calls for entirely different ways of seeing and being in the world: this is the terrain of inner development.
 
-### Transformational research
+## Transformational research
 Recent decades have seen a revolution in our understanding of human inner development. A growing body of evidence now supports three crucial principles. First, development is multi-faceted; spanning psychological, spiritual, biological and cultural dimensions. Second, it can be lifelong, continuing well into adulthood. Third, it is neither guaranteed nor straightforward - and sustained effort is often required, especially later in life.
 
-### Conditions for an inner revolution 
+## Conditions for an inner revolution 
 Mainstream institutions and culture have barely begun to integrate this revolutionary understanding or its potential. The challenges of our time demand new kinds of educational and communal space; explicitly informed by this knowledge, and designed to support sustained, multidimensional growth - personal and collective. These spaces can take many forms, from online communities to co-living environments; evens new kinds of of monastery or university. 
 
-### A far-reaching ambition
+## A far-reaching ambition
 This can’t be a niche project. It represents a radically inclusive ambition: to uphold commitments to redressing deep and long standing social injustices, whilst collaborating to address a deeper crisis which underpins and transcends them all.
 
 As such, from eighteen to eighty, everyone should have access to environments explicitly designed for multi-domain inner development. We do not lack the research, ideas, methodologies and tools. What we need is the will: urgent investment and creative support - to help individuals and communities grow in depth and resilience; to navigate the complexity and challenges of our time. 
@@ -46,10 +47,7 @@ As such, from eighteen to eighty, everyone should have access to environments ex
 
 ## Help shape the emerging field
 
-<p className="pt-10 pb-15">
-  <a className="text-4xl bg-yellow-400 hover:bg-yellow-500 font-bold no-underline py-6 px-8 rounded-md" href="https://forms.gle/KKfX3ypK3yCHZsgK9">Sign the Manifesto</a>
-</p>
-</div>
+<div className="cc-btns not-prose"><a className="cc-btn cc-btn-y" href="https://forms.gle/KKfX3ypK3yCHZsgK9">Sign the manifesto</a></div>
 
 ---
 
