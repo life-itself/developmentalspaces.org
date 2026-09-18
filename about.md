@@ -49,7 +49,7 @@ showSidebar: false
 <section class="cc-wrap cc-sec">
   <h2 class="cc-display cc-h3">Credits</h2>
   <div class="cc-col" style="margin-top:.75rem">
-    <p>Illustrations by Jennifer Chan, from <em>Awami Conscious Food System</em> (Life Itself, 2026). Whitepaper cover drawings by the authors. The site is built with <a class="cc-lnk" href="https://flowershow.app">Flowershow</a> and its source is on <a class="cc-lnk" href="https://github.com/life-itself/developmentalspaces.org">GitHub</a>.</p>
+    <p>Illustrations by Jennifer Chan, from <em>Awami Conscious Food System</em> (Life Itself, 2026). The pencil spiral on the whitepaper cover comes from a printed card set. The site is built with <a class="cc-lnk" href="https://flowershow.app">Flowershow</a> and its source is on <a class="cc-lnk" href="https://github.com/life-itself/developmentalspaces.org">GitHub</a>.</p>
   </div>
 </section>
 
