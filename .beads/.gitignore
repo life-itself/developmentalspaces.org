@@ -12,11 +12,8 @@ last-touched
 
 # Daemon runtime (lock, log, pid)
 daemon.*
-<<<<<<< HEAD
 dolt-push.log
 dolt-push.pid
-=======
->>>>>>> origin/main
 
 # Push state (runtime, per-machine)
 push-state.json
