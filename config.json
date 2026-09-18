@@ -6,7 +6,9 @@
   "authorUrl": "https://lifeitself.org/",
   "analytics": "G-CN5D9D57PC",
   "contentExclude": [
-    "/docs"
+    "/docs",
+    "/.beads",
+    "/sandbox"
   ],
   "nav": {
     "logo": "/assets/cc-spiral.png",
