@@ -1,7 +1,7 @@
 ---
 title: Design direction — from "warm monastic" to a real identity
 created: 2026-09-18
-status: REOPENED 2026-09-18 evening — Rufus: the July direction and the first redesign pass are both open again; the drawn/photographic mishmash is the core problem; start from the visual mood board and mock up 2–3 alternatives before implementing
+status: DECIDED 2026-09-18 (evening) — direction E, watercolour, see §7. Mockups next, then Flowershow.
 ---
 
 # Design direction
@@ -94,6 +94,33 @@ No gilt, no gold, no gradients. Photographs carry all other colour.
 **Per stream.** Learn: most photographs, cream reading ground. Build: the etching, the cover, text-forward, the one dark block. Fund: tables and documents, quiet.
 
 **Masthead.** Nav: spiral mark + "Conscious Communities" in Alegreya. Footer lockup: *Conscious Communities · developmental spaces where people grow · an initiative of Life Itself and friends.*
+
+## 7. Direction decided: E, watercolour (2026-09-18, evening)
+
+Agreed with Rufus after the visual mood board and the Awami book. This supersedes §1 (warm monastic) and §6 (the Alegreya / paper / vermilion brief), which are kept as history.
+
+**The recipe.** Loose watercolour illustration on a near-white page, held by a hard, tight-set black serif and flat yellow blocks. The Awami Conscious Food book (Life Itself, 2026; illustration by Jennifer Chan) proves the balance: soft paintings, severe type, one colour. Watercolour plus type plus yellow is one register, which is what the first redesign pass lacked when it mixed drawings with photographs.
+
+**Rules**
+
+- **Base: E.** Page `#F5F5F3` (near-white, not cream). Ink `#111`. One flat yellow, Life Itself's (`#FFD23F` or the exact brand value). All other colour comes from the paintings. Narrow text columns, a lot of air, paintings bleeding off the page edge.
+- **Spine from C.** Whitepaper and manifesto pages: fewer paintings, the serif tight and severe, the yellow block as the only relief.
+- **Mark.** A spiral in the same brushed hand as the book's blue circle, to be made. The pencil spiral stays on the current whitepaper until the cover is redone in watercolour. Samarra is good in itself and can appear inside as a plate; it is not a cover.
+- **Type.** PT Serif throughout (nearest web cousin of the book's Literaturnaya): titles tracked tight (about -0.04em) with an italic second line, body at reading size. Prata for the masthead only if more elegance is wanted. A plain sans (Source Sans 3) for navigation, captions, buttons. No monospace, no tracked uppercase eyebrows.
+- **Yellow stays.** It is the family tie to Life Itself and the book has proved it. No second brand colour.
+- **Illustration carries ideas; photographs carry evidence.** Paintings on the home page, stream pages, concept pages, courses. Photographs only where a page is about an actual place (exemplars, Find, posts about a specific space), and there always as a plate inside the designed page: uniform size, captioned with place and year, never full-bleed, never the hero. No photographs of the Bergerac hub as a stand-in for the idea; the site is about the general idea.
+- **No photography commission.** Not happening; the design must not depend on it.
+
+**Illustration supply, in order**
+
+1. **Reuse the Awami paintings.** They are Life Itself's own work and on theme (a monk with a bowl, a cook, a long table, a building, a road from field to bowl, vegetables, colour ribbons, a blue circle, the cover wash). They carry the mockups and plausibly the launch. Jennifer Chan is no longer around, so this is the working library.
+2. **Procedural washes.** Claude can make the abstract parts in code (canvas or SVG): washes, circles, ribbons, grain. Good for backgrounds and shapes, not for figures.
+3. **Image model with the Awami paintings as style references** (Midjourney, Flux or similar), prompts written by Claude, curated ruthlessly by Rufus. For drafts and gaps only; uncurated output drifts into generic "AI watercolour", the thing being avoided.
+4. **Commission** a small set of new pieces when possible: a spiral, a circle of people, a house with many doors, the five domains, the three streams, and a new whitepaper cover in the same hand.
+
+**Copy** is a separate, human job (see the mood board's copy section). Mockups use placeholder copy that avoids the known problems but is not final.
+
+**Process from here.** Two or three plain HTML mockups of the home page sharing one stylesheet, with the Awami paintings and a procedural wash, to settle layout and type. Pick one. Then port into Flowershow on `feat/redesign-cc`, replacing the first-pass home page and CSS. Then stream pages, then whitepaper and manifesto.
 
 ## Sources
 
