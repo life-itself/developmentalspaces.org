@@ -25,6 +25,9 @@ push-state.json
 # Local version tracking (prevents upgrade notification spam after git ops)
 .local_version
 
+# Auto-import staging is local runtime state; issues.jsonl itself remains tracked.
+.auto-import-issues.jsonl
+
 proxied_server_client_info.json
 
 # Worktree redirect file (contains relative path to main repo's .beads/)
