@@ -6,7 +6,7 @@ showToc: false
 showSidebar: false
 ---
 
-<div class="cc-home">
+<div class="cc-home cc-page">
 
 <!-- hero: the chapter page -->
 <section class="cc-wrap hero">
