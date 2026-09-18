@@ -61,8 +61,17 @@ Note: the images in `assets/` that look like place photos (Plum Village, Tamera,
 | The AI editorial template: parchment ground, serif plus tracked monospace eyebrows, italic accent word in every headline, rubric margin, three cards | **Our own current site** `moodboard/dshome.jpg`, `dslearn.jpg` | Has a style, not an identity. See design-direction.md §2. |
 | The wellness gradient: pastel, airy sans, soft-focus | (Emergence at its softest; most "conscious living" sites) | Undermines the spine. |
 
+## Direction E: watercolour (added 2026-09-18, evening)
+
+Source: *Awami Conscious Food System* (Valérie Duvauchelle, illustrated and edited by Jennifer Chan, Life Itself, 2026), 26 pages, in `sandbox/` (not in git). The book's language: loose watercolour illustration (figures, places, food, abstract colour ribbons, a yellow road as a diagram), a near-white page, one flat Life Itself yellow block, a tight-set transitional serif (Literaturnaya; nearest web cousins PT Serif, Prata, Frank Ruhl Libre), narrow text columns, lots of air.
+
+Rufus's steer: this is the feeling to aim for. Nothing we currently own is fixed (the cover and the five-domains drawing can be redone in this hand; Samarra is good but was too much for a cover and belongs inside as a plate). No photography will be commissioned, and the site is about the general idea, not the Bergerac hub, so photographs are not needed at all. Illustration is the realistic route: Jennifer Chan has already painted this world.
+
+Extracted assets for mockups (scratchpad only; the book's paintings are stand-ins until new work is commissioned): monk, cook, building, blue circle, yellow road, vegetables, ribbons, table, cover wash.
+
 ## What the board says
 
+0. **Illustration resolves the image question.** Watercolour (E) or pencil (A) can carry the whole site without a photograph, which is the only realistic route given no photography will be commissioned.
 1. **Identity comes from artefacts, not from a theme.** Dark Mountain has engravings, Plum Village has a hand-drawn logotype, The Point has the physical magazine. We have a pencil spiral, a yellow paper cover, an etching, and photographs of a house in Bergerac.
 2. **One accent colour, drawn from the artefact.** Dark Mountain's orange, SFZC's red enso. Ours is the vermilion of the cover title.
 3. **Photographs of real people at a real table beat any illustration of "community".** Plum Village, Findhorn, Deep Springs all prove it. We have those photographs.
