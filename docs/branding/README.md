@@ -41,7 +41,7 @@ Internal working docs for the identity of this site and initiative. This folder 
 | Fund brand narrative 2020 to 2021 | https://developmentalspaces.org/fund/archive/brand-narrative |
 | Sep 2025 "Branding, Ownership and Naming" Google Doc | Google Drive, file id `1eLvASqM8DXxuxazM9iB7qk-Nr1uHcL-hg_P0SKev5Pk` |
 
-Privacy note: `docs/` is excluded from the published site but visible on the public GitHub repo. It names a few community consultation participants by first name in `brand-narrative.md` and `naming.md`.
+Privacy note: `docs/` is excluded from the published site but visible on the public GitHub repo. It names a few community consultation participants by first name only in `brand-narrative.md` and `naming.md`; Rufus decided on 2026-09-19 that first names are fine. The raw WhatsApp responses and the ChatGPT thread stay in the private consolidation repo.
 
 ## Decision log
 
