@@ -5,7 +5,19 @@
    Source Sans 3 for wayfinding · watercolour illustration, no photos
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap');
+/* Fonts are self-hosted (SIL OFL) so no render-blocking request goes to Google: PT Serif and Source Sans 3, latin and latin-ext only. */
+@font-face { font-family: "PT Serif"; font-style: italic; font-weight: 400; font-display: swap; src: url(/assets/fonts/pt-serif-italic-400-latin-ext.woff2) format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "PT Serif"; font-style: italic; font-weight: 400; font-display: swap; src: url(/assets/fonts/pt-serif-italic-400-latin.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "PT Serif"; font-style: italic; font-weight: 700; font-display: swap; src: url(/assets/fonts/pt-serif-italic-700-latin-ext.woff2) format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "PT Serif"; font-style: italic; font-weight: 700; font-display: swap; src: url(/assets/fonts/pt-serif-italic-700-latin.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "PT Serif"; font-style: normal; font-weight: 400; font-display: swap; src: url(/assets/fonts/pt-serif-normal-400-latin-ext.woff2) format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "PT Serif"; font-style: normal; font-weight: 400; font-display: swap; src: url(/assets/fonts/pt-serif-normal-400-latin.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "PT Serif"; font-style: normal; font-weight: 700; font-display: swap; src: url(/assets/fonts/pt-serif-normal-700-latin-ext.woff2) format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "PT Serif"; font-style: normal; font-weight: 700; font-display: swap; src: url(/assets/fonts/pt-serif-normal-700-latin.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Source Sans 3"; font-style: italic; font-weight: 400; font-display: swap; src: url(/assets/fonts/source-sans-3-italic-400-latin-ext.woff2) format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Source Sans 3"; font-style: italic; font-weight: 400; font-display: swap; src: url(/assets/fonts/source-sans-3-italic-400-latin.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400 600; font-display: swap; src: url(/assets/fonts/source-sans-3-normal-var-latin-ext.woff2) format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 400 600; font-display: swap; src: url(/assets/fonts/source-sans-3-normal-var-latin.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
 
 :root {
     /* brand tokens */
@@ -39,6 +51,7 @@ body { line-height: 1.5; -webkit-font-smoothing: antialiased; }
 .site-navbar-link:hover { background: var(--cc-yellow); }
 .site-navbar-search-container { flex-grow: 0; min-width: 12rem; }
 .search-modal-highlight { background-color: var(--cc-yellow) !important; }
+.site-navbar .search-shortcut-hint { color: var(--cc-mute) !important; opacity: 1 !important; }
 
 /* ---------- prose / markdown pages ---------- */
 .page-header { max-width: 46rem; margin: 0 auto 2rem auto; border-bottom-width: 0; padding-bottom: 0; }
@@ -118,9 +131,10 @@ body { line-height: 1.5; -webkit-font-smoothing: antialiased; }
 .cc-page a { color: inherit; text-decoration: none; }
 .cc-page .hero { display: grid; grid-template-columns: 1fr; gap: 2rem; align-items: end; padding-top: 1.5rem; }
 .cc-page .hero .cc-yb { width: 11rem; height: 4.5rem; margin-bottom: 2.5rem; }
-.cc-page .hero figure { margin: 0; justify-self: end; align-self: end; }
-.cc-page .hero figure img { max-height: 36rem; width: auto; }
-@media (min-width: 900px) { .cc-page .hero { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } .cc-page .hero figure { margin-right: calc(-1 * clamp(1rem, 4vw, 3rem)); } }
+.cc-page .hero figure { --mh: 36rem; margin: 0; justify-self: end; align-self: end; width: min(100%, calc(var(--mh) * var(--ar, .87))); }
+.cc-page .hero figure img { width: 100%; height: auto; }
+@media (min-width: 720px) { .cc-page .hero { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
+@media (min-width: 900px) { .cc-page .hero figure { margin-right: calc(-1 * clamp(1rem, 4vw, 3rem)); } }
 
 .cc-page .streams { display: grid; gap: 0; margin-top: 2rem; }
 .cc-page .stream { display: grid; grid-template-columns: 1fr; gap: 1.25rem; padding-block: 2rem; border-top: 1px solid var(--cc-rule); align-items: center; }
@@ -155,7 +169,7 @@ body { line-height: 1.5; -webkit-font-smoothing: antialiased; }
 body:has(.cc-page) .site-footer { display: none; }
 
 /* stream pages: smaller hero painting, list rows, yellow section */
-.cc-page .hero.hero-sm figure img { max-height: 26rem; }
+.cc-page .hero.hero-sm figure { --mh: 26rem; }
 /* a yellow section directly under a hero gets air, and the painting's flat cut-out edge fades instead of meeting the seam */
 .cc-page .hero + .cc-yellow { margin-top: clamp(2rem, 5vw, 4rem); }
 .cc-page .hero figure img { -webkit-mask-image: linear-gradient(to bottom, #000 88%, transparent); mask-image: linear-gradient(to bottom, #000 88%, transparent); }
@@ -175,8 +189,8 @@ body:has(.cc-page) .site-footer { display: none; }
 .cc-yellow .cc-cap { color: #5a4a00; }
 .cc-yellow .grid2 { display: grid; grid-template-columns: 1fr; gap: 2rem; align-items: center; }
 @media (min-width: 900px) { .cc-yellow .grid2 { grid-template-columns: 3fr 2fr; gap: 4rem; } }
-.cc-yellow figure { margin: 0; justify-self: center; }
-.cc-yellow figure img { max-height: 22rem; width: auto; mix-blend-mode: multiply; }
+.cc-yellow figure { --mh: 22rem; margin: 0; justify-self: center; width: min(100%, calc(var(--mh) * var(--ar, .87))); }
+.cc-yellow figure img { width: 100%; height: auto; mix-blend-mode: multiply; }
 .cc-two { display: grid; grid-template-columns: 1fr; gap: 2.5rem; }
 @media (min-width: 900px) { .cc-two { grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start; } }
 .cc-quote { font-family: var(--font-heading); font-style: italic; font-size: clamp(1.3rem, 2.4vw, 1.8rem); letter-spacing: -.02em; line-height: 1.25; max-width: 34rem; margin: 0; }
@@ -255,6 +269,7 @@ body:has(.cc-page) .site-footer { display: none; }
 .page-body .cc-paperhead h1, .page-body .cc-manifesto h1 { margin: 0; }
 .prose .not-prose a { background: none; }
 .cc-paperhead-cover { max-width: 13rem; }
+.cc-paperhead-cover img { aspect-ratio: 640 / 905; }
 .cc-paperhead-cover img, .cc-paperhead-cover a { display: block; margin: 0; }
 .cc-manifesto .cc-quote { margin-top: 1.5rem; }
 button.cc-btn { background: var(--cc-ink); color: var(--cc-page); padding: .75rem 1.3rem; border: 0; cursor: pointer; font-family: var(--font-sans); font-size: 1rem; transition: background-color .2s, color .2s; }

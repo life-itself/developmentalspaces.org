@@ -28,6 +28,8 @@ The site has three streams (Learn, Build, Fund) plus Find and About. Content is 
 - Illustrations live in `assets/illustrations/`. They are currently paintings borrowed from the Awami Conscious Food book (Life Itself, illustrated by Jennifer Chan) and are stand-ins until new work exists.
 - Page components are `cc-*` classes in `custom.css`. Copy the patterns already used in `index.md` and `learn/index.md` rather than inventing new ones. The older `ds-*` classes are kept only for pages not yet migrated.
 - Copy (hero, tagline, door sentences) is a separate human job tracked in a bead. Do not rewrite it unasked.
+- Fonts (PT Serif, Source Sans 3) are self-hosted from `assets/fonts/` (SIL OFL, latin and latin-ext only) through `@font-face` at the top of `custom.css`, so nothing render-blocking goes to Google. To add a weight, take the woff2 URLs from the Google Fonts `css2` response (send a Chrome user agent) and add a rule.
+- Flowershow strips `width` and `height` from `<img>` in pages (both raw HTML and MDX), so they cannot prevent layout shift. Reserve space with `style="aspect-ratio:W/H"` on the image, and on a hero or yellow-section `<figure>` also set `style="--ar:W/H as a number"` (for example `0.867`); the CSS sizes the figure from `--ar`. Give the first (hero) painting on a page `fetchpriority="high" decoding="async"` and every painting below the fold `loading="lazy" decoding="async"`.
 
 ## Previewing and checking
 

@@ -19,7 +19,7 @@ showSidebar: false
     </div>
     <div class="cc-btns"><a class="cc-btn" href="#courses">Take a free course</a><a class="cc-lnk" href="/learn/what-is-conscious-coliving">What is conscious coliving?</a></div>
   </div>
-  <figure><img class="cc-paint" src="/assets/illustrations/cook.webp" alt="Watercolour of a cook stirring a large pot" /></figure>
+  <figure style="--ar:0.469"><img class="cc-paint" src="/assets/illustrations/cook.webp" style="aspect-ratio:516/1100" fetchpriority="high" decoding="async" alt="Watercolour of a cook stirring a large pot" /></figure>
 </section>
 
 <!-- courses -->
@@ -42,7 +42,7 @@ showSidebar: false
       <h2 class="cc-display cc-h2" style="margin-top:.5rem">Tired of expensive, lonely apartments?</h2>
       <div class="cc-col" style="margin-top:1.25rem"><p>Perhaps "community" experiences felt fake or one-sided; self-help never connected to daily life; or you crave connection but past attempts ended in friction. Conscious coliving speaks to exactly this: real community, with the inner work that makes it actually function. Practical pathways rather than one-size-fits-all mandates; growth shaped by real life rather than weekend retreats.</p><p><a class="cc-lnk" href="/learn/what-is-conscious-coliving">Start with the idea</a></p></div>
     </div>
-    <figure><img class="cc-paint" src="/assets/illustrations/monk.webp" alt="Watercolour of a monk holding a bowl" /></figure>
+    <figure style="--ar:0.525"><img class="cc-paint" src="/assets/illustrations/monk.webp" style="aspect-ratio:578/1100" loading="lazy" decoding="async" alt="Watercolour of a monk holding a bowl" /></figure>
   </div>
 </section>
 

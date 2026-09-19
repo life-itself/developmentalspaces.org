@@ -5,14 +5,14 @@ showSidebar: false
 ---
 
 <div class="cc-catalogue">
-  <div class="item"><img src="/assets/illustrations/table.webp" alt="Painted table set for a meal" /><b>A shared table</b><span>meals as practice</span></div>
-  <div class="item"><img src="/assets/illustrations/building.webp" alt="Painted house" /><b>A house</b><span>a place held in common</span></div>
-  <div class="item"><img src="/assets/illustrations/monk.webp" alt="Painted monk with a bowl" /><b>A rhythm</b><span>sitting, working, resting</span></div>
-  <div class="item"><img src="/assets/illustrations/cook.webp" alt="Painted cook" /><b>Roles that rotate</b><span>collective care</span></div>
-  <div class="item"><img src="/assets/illustrations/ribbon.webp" alt="Painted ribbon of colour" /><b>Practices</b><span>across five domains</span></div>
-  <div class="item"><img src="/assets/illustrations/circle.webp" alt="Blue watercolour circle" /><b>A circle</b><span>governance and conflict</span></div>
-  <div class="item"><img src="/assets/illustrations/vegetables.webp" alt="Painted vegetables" /><b>Land and food</b><span>the material base</span></div>
-  <div class="item"><img src="/assets/illustrations/fire.webp" alt="Painted flame" /><b>Energy</b><span>engaged action</span></div>
+  <div class="item"><img src="/assets/illustrations/table.webp" style="aspect-ratio:1100/848" decoding="async" alt="Painted table set for a meal" /><b>A shared table</b><span>meals as practice</span></div>
+  <div class="item"><img src="/assets/illustrations/building.webp" style="aspect-ratio:832/1100" decoding="async" alt="Painted house" /><b>A house</b><span>a place held in common</span></div>
+  <div class="item"><img src="/assets/illustrations/monk.webp" style="aspect-ratio:578/1100" decoding="async" alt="Painted monk with a bowl" /><b>A rhythm</b><span>sitting, working, resting</span></div>
+  <div class="item"><img src="/assets/illustrations/cook.webp" style="aspect-ratio:516/1100" decoding="async" alt="Painted cook" /><b>Roles that rotate</b><span>collective care</span></div>
+  <div class="item"><img src="/assets/illustrations/ribbon.webp" style="aspect-ratio:493/1100" decoding="async" alt="Painted ribbon of colour" /><b>Practices</b><span>across five domains</span></div>
+  <div class="item"><img src="/assets/illustrations/circle.webp" style="aspect-ratio:1058/1100" decoding="async" alt="Blue watercolour circle" /><b>A circle</b><span>governance and conflict</span></div>
+  <div class="item"><img src="/assets/illustrations/vegetables.webp" style="aspect-ratio:819/1100" decoding="async" alt="Painted vegetables" /><b>Land and food</b><span>the material base</span></div>
+  <div class="item"><img src="/assets/illustrations/fire.webp" style="aspect-ratio:531/1100" decoding="async" alt="Painted flame" /><b>Energy</b><span>engaged action</span></div>
 </div>
 
 A developmental space is a place dedicated to growth, where a community practises inner development across several domains at once: how we think, how awake we are, what we have healed, how wide our care extends, and what we do about it. Not a retreat you visit for a week. A life you live with others, for years. The whitepaper calls them developmental spaces; most people call them conscious communities. What follows are the working definitions behind that sentence.
