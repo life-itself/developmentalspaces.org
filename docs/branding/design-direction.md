@@ -1,7 +1,7 @@
 ---
 title: Design direction — from "warm monastic" to a real identity
 created: 2026-09-18
-status: DECIDED 2026-09-18 (evening) — direction E, watercolour, see §7. Mockups next, then Flowershow.
+status: SHIPPED 2026-09-19 — direction E, watercolour, see §7 (decided 2026-09-18). Sections 1 and 6 are superseded history.
 ---
 
 # Design direction

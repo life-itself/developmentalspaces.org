@@ -75,13 +75,13 @@ The exact hero wording is decided in the redesign, not here.
 
 ## When it lands
 
-The masthead flip ships with the redesign (see [design-direction.md](design-direction.md)), not as an isolated change. Until then the live site keeps the DS masthead.
+The masthead flip shipped with the redesign on 2026-09-19 (see [design-direction.md](design-direction.md)). The site, nav, browser title and About page now say Conscious Communities. The rollout beyond the site (domain redirect, newsletter name, partners, social) is tracked in beads.
 
 ## Open items
 
-- Set up the redirect from consciouscommunities.net (ours, Cloudflare) to developmentalspaces.org at redesign time. consciouscommunities.org is parked for sale on Afternic; .com is taken; consciouscollectives.org is ours but "communities" is the better word.
-- Decide the Substack display name and any social handle changes at redesign time.
-- Tell the network and partners (Fetzer, Commonweal, Ekskäret, Springboard, LIONE) when the flip goes live; a short note on the reasoning above is enough.
+- Still open: set up the redirect from consciouscommunities.net (ours, Cloudflare) to developmentalspaces.org. consciouscommunities.org is parked for sale on Afternic; .com is taken; consciouscollectives.org is ours but "communities" is the better word.
+- Still open: decide the Substack display name and any social handle changes.
+- Still open: tell the network and partners (Fetzer, Commonweal, Ekskäret, Springboard, LIONE) now that the flip is live; a short note on the reasoning above is enough.
 
 ## Re-litigation policy
 

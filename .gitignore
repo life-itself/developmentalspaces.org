@@ -7,3 +7,4 @@
 .beads-credential-key
 .beads/proxieddb/
 sandbox/
+.beads.gate.lock
