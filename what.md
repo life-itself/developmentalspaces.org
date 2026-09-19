@@ -8,53 +8,53 @@ image: "https://screenshotit.app/https://developmentalspaces.org/what@social"
 ---
 
 <!--
-PLACEHOLDER COPY (coco-033): the hero title and lede, the eight catalogue labels and the section headings and the earlier-definitions section are stand-ins for Rufus's copy pass (coco-jhk). The lede is the previous page's opening paragraph, less its last sentence ("What follows are the working definitions behind that sentence.") because the working definitions now live in the wiki (wiki/definitions-of-a-developmental-space.md, the old text unchanged). Everything else in the sections below is the whitepaper's own text (paper.md, sections 1 to 5), lightly cut, not new copy.
+PLACEHOLDER COPY (coco-033, for the copy pass coco-jhk). Draft by Claude, Rufus to rewrite: the hero title and lede (the lede follows the metacrisis.info pattern: name the familiar thing, say what this is instead, point down to the definition), the section headings, the one-line explanations in "The definition, word by word" (built from the 2024 outline, the paper's section 4 and the 2020 definition, lightly joined), and the "Earlier definitions" blurb. Whitepaper text, used as written: the definition itself (paper section 1), the five domains and the note on hierarchies (section 2), the core and flexible characteristics (5.1 and 5.2). The centre-not-boundary passage is the old page's preface with British spellings. The old outlines (2024, 2021, 2020) live unchanged in wiki/definitions-of-a-developmental-space.md.
 -->
 
 <div class="cc-page">
 
-<!-- opener -->
+<!-- opener: names the familiar thing, says what this is instead, points to the definition below -->
 <section class="cc-wrap hero hero-sm">
   <div>
     <span class="cc-yb sm"></span>
     <h1 class="cc-display cc-h1">What is a<br /><em>developmental space?</em></h1>
     <div class="cc-col" style="margin-top:1.5rem">
-      <p>A developmental space is a place dedicated to growth, where a community practises inner development across several domains at once: how we think, how awake we are, what we have healed, how wide our care extends, and what we do about it. Not a retreat you visit for a week. A life you live with others, for years. The whitepaper calls them developmental spaces; most people call them conscious communities.</p>
+      <p>Retreats, courses and workshops help people grow for a weekend or a week. A developmental space is something more: a community that takes inner growth as its shared work, for years, for the sake of a wider change.</p>
+      <p>Here is the definition, and what each part of it means.</p>
     </div>
-    <div class="cc-btns"><a class="cc-btn" href="/paper">Read the whitepaper</a><a class="cc-lnk" href="#appendix">Earlier definitions</a></div>
+    <div class="cc-btns"><a class="cc-btn" href="#definition">Read the definition</a><a class="cc-lnk" href="/paper">Read the whitepaper</a></div>
   </div>
 </section>
 
-<!-- catalogue: labels are placeholder copy -->
-<section class="cc-wrap" aria-label="What a developmental space is made of">
-<div class="cc-catalogue">
-  <div class="item"><img src="/assets/illustrations/table.webp" style="aspect-ratio:1100/848" decoding="async" alt="Painted table set for a meal" /><b>A shared table</b><span>meals as practice</span></div>
-  <div class="item"><img src="/assets/illustrations/building.webp" style="aspect-ratio:1100/832" decoding="async" alt="Painted house" /><b>A house</b><span>a place held in common</span></div>
-  <div class="item"><img src="/assets/illustrations/monk.webp" style="aspect-ratio:578/1100" decoding="async" alt="Painted monk with a bowl" /><b>A rhythm</b><span>sitting, working, resting</span></div>
-  <div class="item"><img src="/assets/illustrations/cook.webp" style="aspect-ratio:516/1100" decoding="async" alt="Painted cook" /><b>Roles that rotate</b><span>collective care</span></div>
-  <div class="item"><img src="/assets/illustrations/ribbon.webp" style="aspect-ratio:493/1100" decoding="async" alt="Painted ribbon of colour" /><b>Practices</b><span>across five domains</span></div>
-  <div class="item"><img src="/assets/illustrations/circle.webp" style="aspect-ratio:1058/1100" decoding="async" alt="Blue watercolour circle" /><b>A circle</b><span>governance and conflict</span></div>
-  <div class="item"><img src="/assets/illustrations/vegetables.webp" style="aspect-ratio:819/1100" decoding="async" alt="Painted vegetables" /><b>Land and food</b><span>the material base</span></div>
-  <div class="item"><img src="/assets/illustrations/fire.webp" style="aspect-ratio:531/1100" decoding="async" alt="Painted flame" /><b>Energy</b><span>engaged action</span></div>
-</div>
-</section>
-
 <!-- definition: yellow section -->
-<section class="cc-yellow cc-bleed">
+<section class="cc-yellow cc-bleed" id="definition">
   <div class="cc-wrap cc-sec grid2">
     <div>
       <p class="cc-cap">The definition</p>
       <p class="cc-quote" style="margin-top:.75rem">A developmental space is a dedicated, growth-oriented space where communities engage in sustained, multi-domain inner development in the service of socio-cultural transformation.</p>
-      <div class="cc-col" style="margin-top:1.25rem"><p>Human development is already institutionally supported, in schools and training programmes, but most existing structures address very limited domains of inner growth.</p></div>
+      <p class="cc-cap" style="margin-top:1.25rem">Read it as a centre, not a boundary. <a class="cc-lnk" href="#centre">Why</a></p>
     </div>
-    <figure style="--ar:0.962"><img class="cc-paint" src="/assets/illustrations/circle.webp" style="aspect-ratio:1058/1100" loading="lazy" decoding="async" alt="Blue watercolour circle" /></figure>
+    <figure style="--ar:0.962"><img class="cc-paint" src="/assets/illustrations/circle.webp" style="aspect-ratio:1058/1100" loading="lazy" decoding="async" alt="Watercolour wash, a circle" /></figure>
   </div>
 </section>
 
-<!-- five domains -->
+<!-- the definition, unpacked -->
 <section class="cc-wrap cc-sec">
+  <h2 class="cc-display cc-h2">The definition, word by word</h2>
+  <ul class="cc-list">
+    <li><div class="row"><span class="k">Dedicated</span><div class="d">Set aside for this purpose, not a side effect of something else. Multi-domain inner development needs containment, community and continuity, and a dedicated space provides them: a place to turn peak experiences into lasting change.</div></div></li>
+    <li><div class="row"><span class="k">Growth-oriented</span><div class="d">Nurturing personal and collective development is an explicit goal and a central part of how the space is designed and run.</div></div></li>
+    <li><div class="row"><span class="k">Communities</span><div class="d">The unit is a group, not an individual practice. We have tended to reduce the emphasis on physical colocation and emphasise the intensity of engagement and commitment: a group meeting very regularly online over a year could offer more than a group together for one week in person.</div></div></li>
+    <li><div class="row"><span class="k">Sustained</span><div class="d">“More than a weekend, or a week.” These spaces are about going from states to traits, looking for lasting developmental shifts, so they often require sustained engagement: months rather than days.</div></div></li>
+    <li><div class="row"><span class="k">Multi-domain inner development</span><div class="d">Not one skill or one practice but several at once. Just as we distinguish biology from chemistry, we can distinguish several domains of inner growth, each with its own dynamics, maps and practices. The five we use are below.</div></div></li>
+    <li><div class="row"><span class="k">In the service of socio-cultural transformation</span><div class="d">Not development for its own sake or for personal thriving alone, but in service of wider society: more than general amelioration, a profound shift in the basic worldviews and institutions of modern societies.</div></div></li>
+  </ul>
+</section>
+
+<!-- five domains -->
+<section class="cc-wrap cc-sec" style="padding-top:0">
   <h2 class="cc-display cc-h2">Five domains of inner development</h2>
-  <div class="cc-col" style="margin-top:1rem"><p>Just as we distinguish biology from chemistry, we can distinguish several domains of inner development, each with its own growth dynamics, maps and practices. The classification is adapted from Integral Theory.</p></div>
+  <div class="cc-col" style="margin-top:1rem"><p>The classification is adapted from Integral Theory.</p></div>
   <ol class="cc-list">
     <li><div class="row"><span class="n">1</span><div><div class="t">Waking up <em>· spiritual development</em></div><div class="d">Concerned with awareness and consciousness, this domain draws from spiritual traditions and neuroscience. Development involves tuning awareness and loosening unconscious mental ‘fabrication’ (assumptions, self-identity), cultivating less ego-bound modes of perception and a greater sense of interbeing.</div></div></div></li>
     <li><div class="row"><span class="n">2</span><div><div class="t">Cognitive development</div><div class="d">Progressive complexity in thinking, from basic concepts to abstract, systemic and meta-systemic reasoning. Supports ethics, creativity, logic and learning.</div></div></div></li>
@@ -69,38 +69,30 @@ PLACEHOLDER COPY (coco-033): the hero title and lede, the eight catalogue labels
   </div>
 </section>
 
-<!-- why now -->
-<section class="cc-wrap cc-sec" style="padding-top:0">
-  <h2 class="cc-display cc-h2">Why now</h2>
+<!-- centre, not boundary -->
+<section class="cc-wrap cc-sec" style="padding-top:0" id="centre">
+  <h2 class="cc-display cc-h2">A centre, not a boundary</h2>
   <div class="cc-col" style="margin-top:1rem">
-    <p>Modern society is in a <a class="cc-lnk" href="https://metacrisis.info/">metacrisis</a>: a crisis of crises with shared roots in a dysfunctional worldview (materialism, individualism, competition, exploitation). Technocratic solutions are failing. Urgently needed are corresponding inner shifts in paradigms, values and worldviews, founded on hidden assumptions about reality itself. Multi-domain inner development helps surface and transform these assumptions.</p>
-    <p>It also supports resilience, our capacity to stay well and adapt in adversity, and flourishing, the experience of meaning, joy and connection and the tendency towards generative action. Resilience and flourishing develop best in concert.</p>
+    <p>In talking about the “what” of developmental spaces we prefer the metaphor of centres rather than boundaries. That is, we offer definitions as outlines of the centre of a conceptual field, which a given concrete example is more or less close to. We are not aiming for rigid boundaries that allow precise determinations of what “is” and “is not” a developmental space.</p>
+    <p>These spaces relate to, build on and are an evolution of existing environments, ranging from executive MBAs to retreat centres to 12-step programmes to intentional communities such as ecovillages. Each sits nearer or further from the centre.</p>
   </div>
-</section>
-
-<!-- why dedicated spaces -->
-<section class="cc-wrap cc-sec" style="padding-top:0">
-  <h2 class="cc-display cc-h2">Why dedicated spaces</h2>
-  <div class="cc-col" style="margin-top:1rem"><p>To thrive, multi-domain inner development needs containment, community and continuity.</p></div>
-  <ul class="cc-list">
-    <li><div class="row"><span class="k">State to trait</span><div class="d">Sustained environments are needed to integrate peak experiences into lasting change.</div></div></li>
-    <li><div class="row"><span class="k">Communities of purpose</span><div class="d">Like-minded support is critical to resist the mainstream.</div></div></li>
-    <li><div class="row"><span class="k">Emotional safety</span><div class="d">Vulnerability and deep inner work require trust and mutual care.</div></div></li>
-    <li><div class="row"><span class="k">Generative social fields</span><div class="d">Group dynamics can be powerful catalysts for change.</div></div></li>
-    <li><div class="row"><span class="k">Pockets of change</span><div class="d">Cultural transformation often begins in dense micro-communities, “islands of coherence”. Monasteries, folk high schools, Bildung centres and other intentional communities have embodied aspects of this in different eras.</div></div></li>
-  </ul>
+  <div class="cc-btns"><a class="cc-btn" href="/find">See spaces that exist</a></div>
 </section>
 
 <!-- characteristics -->
 <section class="cc-wrap cc-sec" style="padding-top:0">
   <h2 class="cc-display cc-h2">What they have in common</h2>
+  <div class="cc-col" style="margin-top:1rem"><p>The core characteristics of spaces near the centre.</p></div>
+  <div class="cc-catalogue c3">
+  <div class="item"><img src="/assets/illustrations/ribbon.webp" style="aspect-ratio:493/1100" loading="lazy" decoding="async" alt="Painted ribbon of colour" /><b>Multi-domain development</b><span>Intentional work across several domains.</span></div>
+  <div class="item"><img src="/assets/illustrations/vegetables.webp" style="aspect-ratio:819/1100" loading="lazy" decoding="async" alt="Painted vegetables" /><b>Ecologies of practice</b><span>A dynamic, integrated blend of methods.</span></div>
+  <div class="item"><img src="/assets/illustrations/circle.webp" style="aspect-ratio:1058/1100" loading="lazy" decoding="async" alt="Blue watercolour circle" /><b>Safe-brave spaces</b><span>Combining challenge with emotional support.</span></div>
+  <div class="item"><img src="/assets/illustrations/table.webp" style="aspect-ratio:1100/848" loading="lazy" decoding="async" alt="Painted table set for a meal" /><b>Group coherence</b><span>Consistency, continuity and trust in the group field.</span></div>
+  <div class="item"><img src="/assets/illustrations/monk.webp" style="aspect-ratio:578/1100" loading="lazy" decoding="async" alt="Painted monk with a bowl" /><b>Appropriate guidance</b><span>Skilled facilitators with advanced personal practice are crucial for safe and successful teaching and transmission.</span></div>
+  <div class="item"><img src="/assets/illustrations/fire.webp" style="aspect-ratio:531/1100" loading="lazy" decoding="async" alt="Painted flame" /><b>Intentionality</b><span>Not just inner growth, but inner growth in service of cultural transformation.</span></div>
+  </div>
+  <p class="cc-cap">Flexible characteristics, which vary from space to space</p>
   <ul class="cc-list">
-    <li><div class="row"><span class="k">Core</span><div><div class="t">Multi-domain development</div><div class="d">Intentional work across several domains.</div></div></div></li>
-    <li><div class="row"><span class="k">Core</span><div><div class="t">Ecologies of practice</div><div class="d">A dynamic, integrated blend of methods.</div></div></div></li>
-    <li><div class="row"><span class="k">Core</span><div><div class="t">Safe-brave spaces</div><div class="d">Combining challenge with emotional support.</div></div></div></li>
-    <li><div class="row"><span class="k">Core</span><div><div class="t">Group coherence</div><div class="d">Consistency, continuity and trust in the group field.</div></div></div></li>
-    <li><div class="row"><span class="k">Core</span><div><div class="t">Appropriate guidance</div><div class="d">Skilled facilitators with advanced personal practice are crucial for safe and successful teaching and transmission.</div></div></div></li>
-    <li><div class="row"><span class="k">Core</span><div><div class="t">Intentionality</div><div class="d">Not just inner growth, but inner growth in service of cultural transformation.</div></div></div></li>
     <li><div class="row"><span class="k">Flexible</span><div><div class="t">Co-living</div><div class="d">Allowing everyday life to become the field of practice.</div></div></div></li>
     <li><div class="row"><span class="k">Flexible</span><div><div class="t">Alternative formats</div><div class="d">Access can be expanded through, for example, online formats.</div></div></div></li>
     <li><div class="row"><span class="k">Flexible</span><div><div class="t">Measurement</div><div class="d">Some useful tools can track development, but care is needed to avoid distortion.</div></div></div></li>
