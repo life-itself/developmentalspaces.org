@@ -16,6 +16,7 @@ Internal working docs for the identity of this site and initiative. This folder 
 | [design-direction.md](design-direction.md) | Aesthetic direction: the July 2026 decision, what on the old site read as generic AI output, what to keep, the redesign plan, and the identity brief (§6). |
 | [moodboard.md](moodboard.md) | References and anti-references with screenshots in `moodboard/`, and what the board says. |
 | [moodboard-artifact/](moodboard-artifact/) | Source of the visual mood board (five directions A to E, type specimens, the photograph question). Durable copy of the Claude artifact. |
+| [og-card.html](og-card.html) | Source of `assets/og-card.jpg`, the social share card (stand-in from the home hero painting; per-page cards are bead `coco-lxb.12`). |
 | [mockups/](mockups/) | Source of the three home page mockups in direction E. Durable copy of the Claude artifact. |
 
 ## Current state (2026-09-19)
