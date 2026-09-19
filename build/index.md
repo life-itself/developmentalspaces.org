@@ -19,7 +19,7 @@ showSidebar: false
     </div>
     <div class="cc-btns"><a class="cc-btn" href="/paper">Read the whitepaper</a><a class="cc-lnk" href="/manifesto">Sign the manifesto</a></div>
   </div>
-  <figure style="--ar:0.756"><img class="cc-paint" src="/assets/illustrations/building.webp" style="aspect-ratio:832/1100" fetchpriority="high" decoding="async" alt="Watercolour of the façade of an old house" /></figure>
+  <figure style="--ar:1.322"><img class="cc-paint" src="/assets/illustrations/building.webp" style="aspect-ratio:1100/832" fetchpriority="high" decoding="async" alt="Watercolour of the façade of an old house" /></figure>
 </section>
 
 <!-- the concept -->

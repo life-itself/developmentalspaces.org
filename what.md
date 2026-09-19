@@ -6,7 +6,7 @@ showSidebar: false
 
 <div class="cc-catalogue">
   <div class="item"><img src="/assets/illustrations/table.webp" style="aspect-ratio:1100/848" decoding="async" alt="Painted table set for a meal" /><b>A shared table</b><span>meals as practice</span></div>
-  <div class="item"><img src="/assets/illustrations/building.webp" style="aspect-ratio:832/1100" decoding="async" alt="Painted house" /><b>A house</b><span>a place held in common</span></div>
+  <div class="item"><img src="/assets/illustrations/building.webp" style="aspect-ratio:1100/832" decoding="async" alt="Painted house" /><b>A house</b><span>a place held in common</span></div>
   <div class="item"><img src="/assets/illustrations/monk.webp" style="aspect-ratio:578/1100" decoding="async" alt="Painted monk with a bowl" /><b>A rhythm</b><span>sitting, working, resting</span></div>
   <div class="item"><img src="/assets/illustrations/cook.webp" style="aspect-ratio:516/1100" decoding="async" alt="Painted cook" /><b>Roles that rotate</b><span>collective care</span></div>
   <div class="item"><img src="/assets/illustrations/ribbon.webp" style="aspect-ratio:493/1100" decoding="async" alt="Painted ribbon of colour" /><b>Practices</b><span>across five domains</span></div>
