@@ -64,5 +64,6 @@ Privacy note: `docs/` is excluded from the published site but visible on the pub
 
 ## Related material outside this folder
 
+- [../strategy/README.md](../strategy/README.md) — the strategy record: motivation and theory of change, the brief (mission, audiences, job stories, voice), the July sitemap, and the migration review against the private consolidation repo.
 - `../devspaces-consolidation/` — the consolidation project: BRIEF.md (job stories, voice), sitemap.md, PLAN.md, HANDOFF-design.md, design exploration images, archived consultation and naming threads.
 - `/fund/archive/brand-narrative` on the live site — the 2020–21 fund brand narrative (True Home, Wise Living Fund), whose format this work reuses.
