@@ -158,6 +158,9 @@ body:has(.cc-page) .site-footer { display: none; }
 
 /* stream pages: smaller hero painting, list rows, yellow section */
 .cc-page .hero.hero-sm figure img { max-height: 26rem; }
+/* a yellow section directly under a hero gets air, and the painting's flat cut-out edge fades instead of meeting the seam */
+.cc-page .hero + .cc-yellow { margin-top: clamp(2rem, 5vw, 4rem); }
+.cc-page .hero figure img { -webkit-mask-image: linear-gradient(to bottom, #000 88%, transparent); mask-image: linear-gradient(to bottom, #000 88%, transparent); }
 .cc-page .hero .cc-yb.sm { width: 7rem; height: 3rem; margin-bottom: 2rem; }
 .cc-list { list-style: none; margin: 1.5rem 0 0; padding: 0; }
 .cc-list li { border-top: 1px solid var(--cc-rule); }
