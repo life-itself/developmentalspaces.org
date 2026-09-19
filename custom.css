@@ -200,10 +200,11 @@ body:has(.cc-page) .site-footer { display: none; }
    ============================================================ */
 .cc-catalogue { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem 1.5rem; margin: 2rem 0 3rem; }
 @media (min-width: 700px) { .cc-catalogue { grid-template-columns: repeat(4, 1fr); } }
+@media (min-width: 700px) { .cc-catalogue.c3 { grid-template-columns: repeat(3, 1fr); } }
 .cc-catalogue .item { display: grid; gap: .5rem; align-content: end; }
 .cc-catalogue .item img { max-height: 10rem; width: auto; justify-self: center; margin: 0; }
 .cc-catalogue .item b { font-family: var(--font-heading); font-weight: 400; font-style: italic; font-size: 1.2rem; letter-spacing: -.02em; text-align: center; }
-.cc-catalogue .item span { font-family: var(--font-sans); font-size: .9rem; color: var(--cc-mute); text-align: center; }
+.cc-catalogue .item span { font-family: var(--font-sans); font-size: .9rem; color: var(--cc-mute); text-align: center; max-width: 18rem; justify-self: center; }
 .prose .cc-catalogue p { margin: 0; }
 
 /* ============================================================
