@@ -33,7 +33,7 @@ The site has three streams (Learn, Build, Fund) plus Find and About. Content is 
 
 - `fl` skips any folder named `build`, so `/build` only renders in production. To check it, copy `build/index.md` to a temporary top-level file such as `zz-tmp.md`, publish, look, delete it and publish again.
 - The preview serves `custom.css` from an edge cache that can lag ten to twenty minutes after a publish. Compare `md5 -q custom.css` with the md5 of `curl -sL <preview>/custom.css?x=$RANDOM` before deciding a style change is broken.
-- The preview ignores `contentExclude`, so `docs/` shows up there but not in production. Check exclusions against the live site.
+- The preview ignores `contentExclude`, so `docs/` and `.beads/config.yaml` show up there but not in production. Check exclusions against the live site, and check raw files as well as pages (`curl -sIL <url>` follows the redirect to the raw file). Root files such as `AGENTS.md` need the filename form in `contentExclude`, not only `/AGENTS`.
 
 Look at every changed page at 1440px and 400px wide before calling it done. Playwright with the Chromium headless shell works well for screenshots.
 
