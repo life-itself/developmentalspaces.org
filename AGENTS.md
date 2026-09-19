@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Orientation for AI coding agents working in this repo. `CLAUDE.md` is a symlink to this file, so edit `AGENTS.md`. Both are excluded from the published site.
+Orientation for AI coding agents working in this repo. `CLAUDE.md` is a symlink to this file, so edit `AGENTS.md`. Both are excluded from the published site (`contentExclude` in `config.json` needs the filename forms `AGENTS.md` and `CLAUDE.md` as well as the `/AGENTS` forms, or the raw files are still served).
 
 ## What this repo is
 

@@ -11,7 +11,10 @@
     "/sandbox",
     "/README",
     "/AGENTS",
-    "/CLAUDE"
+    "/CLAUDE",
+    "README.md",
+    "AGENTS.md",
+    "CLAUDE.md"
   ],
   "nav": {
     "logo": "/assets/cc-spiral.png",
