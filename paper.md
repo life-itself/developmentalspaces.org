@@ -60,7 +60,7 @@ While human development is already institutionally supported (e.g. schools, trai
 
 Just as we distinguish biology from chemistry in the physical sciences, we can distinguish multiple **domains of inner development** \- each with particular growth dynamics, maps, and practices. The classification we adopt here is adapted from Integral Theory (detail follows).
 
-<img src="/assets/paper/domains-5.png" width="450px" />
+<img src="/assets/paper/domains-5.png" width="450px" alt="Five hand-drawn circles arranged in a ring, labelled Cognitive, Waking up, Cleaning up, Showing up and Growing up" />
 
 *Five major domains of inner development using nomenclature from Integral Theory*
 
