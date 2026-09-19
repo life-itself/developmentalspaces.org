@@ -1,13 +1,18 @@
 {
-  "title": "Developmental Spaces",
-  "favicon": "/assets/ds-logo.png",
+  "title": "Conscious Communities",
+  "favicon": "/assets/cc-favicon.png",
   "author": "Life Itself, Commonweal, Ekskaret",
   "authorLogo": "https://lifeitself.org/assets/site/life-itself-logo.svg",
   "authorUrl": "https://lifeitself.org/",
   "analytics": "G-CN5D9D57PC",
+  "contentExclude": [
+    "/docs",
+    "/.beads",
+    "/sandbox"
+  ],
   "nav": {
-    "logo": "/assets/ds-logo.png",
-    "title": "Developmental Spaces",
+    "logo": "/assets/cc-spiral.png",
+    "title": "Conscious Communities",
     "links": [
       {
         "href": "/learn",

@@ -9,10 +9,10 @@ Define your ideal community, identify your needs, understand the spectrum of opt
 
 A free course by [Life Itself](https://lifeitself.org), in 10 short lessons. Read it right here at your own pace — or **sign up to receive it by email**, one lesson a day:
 
-<form method="POST" action="https://mailer.lifeitself.org/subscribe" style="display:flex;gap:8px;flex-wrap:wrap;margin:1rem 0">
-  <input type="email" name="email" required placeholder="you@example.com" style="padding:8px 12px;border:1px solid #ccc;border-radius:6px;min-width:220px" />
+<form method="POST" action="https://mailer.lifeitself.org/subscribe" class="cc-form not-prose">
+  <input type="email" name="email" required placeholder="you@example.com" />
   <input type="hidden" name="course" value="conscious-coliving-in-action" />
-  <button type="submit" style="padding:8px 16px;border-radius:6px;background:#8b1a1a;color:#fff;border:0;cursor:pointer">Get the free email course</button>
+  <button type="submit" class="cc-btn">Get the free email course</button>
 </form>
 
 ## Lessons

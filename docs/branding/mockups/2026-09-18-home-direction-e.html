@@ -1,0 +1,359 @@
+<title>Conscious Communities Home Mockups</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Prata&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+  /* ------------------------------------------------------------
+     Shared stylesheet for all three mockups (direction E, watercolour)
+     page #F5F5F3 · ink #111 · yellow #FFD23F · PT Serif tight · Source Sans 3
+     ------------------------------------------------------------ */
+  :root {
+    --page: #F5F5F3; --ink: #111111; --yellow: #FFD23F; --mute: #6A6A66; --rule: #E2E2DD;
+    --serif: "PT Serif", Georgia, serif; --display: "PT Serif", Georgia, serif; --sans: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+    --bg: #E9E9E4; --fg: #1a1a1a;
+  }
+  body { background: var(--bg); color: var(--fg); margin: 0; font-family: var(--sans); padding-inline: 16px; padding-block: 0 4rem; }
+
+  /* the review chrome around each mockup */
+  .review { max-width: 80rem; margin: 0 auto; }
+  .review-head { padding-block: 1.5rem 1rem; display: grid; gap: .5rem; }
+  .review-head h1 { font-family: var(--serif); font-size: 1.6rem; margin: 0; font-weight: 400; }
+  .review-head p { margin: 0; max-width: 70ch; color: #444; }
+  .switch { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: .6rem; display: flex; gap: 1.25rem; flex-wrap: wrap; font-size: .95rem; border-bottom: 1px solid #d5d5cf; }
+  .switch a { color: #1a1a1a; text-decoration: none; }
+  .switch a b { font-family: var(--serif); }
+  .mock-label { margin: 2.5rem 0 .6rem; display: grid; gap: .25rem; }
+  .mock-label h2 { font-family: var(--serif); font-weight: 400; font-size: 1.35rem; margin: 0; }
+  .mock-label p { margin: 0; color: #444; max-width: 75ch; font-size: .95rem; }
+
+  /* ------------------------------------------------------------ the mock page itself */
+  .mock { background: var(--page); color: var(--ink); font-family: var(--serif); font-size: 17px; line-height: 1.45; box-shadow: 0 1px 0 #cfcfc9, 0 24px 60px -30px rgba(0,0,0,.35); overflow: hidden; }
+  .mock * { box-sizing: border-box; }
+  .mock a { color: inherit; text-decoration: none; }
+  .wrap { max-width: 72rem; margin: 0 auto; padding-inline: clamp(16px, 4vw, 48px); }
+
+  .nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-block: 1rem; font-family: var(--sans); font-size: .95rem; }
+  .nav .brand { display: flex; align-items: center; gap: .6rem; font-family: var(--display); font-size: 1.25rem; letter-spacing: -.02em; }
+  .nav .brand canvas { width: 34px; height: 34px; }
+  .nav ul { display: flex; gap: 1.2rem; list-style: none; margin: 0; padding: 0; flex-wrap: wrap; }
+  .nav ul li:last-child a { background: var(--yellow); padding: .3rem .7rem; }
+
+  .t-display { font-family: var(--display); font-weight: 400; letter-spacing: -.045em; line-height: .96; margin: 0; }
+  .t-display i { font-style: italic; letter-spacing: -.02em; }
+  .t-h1 { font-size: clamp(2.6rem, 6.4vw, 5rem); }
+  .t-h2 { font-size: clamp(2rem, 3.8vw, 3rem); }
+  .t-h3 { font-size: 1.6rem; letter-spacing: -.03em; }
+  .t-sub { font-family: var(--display); font-style: italic; font-size: clamp(1.15rem, 1.8vw, 1.45rem); letter-spacing: -.01em; margin: .6rem 0 0; }
+  .col { max-width: 30rem; font-size: 1.05rem; line-height: 1.5; }
+  .col p { margin: 0 0 1rem; }
+  .cap { font-family: var(--sans); font-size: .88rem; color: var(--mute); }
+  .btns { display: flex; gap: .9rem; flex-wrap: wrap; align-items: center; margin-top: 1.5rem; font-family: var(--sans); font-size: 1rem; }
+  .mock a.btn { background: var(--ink); color: var(--page); padding: .75rem 1.3rem; }
+  .mock a.btn.y { background: var(--yellow); color: var(--ink); }
+  .lnk { border-bottom: 1px solid var(--ink); padding-bottom: 1px; }
+  .yblock { background: var(--yellow); display: block; }
+  .rule { height: 1px; background: var(--rule); }
+  .paint { display: block; max-width: 100%; height: auto; }
+  .sec { padding-block: clamp(3rem, 7vw, 6rem); }
+
+  .domains { list-style: none; margin: 1.5rem 0 0; padding: 0; max-width: 40rem; }
+  .domains li { display: grid; grid-template-columns: 2rem 1fr; gap: .6rem; padding: .55rem 0; border-top: 1px solid var(--rule); font-size: 1.05rem; }
+  .domains li i { font-style: italic; color: var(--mute); }
+  .domains li span { font-family: var(--sans); color: var(--mute); font-size: .95rem; }
+
+  .foot { font-family: var(--sans); font-size: .9rem; color: var(--mute); display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; padding-block: 2rem; border-top: 1px solid var(--rule); }
+  .foot b { font-family: var(--display); color: var(--ink); font-size: 1.1rem; font-weight: 400; letter-spacing: -.02em; }
+
+  /* the mock cover, made in CSS: wash + yellow square + tight title */
+  .cover { position: relative; width: 13rem; aspect-ratio: 1 / 1.414; background: #fff; box-shadow: 0 1px 2px rgba(0,0,0,.15), 0 12px 30px -14px rgba(0,0,0,.4); padding: 1rem; display: grid; align-content: start; }
+  .cover canvas { width: 100%; aspect-ratio: 1; display: block; }
+  .cover .sq { position: absolute; left: 45%; top: 36%; width: 40%; aspect-ratio: 1; background: var(--yellow); }
+  .cover .tt { position: relative; margin-top: -.6rem; font-family: var(--display); letter-spacing: -.045em; line-height: .95; font-size: 1.35rem; }
+  .cover .st { font-family: var(--sans); font-size: .62rem; margin-top: .4rem; color: #333; }
+  .cover .li { position: absolute; right: .8rem; bottom: .8rem; font-family: var(--sans); font-size: .55rem; display: flex; align-items: center; gap: .3rem; }
+  .cover .li i { display: block; width: 1.1rem; height: 1.1rem; border-radius: 50%; background: var(--yellow); }
+
+  /* ===== Mockup 1 · The chapter page ===== */
+  .m1 .hero { display: grid; grid-template-columns: 1fr; gap: 2rem; align-items: end; }
+  .m1 .hero .yb { width: 11rem; height: 4.5rem; margin-bottom: 2.5rem; }
+  .m1 .hero figure { margin: 0; justify-self: end; align-self: end; }
+  .m1 .hero figure img { max-height: 36rem; width: auto; }
+  @media (min-width: 900px) { .m1 .hero { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } .m1 .hero figure { margin-right: calc(-1 * clamp(16px, 4vw, 48px)); } }
+  .m1 .streams { display: grid; gap: 0; }
+  .m1 .stream { display: grid; grid-template-columns: 1fr; gap: 1.25rem; padding-block: 2rem; border-top: 1px solid var(--rule); align-items: center; }
+  @media (min-width: 760px) { .m1 .stream { grid-template-columns: 8rem 1fr 2fr; gap: 2.5rem; } }
+  .m1 .stream img { max-height: 9rem; width: auto; }
+  .m1 .stream .yb { width: 1.1rem; height: 1.1rem; margin-bottom: .6rem; }
+  .m1 .stream p { margin: .4rem 0 0; max-width: 34rem; }
+  .m1 .spine { padding-block: clamp(3rem, 7vw, 6rem); }
+  .m1 .spine .t-h2 { max-width: 22ch; }
+  .m1 .spine .col { margin-top: 1.5rem; }
+  .m1 .paper { display: grid; grid-template-columns: 1fr; gap: 2rem; align-items: center; }
+  @media (min-width: 760px) { .m1 .paper { grid-template-columns: 14rem 1fr; gap: 3.5rem; } }
+
+  /* ===== Mockup 2 · The road ===== */
+  .m2 .hero { position: relative; display: grid; grid-template-columns: 1fr; gap: 1rem; }
+  .m2 .hero .txt { padding-top: 3rem; position: relative; z-index: 1; }
+  .m2 .hero figure { margin: 0; justify-self: center; }
+  .m2 .hero figure img { max-height: 40rem; width: auto; }
+  @media (min-width: 900px) { .m2 .hero { grid-template-columns: minmax(0, 6fr) minmax(0, 6fr); align-items: start; } .m2 .hero figure { justify-self: end; margin-right: calc(-1 * clamp(16px, 4vw, 48px)); margin-top: -1rem; } }
+  .m2 .doors { display: grid; gap: 1.25rem; grid-template-columns: 1fr; margin-top: 1rem; padding-bottom: 3rem; }
+  @media (min-width: 760px) { .m2 .doors { grid-template-columns: repeat(3, 1fr); gap: 2rem; } }
+  .m2 .door { border-top: 2px solid var(--ink); padding-top: 1rem; }
+  .m2 .door .yb { width: 2rem; height: 2rem; margin-bottom: 1rem; }
+  .m2 .door p { margin: .4rem 0 0; }
+  .m2 .yellow-sec { background: var(--yellow); }
+  .m2 .yellow-sec .inner { display: grid; grid-template-columns: 1fr; gap: 2rem; align-items: center; }
+  @media (min-width: 900px) { .m2 .yellow-sec .inner { grid-template-columns: 3fr 2fr; gap: 4rem; } }
+  .m2 .yellow-sec .t-h2 { max-width: 20ch; }
+  .m2 .yellow-sec .col { margin-top: 1.25rem; }
+  .m2 .yellow-sec figure { margin: 0; justify-self: center; }
+  .m2 .yellow-sec figure img { max-height: 22rem; width: auto; mix-blend-mode: multiply; }
+  .m2 .what { display: grid; grid-template-columns: 1fr; gap: 2rem; align-items: center; }
+  @media (min-width: 900px) { .m2 .what { grid-template-columns: 22rem 1fr; gap: 4rem; } }
+  .m2 .circle { position: relative; width: 100%; max-width: 22rem; aspect-ratio: 1; }
+  .m2 .circle img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+  .m2 .circle canvas { position: absolute; inset: 15%; width: 70%; height: 70%; }
+  .m2 .paper { display: grid; grid-template-columns: 1fr; gap: 2rem; }
+  @media (min-width: 760px) { .m2 .paper { grid-template-columns: 1fr 14rem; gap: 3.5rem; align-items: center; } }
+
+  /* ===== Mockup 3 · The catalogue ===== */
+  .m3 .hero { display: grid; grid-template-columns: 1fr; gap: 2rem; align-items: center; }
+  @media (min-width: 900px) { .m3 .hero { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 4rem; } }
+  .m3 .wash { position: relative; width: 100%; max-width: 30rem; aspect-ratio: 1 / 1.05; }
+  .m3 .wash canvas { width: 82%; aspect-ratio: 1; display: block; }
+  .m3 .wash .sq { position: absolute; left: 52%; top: 58%; width: 34%; aspect-ratio: 1; background: var(--yellow); }
+  .m3 .hero .txt .col { margin-top: 1.5rem; }
+  .m3 .catalogue { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem 1.5rem; margin-top: 2.5rem; }
+  @media (min-width: 700px) { .m3 .catalogue { grid-template-columns: repeat(4, 1fr); } }
+  .m3 .item { display: grid; gap: .6rem; align-content: end; }
+  .m3 .item img { max-height: 11rem; width: auto; justify-self: center; }
+  .m3 .item b { font-family: var(--display); font-weight: 400; font-style: italic; font-size: 1.2rem; letter-spacing: -.02em; text-align: center; }
+  .m3 .item span { font-family: var(--sans); font-size: .9rem; color: var(--mute); text-align: center; }
+  .m3 .streams { display: grid; grid-template-columns: 1fr; gap: 2rem; margin-top: 2rem; }
+  @media (min-width: 760px) { .m3 .streams { grid-template-columns: repeat(3, 1fr); gap: 3rem; } }
+  .m3 .stream .yb { width: 100%; height: .5rem; margin-bottom: 1rem; }
+  .m3 .stream p { margin: .5rem 0 0; }
+  .m3 .spine { border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); }
+  .m3 .spine .in { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
+  @media (min-width: 900px) { .m3 .spine .in { grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start; } }
+  .m3 .paper { display: grid; grid-template-columns: 1fr; gap: 2rem; align-items: center; }
+  @media (min-width: 760px) { .m3 .paper { grid-template-columns: 14rem 1fr; gap: 3.5rem; } }
+
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<div class="review">
+  <div class="review-head">
+    <h1>Home page mockups · direction E, watercolour</h1>
+    <p>Three layouts, one stylesheet, the same placeholder copy. The paintings are from the Awami book as stand-ins; the washes, the cover and the spiral mark are generated in code on this page. Compare the layouts, not the words: copy is a separate job. Everything shown works at phone width.</p>
+  </div>
+  <nav class="switch"><a href="#m1"><b>1</b> · The chapter page</a><a href="#m2"><b>2</b> · The road</a><a href="#m3"><b>3</b> · The catalogue</a></nav>
+
+  <!-- ============================================================ MOCKUP 1 -->
+  <div class="mock-label" id="m1"><h2>1 · The chapter page</h2><p>The Awami chapter opener, transferred whole: yellow block, tight title with an italic second line, a narrow column, one painting bleeding off the right edge. The three streams are chapter entries down the page. Whitepaper and manifesto get the severe treatment: type and a yellow rule, no painting.</p></div>
+  <div class="mock m1">
+    <div class="wrap">
+      <nav class="nav"><a class="brand" href="#"><canvas class="spiral" width="140" height="140"></canvas>Conscious Communities</a><ul><li><a href="#">Learn</a></li><li><a href="#">Build</a></li><li><a href="#">Fund</a></li><li><a href="#">Find</a></li><li><a href="#">Whitepaper</a></li><li><a href="#">About</a></li><li><a href="#">Newsletter</a></li></ul></nav>
+      <section class="hero">
+        <div>
+          <span class="yblock yb"></span>
+          <h1 class="t-display t-h1">Communities<br>where people<br><i>grow.</i></h1>
+          <p class="t-sub">the home of developmental spaces</p>
+          <div class="col" style="margin-top:1.5rem">
+            <p>Some communities exist so that the people in them can grow: co-living houses, retreat centres, schools, new kinds of monastery. We call them developmental spaces. This is the place to learn about them, build one, or help fund one.</p>
+          </div>
+          <div class="btns"><a class="btn" href="#">Start with a free course</a><a class="lnk" href="#">Read the whitepaper</a></div>
+        </div>
+        <figure><img class="paint" src="img/awami-road.webp" alt="Watercolour of a yellow road winding from fields through a town to a kitchen and a bowl"></figure>
+      </section>
+    </div>
+    <div class="wrap sec">
+      <h2 class="t-display t-h2">Three ways in</h2>
+      <div class="streams" style="margin-top:2rem">
+        <a class="stream" href="#"><img class="paint" src="img/awami-cook.webp" alt="Painted cook at a pot"><div><span class="yblock yb"></span><h3 class="t-display t-h3">Learn</h3><p class="t-sub" style="margin-top:.1rem;font-size:1.15rem">living together, on purpose</p></div><p class="col">Is a conscious community for you? Three free courses, honest guides on what it is really like, and where to begin.</p></a>
+        <a class="stream" href="#"><img class="paint" src="img/awami-building.webp" alt="Painted façade of a house"><div><span class="yblock yb"></span><h3 class="t-display t-h3">Build</h3><p class="t-sub" style="margin-top:.1rem;font-size:1.15rem">spaces that grow people</p></div><p class="col">For founders and designers: the whitepaper, the manifesto, the network of organisations, and the craft of designing places where people grow.</p></a>
+        <a class="stream" href="#"><img class="paint" src="img/awami-table.webp" alt="Painted table set for a meal"><div><span class="yblock yb"></span><h3 class="t-display t-h3">Fund</h3><p class="t-sub" style="margin-top:.1rem;font-size:1.15rem">land, stewardship, capital</p></div><p class="col">The thinking behind a real-estate fund for conscious community, published in full, and the projects raising money now.</p></a>
+      </div>
+    </div>
+    <div class="wrap spine">
+      <span class="yblock" style="width:6rem;height:.6rem;margin-bottom:2rem"></span>
+      <h2 class="t-display t-h2">The crises of our time are, at root, crises of inner development.</h2>
+      <div class="col"><p>Modern civilisation is breaking down in ways that cannot simply be repaired. The trouble stems from the deep assumptions, values and perspectives that shape our culture, and modernity has treated the inner world as irrelevant. We lack trusted institutions dedicated to inner growth for the common good, even as half a century of research shows how far people can develop given the right conditions.</p><p><a class="lnk" href="#">Read the full argument</a></p></div>
+      <ol class="domains">
+        <li><i>i</i><div>Cognitive development <span>· greater complexity of thought and understanding</span></div></li>
+        <li><i>ii</i><div>Awakening <span>· spiritual growth in the domain of consciousness</span></div></li>
+        <li><i>iii</i><div>Healing <span>· metabolising trauma; integrating unconscious shadows</span></div></li>
+        <li><i>iv</i><div>Evolving worldview <span>· circles of care widen toward a world-centric view</span></div></li>
+        <li><i>v</i><div>Engaged action <span>· inner shifts become ethical engagement with the world</span></div></li>
+      </ol>
+    </div>
+    <div class="wrap sec">
+      <div class="paper">
+        <div class="cover"><canvas class="wash" width="300" height="300"></canvas><span class="sq"></span><div class="tt">Developmental Spaces</div><div class="st">Cultural incubators for a time of transformation</div><div class="li"><i></i>Life Itself</div></div>
+        <div>
+          <p class="cap">The whitepaper</p>
+          <h2 class="t-display t-h2" style="margin-top:.4rem">Developmental Spaces: cultural incubators for a time of transformation</h2>
+          <p class="cap" style="margin-top:.6rem">Rosie Bell, Boaz Feldman and Rufus Pollock · September 2025</p>
+          <div class="col" style="margin-top:1rem"><p>The case for dedicated, growth-oriented spaces where communities engage in sustained, multi-domain inner development: what they are, why now, what characterises them, and how to build the field.</p></div>
+          <div class="btns"><a class="btn" href="#">Read the whitepaper</a><a class="lnk" href="#">Sign the manifesto</a></div>
+        </div>
+      </div>
+    </div>
+    <div class="wrap"><div class="foot"><div><b>Conscious Communities</b><br>Developmental spaces where people grow.</div><div>An initiative of Life Itself and friends.</div></div></div>
+  </div>
+
+  <!-- ============================================================ MOCKUP 2 -->
+  <div class="mock-label" id="m2"><h2>2 · The road</h2><p>The painting is the argument. A tall painting runs down the right of the page while the headline and the three doors sit beside it. "Why now" is a full yellow section, the book's block at page scale. The spiral mark appears inside a watercolour circle. Whitepaper severe, cover on the right.</p></div>
+  <div class="mock m2">
+    <div class="wrap">
+      <nav class="nav"><a class="brand" href="#"><canvas class="spiral" width="140" height="140"></canvas>Conscious Communities</a><ul><li><a href="#">Learn</a></li><li><a href="#">Build</a></li><li><a href="#">Fund</a></li><li><a href="#">Find</a></li><li><a href="#">Whitepaper</a></li><li><a href="#">About</a></li><li><a href="#">Newsletter</a></li></ul></nav>
+      <section class="hero">
+        <div class="txt">
+          <h1 class="t-display t-h1">Communities where people <i>grow.</i></h1>
+          <p class="t-sub">the home of developmental spaces</p>
+          <div class="col" style="margin-top:1.5rem"><p>Some communities exist so that the people in them can grow: co-living houses, retreat centres, schools, new kinds of monastery. We call them developmental spaces. This is the place to learn about them, build one, or help fund one.</p></div>
+          <div class="btns"><a class="btn y" href="#">Start with a free course</a><a class="lnk" href="#">Read the whitepaper</a></div>
+          
+        </div>
+        <figure><img class="paint" src="img/awami-road.webp" alt="Watercolour of a yellow road winding from fields through a town to a kitchen and a bowl"></figure>
+      </section>
+      <div class="doors">
+            <a class="door" href="#"><span class="yblock yb"></span><h3 class="t-display t-h3">Learn</h3><p class="t-sub" style="font-size:1.1rem;margin-top:.1rem">living together, on purpose</p><p class="cap" style="margin-top:.6rem">Courses and honest guides.</p></a>
+            <a class="door" href="#"><span class="yblock yb"></span><h3 class="t-display t-h3">Build</h3><p class="t-sub" style="font-size:1.1rem;margin-top:.1rem">spaces that grow people</p><p class="cap" style="margin-top:.6rem">Whitepaper, manifesto, network, craft.</p></a>
+            <a class="door" href="#"><span class="yblock yb"></span><h3 class="t-display t-h3">Fund</h3><p class="t-sub" style="font-size:1.1rem;margin-top:.1rem">land, stewardship, capital</p><p class="cap" style="margin-top:.6rem">The fund thinking, published in full.</p></a>
+          </div>
+    </div>
+    <div class="yellow-sec">
+      <div class="wrap sec inner">
+        <div>
+          <p class="cap" style="color:#333">Why now</p>
+          <h2 class="t-display t-h2" style="margin-top:.5rem">The crises of our time are, at root, crises of inner development.</h2>
+          <div class="col"><p>Modern civilisation is breaking down in ways that cannot simply be repaired. The trouble stems from the deep assumptions, values and perspectives that shape our culture, and modernity has treated the inner world as irrelevant. We lack trusted institutions dedicated to inner growth for the common good.</p><p><a class="lnk" href="#">Read the full argument</a></p></div>
+        </div>
+        <figure><img class="paint" src="img/awami-fire.webp" alt="Watercolour of a person with a flame rising from them"></figure>
+      </div>
+    </div>
+    <div class="wrap sec what">
+      <div class="circle"><img src="img/awami-circle.webp" alt="Blue watercolour circle"><canvas class="spiral big" width="400" height="400"></canvas></div>
+      <div>
+        <h2 class="t-display t-h2">What we mean by a developmental space</h2>
+        <div class="col" style="margin-top:1.25rem"><p>A place dedicated to growth, where a community practises inner development across several domains at once: how we think, how awake we are, what we have healed, how wide our care extends, and what we do about it. Not a retreat you visit for a week. A life you live with others, for years.</p></div>
+        <ol class="domains">
+          <li><i>i</i><div>Cognitive development <span>· complexity of thought</span></div></li>
+          <li><i>ii</i><div>Awakening <span>· consciousness</span></div></li>
+          <li><i>iii</i><div>Healing <span>· trauma and shadow</span></div></li>
+          <li><i>iv</i><div>Evolving worldview <span>· widening circles of care</span></div></li>
+          <li><i>v</i><div>Engaged action <span>· ethical engagement with the world</span></div></li>
+        </ol>
+      </div>
+    </div>
+    <div class="wrap sec" style="padding-top:0">
+      <div class="paper">
+        <div>
+          <p class="cap">The whitepaper</p>
+          <h2 class="t-display t-h2" style="margin-top:.4rem">Developmental Spaces: cultural incubators for a time of transformation</h2>
+          <p class="cap" style="margin-top:.6rem">Rosie Bell, Boaz Feldman and Rufus Pollock · September 2025</p>
+          <div class="btns"><a class="btn" href="#">Read the whitepaper</a><a class="lnk" href="#">Sign the manifesto</a></div>
+        </div>
+        <div class="cover"><canvas class="wash" width="300" height="300"></canvas><span class="sq"></span><div class="tt">Developmental Spaces</div><div class="st">Cultural incubators for a time of transformation</div><div class="li"><i></i>Life Itself</div></div>
+      </div>
+    </div>
+    <div class="wrap"><div class="foot"><div><b>Conscious Communities</b><br>Developmental spaces where people grow.</div><div>An initiative of Life Itself and friends.</div></div></div>
+  </div>
+
+  <!-- ============================================================ MOCKUP 3 -->
+  <div class="mock-label" id="m3"><h2>3 · The catalogue</h2><p>Quieter and more editorial. The hero is the cover composition itself: a generated wash and the yellow square, no figure. Then a catalogue of small paintings with one italic label each, the book's vegetables page as a pattern, to say what a developmental space is made of. Streams as three columns under yellow rules. The spine is pure type between two black rules.</p></div>
+  <div class="mock m3">
+    <div class="wrap">
+      <nav class="nav"><a class="brand" href="#"><canvas class="spiral" width="140" height="140"></canvas>Conscious Communities</a><ul><li><a href="#">Learn</a></li><li><a href="#">Build</a></li><li><a href="#">Fund</a></li><li><a href="#">Find</a></li><li><a href="#">Whitepaper</a></li><li><a href="#">About</a></li><li><a href="#">Newsletter</a></li></ul></nav>
+      <section class="hero sec" style="padding-top:2rem">
+        <div class="wash"><canvas class="wash" width="600" height="600" data-warm="1"></canvas><span class="sq"></span></div>
+        <div class="txt">
+          <h1 class="t-display t-h1">Communities where people <i>grow.</i></h1>
+          <p class="t-sub">the home of developmental spaces</p>
+          <div class="col"><p>Some communities exist so that the people in them can grow: co-living houses, retreat centres, schools, new kinds of monastery. We call them developmental spaces. This is the place to learn about them, build one, or help fund one.</p></div>
+          <div class="btns"><a class="btn" href="#">Start with a free course</a><a class="lnk" href="#">Read the whitepaper</a></div>
+        </div>
+      </section>
+    </div>
+    <div class="wrap sec" style="padding-top:0">
+      <h2 class="t-display t-h2">What a developmental space is made of</h2>
+      <div class="catalogue">
+        <div class="item"><img class="paint" src="img/awami-table.webp" alt="Painted table"><b>A shared table</b><span>meals as practice</span></div>
+        <div class="item"><img class="paint" src="img/awami-building.webp" alt="Painted house"><b>A house</b><span>a place held in common</span></div>
+        <div class="item"><img class="paint" src="img/awami-monk.webp" alt="Painted monk"><b>A rhythm</b><span>sitting, working, resting</span></div>
+        <div class="item"><img class="paint" src="img/awami-cook.webp" alt="Painted cook"><b>Roles that rotate</b><span>collective care</span></div>
+        <div class="item"><img class="paint" src="img/awami-ribbon.webp" alt="Painted ribbon of colour"><b>Practices</b><span>across five domains</span></div>
+        <div class="item"><img class="paint" src="img/awami-circle.webp" alt="Blue circle"><b>A circle</b><span>governance and conflict</span></div>
+        <div class="item"><img class="paint" src="img/awami-vegetables.webp" alt="Painted vegetables"><b>Land and food</b><span>the material base</span></div>
+        <div class="item"><img class="paint" src="img/awami-fire.webp" alt="Painted flame"><b>Energy</b><span>engaged action</span></div>
+      </div>
+    </div>
+    <div class="wrap sec" style="padding-top:0">
+      <h2 class="t-display t-h2">Three ways in</h2>
+      <div class="streams">
+        <a class="stream" href="#"><span class="yblock yb"></span><h3 class="t-display t-h3">Learn</h3><p class="t-sub" style="font-size:1.1rem;margin-top:.1rem">living together, on purpose</p><p class="col">Is a conscious community for you? Three free courses, honest guides, and where to begin.</p></a>
+        <a class="stream" href="#"><span class="yblock yb"></span><h3 class="t-display t-h3">Build</h3><p class="t-sub" style="font-size:1.1rem;margin-top:.1rem">spaces that grow people</p><p class="col">The whitepaper, the manifesto, the network, and the craft of designing places where people grow.</p></a>
+        <a class="stream" href="#"><span class="yblock yb"></span><h3 class="t-display t-h3">Fund</h3><p class="t-sub" style="font-size:1.1rem;margin-top:.1rem">land, stewardship, capital</p><p class="col">The thinking behind a real-estate fund for conscious community, published in full.</p></a>
+      </div>
+    </div>
+    <div class="spine">
+      <div class="wrap sec in">
+        <h2 class="t-display t-h2">The crises of our time are, at root, crises of inner development.</h2>
+        <div class="col"><p>Modern civilisation is breaking down in ways that cannot simply be repaired. The trouble stems from the deep assumptions, values and perspectives that shape our culture, and modernity has treated the inner world as irrelevant. We lack trusted institutions dedicated to inner growth for the common good, even as half a century of research shows how far people can develop given the right conditions.</p><p><a class="lnk" href="#">Read the full argument</a></p></div>
+      </div>
+    </div>
+    <div class="wrap sec">
+      <div class="paper">
+        <div class="cover"><canvas class="wash" width="300" height="300"></canvas><span class="sq"></span><div class="tt">Developmental Spaces</div><div class="st">Cultural incubators for a time of transformation</div><div class="li"><i></i>Life Itself</div></div>
+        <div>
+          <p class="cap">The whitepaper</p>
+          <h2 class="t-display t-h2" style="margin-top:.4rem">Developmental Spaces: cultural incubators for a time of transformation</h2>
+          <p class="cap" style="margin-top:.6rem">Rosie Bell, Boaz Feldman and Rufus Pollock · September 2025</p>
+          <div class="btns"><a class="btn" href="#">Read the whitepaper</a><a class="lnk" href="#">Sign the manifesto</a></div>
+        </div>
+      </div>
+    </div>
+    <div class="wrap"><div class="foot"><div><b>Conscious Communities</b><br>Developmental spaces where people grow.</div><div>An initiative of Life Itself and friends.</div></div></div>
+  </div>
+</div>
+
+<script>
+  // ---------- procedural watercolour wash (canvas) ----------
+  function rnd(seed) { let s = seed; return () => (s = (s * 16807) % 2147483647) / 2147483647; }
+  function blob(ctx, cx, cy, r, color, alpha, R) {
+    ctx.save(); ctx.globalCompositeOperation = 'multiply'; ctx.globalAlpha = alpha;
+    ctx.beginPath();
+    const n = 18; for (let i = 0; i <= n; i++) { const a = i / n * Math.PI * 2; const rr = r * (0.78 + 0.32 * R()); const x = cx + Math.cos(a) * rr, y = cy + Math.sin(a) * rr; i ? ctx.lineTo(x, y) : ctx.moveTo(x, y); }
+    ctx.closePath(); ctx.filter = 'blur(' + (r * 0.07) + 'px)'; ctx.fillStyle = color; ctx.fill();
+    ctx.restore();
+  }
+  function wash(c, warm) {
+    const ctx = c.getContext('2d'), W = c.width, H = c.height, R = rnd(warm ? 91 : 37);
+    ctx.fillStyle = '#FBFAF6'; ctx.fillRect(0, 0, W, H);
+    const cols = warm ? ['#F3B24B', '#E98A3C', '#F6D77A', '#9FB7C8', '#B9C98E'] : ['#9DB9CC', '#B7C7A8', '#EFC66B', '#E9A25A', '#A8B6C9'];
+    for (let i = 0; i < 9; i++) { const col = cols[i % cols.length]; blob(ctx, W * (0.2 + 0.6 * R()), H * (0.2 + 0.6 * R()), W * (0.22 + 0.2 * R()), col, 0.22 + 0.16 * R(), R); }
+    // grain
+    const img = ctx.getImageData(0, 0, W, H), d = img.data; for (let i = 0; i < d.length; i += 4) { const g = (R() - 0.5) * 14; d[i] += g; d[i+1] += g; d[i+2] += g; } ctx.putImageData(img, 0, 0);
+    // edge feather
+    ctx.save(); ctx.globalCompositeOperation = 'destination-in'; ctx.filter = 'blur(' + (W * 0.04) + 'px)'; ctx.fillStyle = '#000'; ctx.fillRect(W*0.08, H*0.08, W*0.84, H*0.84); ctx.restore();
+  }
+  // ---------- brushed spiral mark (canvas) ----------
+  function spiral(c) {
+    const ctx = c.getContext('2d'), W = c.width, H = c.height, R = rnd(11);
+    ctx.clearRect(0, 0, W, H);
+    const cx = W/2, cy = H/2, turns = 3.1, maxR = W*0.42;
+    ctx.lineCap = 'round'; ctx.globalCompositeOperation = 'multiply';
+    for (let pass = 0; pass < 3; pass++) {
+      ctx.beginPath();
+      for (let t = 0; t <= 1; t += 0.004) {
+        const a = t * turns * Math.PI * 2 + pass * 0.02, r = maxR * t; const jitter = (R() - 0.5) * 1.6;
+        const x = cx + Math.cos(a) * (r + jitter), y = cy + Math.sin(a) * (r + jitter) * 0.96;
+        t ? ctx.lineTo(x, y) : ctx.moveTo(x, y);
+      }
+      ctx.strokeStyle = pass === 0 ? 'rgba(58,110,150,0.55)' : pass === 1 ? 'rgba(84,140,178,0.4)' : 'rgba(30,70,110,0.35)';
+      ctx.lineWidth = W * (0.085 - pass * 0.02); ctx.stroke();
+    }
+  }
+  document.querySelectorAll('canvas.wash').forEach(c => wash(c, c.dataset.warm === '1'));
+  document.querySelectorAll('canvas.spiral').forEach(spiral);
+</script>

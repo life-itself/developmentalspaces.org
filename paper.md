@@ -1,12 +1,23 @@
 ---
 title: "Developmental Spaces: Cultural incubators for a time of transformation"
+description: The whitepaper. Rosie Bell, Boaz Feldman and Rufus Pollock, September 2025.
+showSidebar: false
+showToc: true
 ---
 
-*Rosie Bell, Boaz Feldman & Rufus Pollock -- Sep 2025*
-
-<div className="ds-buttons-container not-prose">
-<a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link" className="ds-button">Full Paper (PDF)</a>
-<a href="https://drive.google.com/file/d/1jyl0t7MCBgcMBlH2nnlTDQa6e85JDCNL/view?usp=share_link" className="ds-button">Executive Summary (PDF)</a>
+<div className="cc-paperhead not-prose">
+  <div className="cc-paperhead-text">
+    <span className="cc-yb sm"></span>
+    <p className="cc-cap">Whitepaper · September 2025</p>
+    <h1 className="cc-display cc-h2">Developmental Spaces: cultural incubators for a time of transformation</h1>
+    <p className="cc-sub">Rosie Bell, Boaz Feldman and Rufus Pollock</p>
+    <div className="cc-btns">
+      <a className="cc-btn" href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link">Full paper (PDF)</a>
+      <a className="cc-lnk" href="https://drive.google.com/file/d/1jyl0t7MCBgcMBlH2nnlTDQa6e85JDCNL/view?usp=share_link">Executive summary (PDF)</a>
+      <a className="cc-lnk" href="#executive-summary">Read the summary below</a>
+    </div>
+  </div>
+  <div className="cc-paperhead-cover"><a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link"><img src="/assets/paper/ds-paper-cover-2025.jpg" alt="Cover of the whitepaper" /></a></div>
 </div>
 
 ## Abstract
@@ -21,15 +32,9 @@ We aim to help build an evidence-based movement for Developmental Spaces, provid
 
 > *“I think hard times are coming, when we will be wanting voices… who can see alternatives to how we live now, and can see through our fear-stricken society and its obsessive technologies, to other ways of being.”* – Ursula K Le Guin (2014)
 
-<a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link"><img src="/assets/paper/ds-paper-cover-2025.jpg" /></a>
-
-<div className="ds-buttons-container not-prose">
-<a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link" className="ds-button">Read the paper (PDF)</a>
-</div>
-
 ---
 
-# Executive Summary
+## Executive Summary
 
 ## Introduction
 
