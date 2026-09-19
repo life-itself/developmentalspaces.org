@@ -54,5 +54,6 @@
         "name": "News"
       }
     ]
-  }
+  },
+  "head": "<script type=\"application/ld+json\">[{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Conscious Communities\",\"alternateName\":\"Developmental Spaces\",\"url\":\"https://developmentalspaces.org\",\"logo\":\"https://developmentalspaces.org/assets/cc-favicon.png\",\"parentOrganization\":{\"@type\":\"Organization\",\"name\":\"Life Itself\",\"url\":\"https://lifeitself.org\"}},{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Conscious Communities\",\"url\":\"https://developmentalspaces.org\"}]</script>"
 }
