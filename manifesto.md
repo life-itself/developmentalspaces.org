@@ -3,6 +3,7 @@ showToc: false
 showSidebar: false
 title: The Developmental Spaces Manifesto
 description: We call for the creation of developmental spaces. Read and sign.
+image: "https://screenshotit.app/https://developmentalspaces.org/manifesto@social"
 ---
 
 <div className="cc-manifesto not-prose">

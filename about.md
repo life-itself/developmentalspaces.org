@@ -4,6 +4,7 @@ title: About
 description: Conscious Communities is the home of the developmental spaces field, an initiative of Life Itself and friends.
 showToc: false
 showSidebar: false
+image: "https://screenshotit.app/https://developmentalspaces.org/about@social"
 ---
 
 <div class="cc-page">

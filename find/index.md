@@ -4,6 +4,7 @@ title: Find — Developmental Spaces
 description: Find a space to join, or exemplars of developmental spaces already underway.
 showToc: false
 showSidebar: false
+image: "https://screenshotit.app/https://developmentalspaces.org/find@social"
 ---
 
 <div class="cc-page">

@@ -4,6 +4,7 @@ title: Learn — Explore Conscious Community Living
 description: Discover what conscious coliving is, whether it's for you, and how to get started — free courses, honest guides, curated reading.
 showToc: false
 showSidebar: false
+image: "https://screenshotit.app/https://developmentalspaces.org/learn@social"
 ---
 
 <div class="cc-page">

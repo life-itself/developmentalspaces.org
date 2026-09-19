@@ -2,6 +2,7 @@
 title: What is a developmental space?
 description: A place dedicated to growth, where a community practises inner development across several domains at once.
 showSidebar: false
+image: "https://screenshotit.app/https://developmentalspaces.org/what@social"
 ---
 
 <div class="cc-catalogue">

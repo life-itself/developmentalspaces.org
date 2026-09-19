@@ -4,6 +4,7 @@ title: Fund — Capital for Developmental Spaces
 description: The capital and real-estate layer - investing in and financing conscious communities and developmental spaces.
 showToc: false
 showSidebar: false
+image: "https://screenshotit.app/https://developmentalspaces.org/fund@social"
 ---
 
 <div class="cc-page">

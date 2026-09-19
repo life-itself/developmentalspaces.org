@@ -2,6 +2,7 @@
 title: News & Notes
 description: Announcements and longer notes from Developmental Spaces. For regular updates, subscribe to the newsletter.
 showToc: false
+image: "https://screenshotit.app/https://developmentalspaces.org/blog@social"
 ---
 
 # News & Notes

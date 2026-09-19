@@ -4,6 +4,7 @@ title: Build — The Concept, the Field, the Craft
 description: The whitepaper, manifesto, network and design knowledge for creating developmental spaces.
 showToc: false
 showSidebar: false
+image: "https://screenshotit.app/https://developmentalspaces.org/build@social"
 ---
 
 <div class="cc-page">
