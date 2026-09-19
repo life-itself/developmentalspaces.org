@@ -23,9 +23,6 @@
     --color-l-background: #F5F5F3;
     --color-l-foreground: #111111;
     --color-l-accent: #111111;
-    --color-d-background: #161616;
-    --color-d-foreground: #EDEDE8;
-    --color-d-accent: #FFD23F;
     --color-cta-bg: #111111;
     --color-cta-bg-hover: #FFD23F;
     --color-cta-text: #F5F5F3;
@@ -107,6 +104,7 @@ body { line-height: 1.5; -webkit-font-smoothing: antialiased; }
 .cc-page a.cc-lnk, a.cc-lnk { border-bottom: 1px solid var(--cc-ink); padding-bottom: 1px; text-decoration: none !important; }
 .cc-page a.cc-lnk:hover, a.cc-lnk:hover { background: var(--cc-yellow); }
 .cc-paint { display: block; max-width: 100%; height: auto; }
+.cc-page a:focus-visible, a.cc-btn:focus-visible, button.cc-btn:focus-visible { outline: 3px solid var(--cc-ink); outline-offset: 3px; }
 
 .cc-domains { list-style: none; margin: 1.5rem 0 0; padding: 0; max-width: 40rem; }
 .cc-domains li { display: grid; grid-template-columns: 2rem 1fr; gap: .6rem; padding: .55rem 0; border-top: 1px solid var(--cc-rule); font-size: 1.05rem; }
@@ -158,6 +156,9 @@ body:has(.cc-page) .site-footer { display: none; }
 
 /* stream pages: smaller hero painting, list rows, yellow section */
 .cc-page .hero.hero-sm figure img { max-height: 26rem; }
+/* a yellow section directly under a hero gets air, and the painting's flat cut-out edge fades instead of meeting the seam */
+.cc-page .hero + .cc-yellow { margin-top: clamp(2rem, 5vw, 4rem); }
+.cc-page .hero figure img { -webkit-mask-image: linear-gradient(to bottom, #000 88%, transparent); mask-image: linear-gradient(to bottom, #000 88%, transparent); }
 .cc-page .hero .cc-yb.sm { width: 7rem; height: 3rem; margin-bottom: 2rem; }
 .cc-list { list-style: none; margin: 1.5rem 0 0; padding: 0; }
 .cc-list li { border-top: 1px solid var(--cc-rule); }

@@ -39,6 +39,8 @@ The site has three streams (Learn, Build, Fund) plus Find and About. Content is 
 
 Look at every changed page at 1440px and 400px wide before calling it done. Playwright with the Chromium headless shell works well for screenshots.
 
+To test a `custom.css` change without waiting for a publish or the edge cache: load the live page in Playwright and append the local file with `page.addStyleTag({ content })` after `goto`. Production inlines `custom.css` as a `<style>` tag, so there is no separate request to intercept, and a later style tag wins at equal specificity. This also works for `/build`, which the preview cannot render. Playwright's WebKit is a quick Safari check; `npx playwright install webkit` if the cached build is old.
+
 ## Changelog
 
 This repo keeps a `changelog/` folder, one markdown file per entry
