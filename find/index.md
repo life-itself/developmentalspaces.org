@@ -17,7 +17,7 @@ showSidebar: false
       <p>Whether you are looking for a space to join, or want to see what already exists, start here.</p>
     </div>
   </div>
-  <figure><img class="cc-paint" src="/assets/illustrations/vegetables.webp" alt="Watercolour of vegetables arranged by colour" /></figure>
+  <figure style="--ar:0.745"><img class="cc-paint" src="/assets/illustrations/vegetables.webp" style="aspect-ratio:819/1100" fetchpriority="high" decoding="async" alt="Watercolour of vegetables arranged by colour" /></figure>
 </section>
 
 <section class="cc-wrap cc-sec">

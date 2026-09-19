@@ -19,7 +19,7 @@ showSidebar: false
     </div>
     <div class="cc-btns"><a class="cc-btn" href="/fund/the-fund-we-almost-built">Read the story</a><a class="cc-lnk" href="/fund/archive">Browse the archive</a></div>
   </div>
-  <figure><img class="cc-paint" src="/assets/illustrations/table.webp" alt="Watercolour of a long table set for a meal" /></figure>
+  <figure style="--ar:1.297"><img class="cc-paint" src="/assets/illustrations/table.webp" style="aspect-ratio:1100/848" fetchpriority="high" decoding="async" alt="Watercolour of a long table set for a meal" /></figure>
 </section>
 
 <!-- the problem: yellow section, type only -->

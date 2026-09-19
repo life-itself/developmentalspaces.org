@@ -17,7 +17,7 @@ showToc: true
       <a className="cc-lnk" href="#executive-summary">Read the summary below</a>
     </div>
   </div>
-  <div className="cc-paperhead-cover"><a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link"><img src="/assets/paper/ds-paper-cover-2025.jpg" alt="Cover of the whitepaper" /></a></div>
+  <div className="cc-paperhead-cover"><a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link"><img src="/assets/paper/ds-paper-cover-2025.jpg" width="640" height="905" alt="Cover of the whitepaper" /></a></div>
 </div>
 
 ## Abstract
@@ -60,7 +60,7 @@ While human development is already institutionally supported (e.g. schools, trai
 
 Just as we distinguish biology from chemistry in the physical sciences, we can distinguish multiple **domains of inner development** \- each with particular growth dynamics, maps, and practices. The classification we adopt here is adapted from Integral Theory (detail follows).
 
-<img src="/assets/paper/domains-5.png" width="450px" alt="Five hand-drawn circles arranged in a ring, labelled Cognitive, Waking up, Cleaning up, Showing up and Growing up" />
+<img src="/assets/paper/domains-5.png" width="450" height="448" alt="Five hand-drawn circles arranged in a ring, labelled Cognitive, Waking up, Cleaning up, Showing up and Growing up" />
 
 *Five major domains of inner development using nomenclature from Integral Theory*
 

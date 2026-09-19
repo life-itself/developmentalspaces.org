@@ -18,7 +18,7 @@ showSidebar: false
       <p>It is part of a <a class="cc-lnk" href="https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces">wider effort at Life Itself</a>, together with Fetzer, Ekskäret, Commonweal, Springboard and LIONE, to gather what is known and build a field for developmental spaces.</p>
     </div>
   </div>
-  <figure><img class="cc-paint" src="/assets/illustrations/monk.webp" alt="Watercolour of a monk holding a bowl" /></figure>
+  <figure style="--ar:0.525"><img class="cc-paint" src="/assets/illustrations/monk.webp" style="aspect-ratio:578/1100" fetchpriority="high" decoding="async" alt="Watercolour of a monk holding a bowl" /></figure>
 </section>
 
 <section class="cc-wrap cc-sec">
