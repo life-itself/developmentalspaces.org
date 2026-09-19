@@ -16,6 +16,8 @@ The site has three streams (Learn, Build, Fund) plus Find and About. Content is 
 - `docs/branding/design-direction.md`, section 7: the design rules in force (direction E, watercolour).
 - `bd list`: open work, tracked as beads. `bd show <id>` for the detail. The epic `coco-lxb` ("Redesign follow-ups") lists what to do next and in what order; `bd children coco-lxb` shows the tree.
 
+- Beads carry a recommended-model label: `model:fable` for taste-heavy or writing-heavy work (copy, illustration direction, new layouts, the announcement) and `model:sonnet` for work that follows patterns already in the repo (page migration, QA fixes, rollout, tooling). It is a recommendation, not a rule. `bd list -l model:fable` or `bd list -l model:sonnet` filters by it.
+
 `docs/` is excluded from the published site (`contentExclude` in `config.json`) but is visible on the public GitHub repo, so do not put anything private in it. `sandbox/` is git-ignored scratch space for large source files.
 
 ## Design rules (short version)
