@@ -107,4 +107,9 @@ PLACEHOLDER COPY (coco-033, for the copy pass coco-jhk). Draft by Claude, Rufus 
   <div class="cc-btns"><a class="cc-btn" href="/wiki/definitions-of-a-developmental-space">Read the earlier outlines</a></div>
 </section>
 
+<footer class="cc-wrap cc-foot">
+  <div><b>Conscious Communities</b><br/>Developmental spaces where people grow.</div>
+  <div>An initiative of Life Itself and friends.</div>
+</footer>
+
 </div>

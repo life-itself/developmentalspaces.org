@@ -175,6 +175,6 @@ Developmental spaces require both scaling provision and nurturing existing space
 
 **Visibility and participation:** build cultural traction through accessible courses, directories, and a compelling public narrative that positions DS as a credible life pathway.
 
-<div className="ds-buttons-container not-prose">
-<a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link" className="ds-button">Read the paper (PDF)</a>
+<div className="cc-btns not-prose">
+<a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link" className="cc-btn">Read the paper (PDF)</a>
 </div>

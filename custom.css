@@ -76,18 +76,17 @@ body { line-height: 1.5; -webkit-font-smoothing: antialiased; }
 .page-hero-title { line-height: 1; font-weight: 400; letter-spacing: -.04em; }
 .page-hero-description { margin-top: 1.5rem; line-height: var(--line-height-loose); }
 .page-hero-ctas-container { margin-top: 2.5rem; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; row-gap: 1rem; column-gap: 1rem; }
-.ds-buttons-container { margin-top: 0; display: flex; justify-content: start; align-items: center; flex-wrap: wrap; row-gap: 1rem; column-gap: 1rem; }
-.page-hero-ctas-container > * + *, .ds-buttons-container > * + * { margin-left: 0; }
-.page-hero-cta:first-of-type, .ds-button:first-of-type {
+.page-hero-ctas-container > * + * { margin-left: 0; }
+.page-hero-cta:first-of-type {
     border-radius: 0; background-color: var(--cc-ink); color: var(--cc-page);
     padding: .8rem 1.4rem; font-family: var(--font-sans); font-size: 1.05rem; font-weight: 400; transition: background-color 200ms, color 200ms;
 }
-.page-hero-cta:first-of-type:hover, .ds-button:first-of-type:hover { background-color: var(--cc-yellow); color: var(--cc-ink); }
-.page-hero-cta + .page-hero-cta, .ds-button + .ds-button {
+.page-hero-cta:first-of-type:hover { background-color: var(--cc-yellow); color: var(--cc-ink); }
+.page-hero-cta + .page-hero-cta {
     padding: .8rem 1.4rem; border: 1px solid var(--cc-ink); color: var(--cc-ink);
     font-family: var(--font-sans); font-size: 1.05rem; font-weight: 400; transition: background-color 200ms;
 }
-.page-hero-cta + .page-hero-cta:hover, .ds-button + .ds-button:hover { background: var(--cc-yellow); }
+.page-hero-cta + .page-hero-cta:hover { background: var(--cc-yellow); }
 
 /* ============================================================
    Shared primitives (cc-*)
@@ -206,53 +205,6 @@ body:has(.cc-page) .site-footer { display: none; }
 .cc-catalogue .item b { font-family: var(--font-heading); font-weight: 400; font-style: italic; font-size: 1.2rem; letter-spacing: -.02em; text-align: center; }
 .cc-catalogue .item span { font-family: var(--font-sans); font-size: .9rem; color: var(--cc-mute); text-align: center; max-width: 18rem; justify-self: center; }
 .prose .cc-catalogue p { margin: 0; }
-
-/* ============================================================
-   Legacy component classes (interior pages still use ds-*),
-   restyled to the new tokens so nothing looks orphaned.
-   ============================================================ */
-.ds-mono { font-family: var(--font-sans); font-size: .95rem; letter-spacing: 0; text-transform: none; color: var(--cc-mute); }
-.ds-display { font-weight: 400; line-height: 1.02; letter-spacing: -.035em; }
-.ds-oxblood { color: inherit; font-style: italic; }
-.ds-gilt { color: var(--cc-mute); }
-.ds-faded { color: var(--cc-mute); }
-.ds-smallcaps { font-family: var(--font-sans); }
-.ds-rule { border: 0; height: 1px; background: var(--cc-rule); }
-.ds-ms { display: grid; grid-template-columns: 1fr; gap: 1rem; max-width: 72rem; margin: 0 auto; align-items: start; }
-.ds-rubric { color: var(--cc-mute); font-family: var(--font-sans); }
-@media (min-width: 900px) {
-    .ds-ms { grid-template-columns: 11rem minmax(0, 1fr); gap: 3.5rem; }
-    .ds-rubric { text-align: right; padding-top: .5rem; border-right: 1px solid var(--cc-rule); padding-right: 1.5rem; margin-right: -1.75rem; }
-}
-.ds-spine { background: var(--cc-yellow); color: var(--cc-ink); }
-.ds-spine .ds-rubric { color: #5a4a00; border-color: rgba(0,0,0,.15); }
-.ds-spine p { color: #2a2400; }
-.ds-spine .ds-display, .ds-spine h2, .ds-spine strong { color: var(--cc-ink); }
-.ds-spine .ds-gilt, .ds-spine .ds-mono { color: #5a4a00; }
-.ds-bleed { width: 100vw; position: relative; left: 50%; margin-left: -50vw; }
-.ds-card { border: 1px solid var(--cc-rule); padding: 1.75rem; background: #fff; transition: border-color .2s; display: block; text-decoration: none !important; }
-.ds-card:hover { border-color: var(--cc-ink); }
-.ds-domain-row { display: grid; grid-template-columns: 2.5rem 14rem 1fr; gap: 1rem; padding: .9rem 0; border-bottom: 1px solid var(--cc-rule); }
-@media (max-width: 700px) { .ds-domain-row { grid-template-columns: 2rem 1fr; } .ds-domain-row em { grid-column: 2; } }
-.ds-btn { display: inline-block; padding: .8rem 1.4rem; font-family: var(--font-sans); font-weight: 400; font-size: 1.05rem; line-height: 1.2; text-decoration: none !important; border: 1px solid var(--cc-ink); color: var(--cc-ink); transition: background-color .2s, color .2s; }
-.ds-btn-solid { background: var(--cc-ink); color: var(--cc-page) !important; }
-.ds-btn-solid:hover { background: var(--cc-yellow); color: var(--cc-ink) !important; }
-.ds-btn-ghost { border: 1px solid var(--cc-ink); color: var(--cc-ink) !important; }
-.ds-btn-ghost:hover { background: var(--cc-yellow); }
-.ds-btn-oxblood { background: var(--cc-yellow); border-color: var(--cc-yellow); color: var(--cc-ink) !important; }
-.ds-spiral-path { stroke: var(--cc-mute); }
-.ds-band { background: #fff; }
-.ds-etch { filter: none; mix-blend-mode: multiply; }
-.ds-cols { display: grid; grid-template-columns: 1fr; gap: 2.5rem; align-items: center; }
-.ds-desktop-only { display: none; }
-@media (min-width: 900px) { .ds-cols { grid-template-columns: 1fr 16rem; } .ds-desktop-only { display: block; } }
-.ds-card-img { padding: 0; overflow: hidden; }
-.ds-card-img img { width: 100%; aspect-ratio: 16/7; object-fit: cover; display: block; filter: none; }
-.ds-card-img .ds-card-body { padding: 1.5rem 1.75rem 1.75rem; }
-.ds-minicard { border: 1px solid var(--cc-rule); padding: 1rem 1.25rem; background: #fff; display: block; text-decoration: none !important; transition: border-color .2s; font-size: 1.05rem; }
-.ds-minicard:hover { border-color: var(--cc-ink); }
-.ds-grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: .9rem; }
-.ds-grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1.25rem; }
 
 /* ============================================================
    Whitepaper and manifesto heads (markdown pages with a designed opener)
