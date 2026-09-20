@@ -26,7 +26,8 @@ The site has three streams (Learn, Build, Fund) plus Find and About. Content is 
 - PT Serif for text and headings, titles set tight (about -0.045em) with an italic second line. Source Sans 3 for navigation, captions and buttons. No monospace, no tracked uppercase eyebrows.
 - Illustration carries ideas. Photographs carry evidence, and only as captioned plates on pages about actual places (exemplars, Find). No photographs on the front door, no stock imagery, no generated imagery presented as photography.
 - Illustrations live in `assets/illustrations/`. They are currently paintings borrowed from the Awami Conscious Food book (Life Itself, illustrated by Jennifer Chan) and are stand-ins until new work exists.
-- Page components are `cc-*` classes in `custom.css`. Copy the patterns already used in `index.md` and `learn/index.md` rather than inventing new ones. The older `ds-*` classes are kept only for pages not yet migrated.
+- Page components are `cc-*` classes in `custom.css`. Copy the patterns already used in `index.md` and `learn/index.md` rather than inventing new ones. The legacy `ds-*` classes are gone; nothing in the markdown uses them. Long prose (wiki notes, lessons, the fund archive documents) stays in the default Flowershow reading layout on purpose.
+- A `.cc-page` hides the site footer (`body:has(.cc-page) .site-footer`), so end every designed page with the `<footer class="cc-wrap cc-foot">` block used in `about.md` or `learn/index.md`, inside the `cc-page` div.
 - Copy (hero, tagline, door sentences) is a separate human job tracked in a bead. Do not rewrite it unasked.
 - Fonts (PT Serif, Source Sans 3) are self-hosted from `assets/fonts/` (SIL OFL, latin and latin-ext only) through `@font-face` at the top of `custom.css`, so nothing render-blocking goes to Google. To add a weight, take the woff2 URLs from the Google Fonts `css2` response (send a Chrome user agent) and add a rule.
 - Flowershow strips `width` and `height` from `<img>` in pages (both raw HTML and MDX), so they cannot prevent layout shift. Reserve space with `style="aspect-ratio:W/H"` on the image, and on a hero or yellow-section `<figure>` also set `style="--ar:W/H as a number"` (for example `0.867`); the CSS sizes the figure from `--ar`. Give the first (hero) painting on a page `fetchpriority="high" decoding="async"` and every painting below the fold `loading="lazy" decoding="async"`.
@@ -36,12 +37,22 @@ The site has three streams (Learn, Build, Fund) plus Find and About. Content is 
 `fl . --yes` publishes the working tree to the preview site named in `.flowershow` (https://ds-redesign-preview-rufuspollock.flowershow.me). Quirks worth knowing:
 
 - `fl` skips any folder named `build`, so `/build` only renders in production. To check it, copy `build/index.md` to a temporary top-level file such as `zz-tmp.md`, publish, look, delete it and publish again.
+- After `fl . --yes` the preview's page HTML can also lag by up to a minute or two: poll it with `curl` for a string you just added before screenshotting. Images with `loading="lazy"` may not render in full-page screenshots; remove the attribute and scroll first.
 - The preview serves `custom.css` from an edge cache that can lag ten to twenty minutes after a publish. Compare `md5 -q custom.css` with the md5 of `curl -sL <preview>/custom.css?x=$RANDOM` before deciding a style change is broken.
 - The preview ignores `contentExclude`, so `docs/` and `.beads/config.yaml` show up there but not in production. Check exclusions against the live site, and check raw files as well as pages (`curl -sIL <url>` follows the redirect to the raw file). Root files such as `AGENTS.md` need the filename form in `contentExclude`, not only `/AGENTS`.
 
 Look at every changed page at 1440px and 400px wide before calling it done. Playwright with the Chromium headless shell works well for screenshots.
 
 To test a `custom.css` change without waiting for a publish or the edge cache: load the live page in Playwright and append the local file with `page.addStyleTag({ content })` after `goto`. Production inlines `custom.css` as a `<style>` tag, so there is no separate request to intercept, and a later style tag wins at equal specificity. This also works for `/build`, which the preview cannot render. Playwright's WebKit is a quick Safari check; `npx playwright install webkit` if the cached build is old.
+
+## Site config that works in production (Flowershow premium features)
+
+All in `config.json`, and all checked against the deployed HTML, not the preview:
+
+- `image`: default social card (`assets/og-card.jpg`). A page's own `image:` frontmatter overrides it; the main pages point at `https://screenshotit.app/https://developmentalspaces.org/<path>@social`, a screenshot of the live page (2400x1260 webp, cached a day, captured on first request). Drop the frontmatter line to fall back to `og-card.jpg`.
+- `sidebar.paths: ["/wiki"]`: the file-tree sidebar appears only under `/wiki`. Other pages show no tree, so excluded folders cannot leak into one.
+- `head`: raw HTML injected into every page's `<head>` (used for the Organization and WebSite JSON-LD). Site-wide only, so no per-page structured data.
+- `twitter:creator` is emitted by Flowershow as `@flowershowapp` and has no documented setting.
 
 ## Changelog
 
