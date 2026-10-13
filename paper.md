@@ -1,6 +1,6 @@
 ---
 title: "Developmental Spaces: Cultural incubators for a time of transformation"
-description: The whitepaper. Rosie Bell, Boaz Feldman and Rufus Pollock, September 2025.
+description: The whitepaper. Rufus Pollock, Rosie Bell and Boaz Feldman. September 2025.
 showSidebar: false
 showToc: true
 image: "https://screenshotit.app/https://developmentalspaces.org/paper@social"
@@ -11,7 +11,7 @@ image: "https://screenshotit.app/https://developmentalspaces.org/paper@social"
     <span className="cc-yb sm"></span>
     <p className="cc-cap">Whitepaper · September 2025</p>
     <h1 className="cc-display cc-h2">Developmental Spaces: cultural incubators for a time of transformation</h1>
-    <p className="cc-sub">Rosie Bell, Boaz Feldman and Rufus Pollock</p>
+    <p className="cc-sub">Rufus Pollock, Rosie Bell and Boaz Feldman</p>
     <div className="cc-btns">
       <a className="cc-btn" href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link">Full paper (PDF)</a>
       <a className="cc-lnk" href="https://drive.google.com/file/d/1jyl0t7MCBgcMBlH2nnlTDQa6e85JDCNL/view?usp=share_link">Executive summary (PDF)</a>
